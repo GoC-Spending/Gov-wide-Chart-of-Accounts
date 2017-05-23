@@ -10,8 +10,6 @@ ________________________________________________________________________________
 
 Updated : 2017-04-07
 
-
-
 Table of contents
 7.1 	Introduction
 7.1.1 	Object Classification Structure
@@ -2415,14 +2413,11 @@ This object includes the following pay entitlement codes:
 
 This object will include all expenditures charged to the following pay entitlement
 codes:
-286 	Public Service Superannuation Act (PSSA) 2 	Fund Return of Contributions (ROC)
-287 	PSSA 2 	Fund ROC Interest
-293 	Retirement Compensation Arrangement (RCA) 2 	ROC
-294 	RCA 2 	ROC Interest
+286 	Public Service Superannuation Act (PSSA) 2 Fund Return of Contributions (ROC)
+287 	PSSA 2 Fund ROC Interest
+293 	Retirement Compensation Arrangement (RCA) 2 ROC
+294 	RCA 2 ROC Interest
 
 Footnotes
 1 Entitlement codes relate to entities for which Treasury Board does not
 represent the employer.
-
-
-
