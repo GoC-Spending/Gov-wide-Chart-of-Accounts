@@ -10,6 +10,8 @@ ________________________________________________________________________________
 
 Updated : 2017-04-07
 
+
+
 Table of contents
 7.1 	Introduction
 7.1.1 	Object Classification Structure
@@ -224,10 +226,6 @@ focus groups and media monitoring services. It also includes services for
 speech writing, press releases, briefing, press conferences and special events.
 Professional and special services (04)
 Provision for all professional services performed by individuals or
-Page 7 	of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
-
 organizations such as payments (in the nature of fees, commissions, etc.) for
 the services of accountants, lawyers, architects, engineers, scientific analysts,
 reporters, and translators; for teachers at various levels of educational
@@ -273,21 +271,17 @@ maintenance of government services such as:
 gasoline and oil purchased in bulk; fuel for ships, planes, transport and
 heating
 feed for livestock
-food a n d o th e r s u p p lie s f o r s h i p s a n d o t h e r e s t a b l i s h m e n t s
+food and other supplies for ships and other establishments
 livestock purchased for ultimate consumption or resale
 seed for farming operations
 books and other publications purchased for outside distribution
-Page 8 	of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
-
 uniforms and kits
 photographs, maps and charts purchased for administrative and
 operational purposes
 laboratory and scientific supplies, including samples for testing
 drafting, blueprinting and artists' supplies; supplies for surveys and
 investigations;
-chem ic a ls p ro d u c t
+chemicals product
 hospital, surgical and medical supplies
 works of art for exhibits, and historical material for galleries, museums
 and archives
@@ -330,10 +324,6 @@ normally acquired with that equipment at the time of purchase.
 Transfer payments (10)
 Grants, contributions, and all other transfer payments made by government.
 Major social assistance payments made to persons such as Old Age Security
-Page 9 	of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
-
 benefits and related allowances, Veterans’ pensions and allowances.
 Payments to the provinces and territories under the Constitution Acts, the
 Federal-Provincial Fiscal Arrangements Act, the Canada Health and Social
@@ -383,86 +373,19 @@ Description
 Government-wide Object
 Codes
 
-01
+01 Personnel 0100-0199
+02 Transportation and communications 0200-0299
+03 Information 0300- 0399
+04 Professional and special services 0400-0499, 0800-0899
+05 Rentals 0500-0599
+06 Repair and maintenance 0600-0699
+07 Utilities, materials and supplies 0700- 0799, 1100-1199
+08 Acquisition of land, buildings and works 1300-1399
+09 Acquisition of machinery and equipment 1200-1299
+10 Transfer payments 2000-2999
+11 Public Debt charges 3100-3199
+12 Other subsidies and payments 3000-3099, 3200-3799
 
-Personnel
-
-0100- 0199
-
-02
-
-Transportation and
-communications
-
-0200- 0299
-
-Page 10 	of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
-
-03
-
-Information
-
-0300- 0399
-
-04
-
-Professional and special
-services
-
-0400- 0499, 0800- 0899
-
-05
-
-Rentals
-
-0500- 0599
-
-06
-
-R e p a ir a n d m a in te n a n c e
-
-0600- 0699
-
-07
-
-Utilities, materials and
-supplies
-
-0700- 0799, 1100- 1199
-
-08
-
-Acquisition of land, buildings
-1300- 1399
-and works
-
-09
-
-Acquisition of machinery and
-1200- 1299
-equipment
-
-10
-
-Transfer payments
-
-2000- 2999
-
-11
-
-Public Debt charges
-
-3100- 3199
-
-12
-
-Other subsidies and payments 3000- 3099, 3200- 3799
-
-Page 11 	of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
 
 7.2 	Object codes Summary for 2015-2016
 
@@ -733,7 +656,7 @@ A Objects of expenditure
 1133 	Explosives, fireworks, and pyrotechnic products, etc.
 1134 	Photographic or cinematography goods
 1139 	Miscellaneous chemical products
-114 	Wood , p a p e r a n d w o o d pr o d u c t s
+114 	Wood, paper and woodproducts
 1141 	Wood and articles of wood
 1142 	Paper and paperboard
 1143 	Printed matter, including books, newspapers, pictures, manuscripts and forms
@@ -1227,7 +1150,7 @@ departments or other programs within a department 1
 488 	Receipts from non-budgetary funds and accounts
 4880 	Administration of the Employment Insurance Account, including cost recoveries
 4883 	Revenue from the Canada Pension Plan
-4888 	Reallo c a tio n fro m n o n -bu d g e t a r y f u n d s a n d a c c o u n t s
+4888 	Reallocation from non-budgetary funds and accounts
 4889 	Other receipts from non-budgetary funds and accounts
 489 	Miscellaneous Other revenue
 4892 	Gain on revaluation of foreign currency assets and liabilities
@@ -1235,8 +1158,8 @@ departments or other programs within a department 1
 4893 	Removal of low value amounts related to accounts receivable
 4899 	Other
 
-C Objects for Assets, Liabilities and Other
-transactions
+C Objects for Assets, Liabilities and Other transactions
+
 5 	Assets
 50 	Loans, investments, and advances
 501 	Loans
@@ -1245,8 +1168,7 @@ transactions
 5013 	Loans to appropriation-dependent Crown corporations (ADCCs)
 5015 	Settlement of loans with cash
 5016 	Settlement of loans with other assets
-5018 	Repayment of loans from appropriation-dependent Crown corporations
-(ADCCs)
+5018 	Repayment of loans from appropriation-dependent Crown corporations (ADCCs)
 5020 	Foreign currency translation of loans
 5021 	Write-off of loans
 5029 	Other adjustments to Loans
@@ -2413,10 +2335,10 @@ This object includes the following pay entitlement codes:
 
 This object will include all expenditures charged to the following pay entitlement
 codes:
-286 	Public Service Superannuation Act (PSSA) 2 Fund Return of Contributions (ROC)
-287 	PSSA 2 Fund ROC Interest
-293 	Retirement Compensation Arrangement (RCA) 2 ROC
-294 	RCA 2 ROC Interest
+286 	Public Service Superannuation Act (PSSA) 2 	Fund Return of Contributions (ROC)
+287 	PSSA 2 	Fund ROC Interest
+293 	Retirement Compensation Arrangement (RCA) 2 	ROC
+294 	RCA 2 	ROC Interest
 
 Footnotes
 1 Entitlement codes relate to entities for which Treasury Board does not
