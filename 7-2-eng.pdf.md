@@ -2,146 +2,137 @@ Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015
 
 Receiver General for Canada
 _________________________________________________________________________________________
+
 Government–wide Chart of Accounts - 2015-2016
 Chapter 7- Object codes - Summary
+
 _________________________________________________________________________________________
 
 Updated : 2017-04-07
 
-Page 1of 55
 
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
 
 Table of contents
-Table of contents
-7.1Introduction
-7.1.1Object Classification Structure
-7.2Object codes Summary for 2015-2016
+7.1 	Introduction
+7.1.1 	Object Classification Structure
+7.2 	Object codes Summary for 2015-2016
 A Objects of expenditure
 B Objects for revenue
 C Objects for Assets, Liabilities and Other transactions
 Appendix A - Release notes in date order - Object codes for 2015-2016
 Appendix A - Release notes in code order - Object codes for 2015-2016
-7.4List of pay entitlement codes for 2015–2016
+7.4 	List of pay entitlement codes for 2015–2016
 
-Page 2of 55
 
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
+7.1 	Introduction
 
-Page 3of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
-
-7.1Introduction
 This chapter provides information on the object code classification and includes
-in Section 7.2of this chapter the list of Object Codes as follows:
-Objects of Expenditure;
-Objects for Revenue; and
-Objects for Assets, Liabilities and Other Transactions.
+in Section 7.2 	of this chapter the list of Object Codes as follows:
+- Objects of Expenditure;
+- Objects for Revenue; and
+- Objects for Assets, Liabilities and Other Transactions.
+
 The object classification is a field of the government-wide coding block that
 identifies the type of goods or services acquired, the transfer payments made, the
 source of revenue or the cause of increases or decreases in assets and liabilities.
+
 The object information provides:
-A method for classifying and coding transactions to permit the reporting of
+- A method for classifying and coding transactions to permit the reporting of
 information about the nature of transactions in the Estimates and in the
 Public Accounts;
-A standard classification of transactions for internal departmental analysis
+- A standard classification of transactions for internal departmental analysis
 and central management purposes; and
-The basis used by Statistics Canada to determine and report more accurately
+- The basis used by Statistics Canada to determine and report more accurately
 the impact of government revenues and expenditures on the rest of the
 economy.
+
 In addition, the object coding provides a repository of government-wide
 information, which can be used by central agencies without requiring departments
 and agencies to respond to numerous individual requests.
 
-7.1.1Object Classification Structure
+7.1.1 	Object Classification Structure
+
 To accommodate the need for various degrees of detail, other levels of object
 classification are used. In descending order of aggregation after categories and
 standard objects, there are reporting objects and economic, source and class
 objects.
 
 Categories (The first digit)
+
 This is the highest level of object aggregation. There are mainly eleven categories
 in the lists of Objects and are as follows:
-Objects of Expenditure comprise 4categories, which are Services, Goods,
+- Objects of Expenditure comprise 4 	categories, which are Services, Goods,
 Land, Buildings and Works, Transfer Payments and Other Expenditures.
-Objects for Revenue comprise 2categories, which are Tax Revenue and
+- Objects for Revenue comprise 2 	categories, which are Tax Revenue and
 Other Revenue. Tax Revenue consists of an object for Tax Revenues and
 Other Revenue is identified such as Rights and Privileges, Leases, Sales of
 Goods and Products, Services, Return on Investments and Miscellaneous
 Other Revenue.
-Objects for assets, liabilities and other transactions comprise 5categories,
+- Objects for assets, liabilities and other transactions comprise 5 	categories,
 which are Assets, Liabilities, Other, Accumulated Deficit and Identification of
 Partnering Department for Interdepartmental Settlement Transactions.
-
-Standard objects (01to 12)
-Page 4of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
 
 Standard objects are the highest level of object classification used for
 parliamentary and management purposes, and are used to report information in
 the Estimates and Public Accounts. They apply to expenditures only. (See Section
-7.1.4for a brief explanation of each Standard Object as presented in the
+7.1.4 	for a brief explanation of each Standard Object as presented in the
 Estimates). The allocation of the categories by standard object is as follows:
-Category 0– Services includes the following Standard Objects:
-01.
-02.
-03.
-04.
-05.
-06.
 
-Personnel;
-Transportation and communications;
-Information;
-Professional and Special Services;
-Rentals;
-Repair and Maintenance.
+Category 0– Services includes the following Standard Objects:
+01. Personnel;
+02. Transportation and communications;
+03. Information;
+04. Professional and Special Services;
+05. Rentals;
+06. Repair and Maintenance.
 
 Category 1– Goods, Land, Buildings and Works includes the following Standard
 Objects:
+
 07. Utilities, Materials and Supplies;
 08. Acquisition of Land, Buildings, and Works;
 09. Acquisition of Machinery and Equipment.
+
 Category 2– Transfer payments include the following Standard Object:
 10. Transfer Payments.
+
 Category 3– Other expenditures include the following Standard Objects:
 11. Public Debt Charges;
 12. Other Subsidies and Payments.
 
 Sub-categories (The first two digits)
+
 Sub-categories are a primary breakdown of each category. In many cases, they are
 the same as the standard objects.
 
 Reporting objects (The first three digits)
+
 Reporting objects are a sub-division of sub-categories, which are used for central
 management purposes.
 
 Economic, source and class objects (The four digits)
+
 Economic, source and class objects are the lowest levels of object classification
-u s e d f o r g o v e r n m e n t - w i d e r e p o r t i n g p u r p o s e s . Economic objects apply to
+used for government - wide reporting purposes. Economic objects apply to
 expenditures only and measure the impact of government transactions on the
 economy. The expenditures are classified according to the type of resources
 (goods and services) acquired or the transfer payments made. Source objects
 identify the origin of a receipt and apply to tax revenue and other revenue. Class
-o b j e c t s identify the causes of increases or decreases to financial claims or
+objects identify the causes of increases or decreases to financial claims or
 obligations.
 As most departments or agencies require more detail, transactions may be
 classified by departmental line object in the departmental system. To permit the
 consolidation and comparison of information from all departments, the line
-Page 5of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
-
 objects must be aligned with the objects prescribed in Section 7.2.
 
-7.1.2Maintenance of Object Codes
+7.1.2 	Maintenance of Object Codes
+
 List of Objects
 The object codes that are to be recorded for expenditures, revenue, assets,
 liabilities, and other transactions are listed on the Government-wide Chart of
-Accounts (GWCOA) Web site as section 7.2of this chapter. The list is updated
+Accounts (GWCOA) Web site as section 7.2 	of this chapter. The list is updated
 regularly to include all changes made to the object codes.
+
 List of descriptions
 Interpretation and analysis of financial information require the classification and
 coding of transactions to be correctly and consistently applied.
@@ -154,18 +145,19 @@ applicable, a copy of the relevant descriptions should also be made available to
 departmental personnel involved in coding to help ensure consistent coding and
 reporting, both within the department and within the government as a whole.
 
-7.1.3Pay Entitlement Codes
+7.1.3 	Pay Entitlement Codes
 A pay entitlement code classifies the type of remuneration paid to employees
 pursuant to a collective bargaining agreement, the terms and conditions of
-e mployment, o r o th e r a rra n g e m e n t s . T h e s e c o d e s a r e i s s u e d t o d e p a r t m e nts and
+employment, or other arrangements. These codes are issued to departments and
 agencies by Public Works and Government Services Canada (Compensation
 Sector). The pay entitlement codes are listed with the lists of Objects to improve
 consistency and accuracy in the alignment of pay entitlement codes to economic
 objects mainly in standard object 01. The List of Pay Entitlement Codes is
-included as Appendix C to Section 7.2of this chapter.
+included as Appendix C to Section 7.2 	of this chapter.
 
-7.1.4Brief Definition of Each Standard Object
+7.1.4 	Brief Definition of Each Standard Object
 Personnel (01)
+
 Salaries and wages, overtime, severance pay, retroactive pay and other special
 pay of civilian continuing (full-time) or term (part-time, seasonal and casual)
 employees except those of agency and proprietary Crown corporations, as
@@ -176,22 +168,22 @@ of allowances paid to or in respect of continuing and term employees (such
 as living, terminable, foreign service, isolated post, board and subsistence
 allowances, shift differential allowances for assistants, and other such
 allowances).
+
 Ministers’ motor car allowances and the expense allowances to Senators and
 Members of the House of Commons.
 The government’s contribution to various employee benefit plans (the Public
 Service Superannuation Account, the Supplementary Retirement Benefits
-Page 6of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
 
 Account, the Canada Pension Plan Account, the Quebec Pension Plan, the
 Public Service Death Benefit Account and the Employment Insurance
 Account).
+
 The Royal Canadian Mounted Police Superannuation Account, the Canadian
 Forces Superannuation Account and the Members of Parliament Retiring
 Allowances Account, and the Government’s contribution to provincial and
-other med ic a l a n d h o s p ita l in s u r a n c e p l a n s a n d s u p p l e m e n t a r y p e r s onnel
+other medical and hospital insurance plans and supplementary personnel
 costs for various purposes.
+
 Transportation and communications (02)
 Traveling and transportation expenses of government employees, members
 of the Canadian Forces and the Royal Canadian Mounted Police, removal
@@ -234,7 +226,7 @@ focus groups and media monitoring services. It also includes services for
 speech writing, press releases, briefing, press conferences and special events.
 Professional and special services (04)
 Provision for all professional services performed by individuals or
-Page 7of 55
+Page 7 	of 55
 
 Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
 
@@ -262,12 +254,12 @@ Department of Public Works and Government Services.
 Hire and charter – with or without crew – of vessels, aircraft, motor vehicles
 and other equipment, and rental of telecommunication and office equipment
 including computers.
-Storage and warehousing services is, however, in standard object 04even though
+Storage and warehousing services is, however, in standard object 04 	even though
 it involves the rental of space.
 Repair and maintenance (06)
 The repair and upkeep under contract of the durable physical assets provided
-for in standard object 08for Acquisition of Land, Buildings, and Works and
-of equipment provided for in standard object 09for Acquisition of Machinery
+for in standard object 08 	for Acquisition of Land, Buildings, and Works and
+of equipment provided for in standard object 09 	for Acquisition of Machinery
 and Equipment.
 Payments to the Department of Public Works and Government Services for
 tenant services.
@@ -287,7 +279,7 @@ food a n d o th e r s u p p lie s f o r s h i p s a n d o t h e r e s t a b l i 
 livestock purchased for ultimate consumption or resale
 seed for farming operations
 books and other publications purchased for outside distribution
-Page 8of 55
+Page 8 	of 55
 
 Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
 
@@ -322,7 +314,7 @@ Expenditures pursuant to contracts for new construction for casual employees
 hired or continuing employees assigned to work full- or part-time on specified
 projects, travel, professional services, equipment rentals, equipment maintenance
 and of materials purchased directly for use on such projects are charged to the
-relevant standard objects (standard object 01to 09).
+relevant standard objects (standard object 01 	to 09).
 Acquisition of machinery and equipment (09)
 Expenditures for the acquisition of all machinery, equipment, office furniture
 and furnishings, electronic data processing and electronic or other office
@@ -340,7 +332,7 @@ normally acquired with that equipment at the time of purchase.
 Transfer payments (10)
 Grants, contributions, and all other transfer payments made by government.
 Major social assistance payments made to persons such as Old Age Security
-Page 9of 55
+Page 9 	of 55
 
 Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
 
@@ -382,7 +374,7 @@ of personal effects, and expenditures for small miscellaneous articles and
 services. Also included are many small items and services that do not lend
 themselves to identification under specific headings detailed in this summary.
 
-7.1.5Expenditure standard objects table
+7.1.5 	Expenditure standard objects table
 The following table lists the standard objects of expenditures with the
 corresponding government-wide object codes:
 Standard
@@ -406,7 +398,7 @@ communications
 
 0200- 0299
 
-Page 10of 55
+Page 10 	of 55
 
 Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
 
@@ -470,1245 +462,1027 @@ Public Debt charges
 
 Other subsidies and payments 3000- 3099, 3200- 3799
 
-Page 11of 55
+Page 11 	of 55
 
 Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
 
-7.2Object codes Summary for
-2015-2016
+7.2 	Object codes Summary for 2015-2016
+
 A Objects of expenditure
-0Services
-01Personnel
-010Salaries and wages
-0101Civilian regular time - Continuing employment 3
-0102Civilian regular time - Part-time, seasonal, casual and student 3
-0103Civilian premium pay for work during non-standard hours or other
-reasons 3
-0104Civilian holiday pay in lieu of leave 3
-0105Civilian overtime (for additional hours) 3
-0106Civilian bilingual bonus 3
-0107Civilian severance pay and termination benefits 3
-0108Civilian severance pay and termination benefits - Immediate Settlement 3
-0109Military and Royal Canadian Mounted Police (RCMP) members retroactive
-payments - Current fiscal year
-0110Civilian retroactive payments - Previous fiscal year(s) 3
-0111Civilian retroactive payments - Current fiscal year 3
-0112Civilian pay equity 3
-0113Other salaries and wages
-0114Royal Canadian Mounted Police (RCMP) members - Overtime
-0115 Military and Royal Canadian Mounted Police (RCMP) members - Regular
-time
-0116Military and Royal Canadian Mounted Police (RCMP) members Severance pay and termination benefits - Immediate settlement
-0117Military and Royal Canadian Mounted Police (RCMP) members Retroactive payments - Previous fiscal year(s)
-0118Military and Royal Canadian Mounted Police (RCMP) members - Holiday
-pay in lieu of leave
-0119Military and Royal Canadian Mounted Police (RCMP) members Severance pay and termination benefits
-0128Royal Canadian Mounted Police (RCMP) - Bilingual bonus
-012Allowances and other benefits
-0120Civilian - Allowances to compensate employees for certain expenses 3
-0121Civilian - Compensation for additional or specific duties performed 3
-0122Civilian - Pay equity allowances 3
-0123Civilian - Pay equity interest 3
-0124Civilian - Foreign service allowance
-0125Civilian - Isolated post allowance 3
-Page 12of 55
 
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
+0 	Services
+01 	Personnel
+010 	Salaries and wages
+0101 	Civilian regular time - Continuing employment 3
+0102 	Civilian regular time - Part-time, seasonal, casual and student 3
+0103 	Civilian premium pay for work during non-standard hours or other reasons 3
+0104 	Civilian holiday pay in lieu of leave 3
+0105 	Civilian overtime (for additional hours) 3
+0106 	Civilian bilingual bonus 3
+0107 	Civilian severance pay and termination benefits 3
+0108 	Civilian severance pay and termination benefits - Immediate Settlement 3
+0109 	Military and Royal Canadian Mounted Police (RCMP) members retroactive payments - Current fiscal year
+0110 	Civilian retroactive payments - Previous fiscal year(s) 3
+0111 	Civilian retroactive payments - Current fiscal year 3
+0112 	Civilian pay equity 3
+0113 	Other salaries and wages
+0114 	Royal Canadian Mounted Police (RCMP) members - Overtime
+0115 	Military and Royal Canadian Mounted Police (RCMP) members - Regular time
+0116 	Military and Royal Canadian Mounted Police (RCMP) members Severance pay and termination benefits - Immediate settlement
+0117 	Military and Royal Canadian Mounted Police (RCMP) members Retroactive payments - Previous fiscal year(s)
+0118 	Military and Royal Canadian Mounted Police (RCMP) members - Holiday pay in lieu of leave
+0119 	Military and Royal Canadian Mounted Police (RCMP) members Severance pay and termination benefits
+0128 	Royal Canadian Mounted Police (RCMP) - Bilingual bonus
+012 	Allowances and other benefits
+0120 	Civilian - Allowances to compensate employees for certain expenses 3
+0121 	Civilian - Compensation for additional or specific duties performed 3
+0122 	Civilian - Pay equity allowances 3
+0123 	Civilian - Pay equity interest 3
+0124 	Civilian - Foreign service allowance
+0125 	Civilian - Isolated post allowance 3
+0126 	Civilian - Other allowances and benefits 3
+0127 	Military and Royal Canadian Mounted Police (RCMP) members Allowances and benefits
+016 	Employer contributions
+0160 	Employer contribution to Public Service Superannuation Account (PSSA)- Current
+0161 	Employer contribution to Public Service Superannuation Account(PSSA) Actuarial deficiency
+0162 	Employer contribution to Public Service Death Benefit Account
+0164 	Employer contribution to the Canadian Forces Superannuation Account Current
+0165 	Employer contribution to the Canadian Forces Superannuation Account Actuarial deficiency
+0166 	Employer contribution to Canadian Forces Supplementary Death Benefit under Part II
+0167 	Employer contribution to Retirement Compensation Arrangements Account
+0168 	Employer contribution to the Royal Canadian Mounted Police (RCMP) Superannuation Account - Actuarial deficiency
+0169 	Employer contribution to Employment Insurance
+0170 	Employer contribution to Royal Canadian Mounted Police (RCMP) Superannuation Account
+0171 	Employer contribution to Members of Parliament Retirement Allowance Account
+0172 	Employer contribution to Canada and Quebec pension plans
+0173 	Employer contribution to other pension programs including Judges Act
+0174 	Employer contribution to hospital and medical plans
+0176 	Employer contribution for disability insurance
+0177 	Employer contributions - Other
+018 	Supplementary personnel costs
+0181 	Executive Interchange and other exchange programs
+0182 	Supplementary employee benefits 3
+0184 	Provincial workers? compensation boards payments and recoveries
+0185 	Other pension payments charged to expenses
+0186 	Other supplementary personnel costs 3
+0187 	Accrual of salaries and benefits
+0188 	Return of pension contributions charged to expenses
+02 	Transportation and communications
+020 	Relocation
+0207 	Employee relocation in Canada
+0208 	Employee relocation outside Canada and/or return
+021 	Postage, freight, express, and cartage
+0210 	Transportation of things not elsewhere specified
+0212 	Postage and parcel post
+0213 	Courier services
+022 	Telecommunication services
+0223 	Communications/Network services (includes services for analog, digital or combined analog & digital, parts, peripherals and cabling)
+0230 	Voice communications services
+0231 	Data communications services
+0232 	Image/Video communications services (includes telepresence/video conferencing services)
+025 	Travel - Public Servants
+0251 	Public servant travel - Support core mandate activities
+0252 	Public servant travel - Stakeholder engagement
+0253 	Public servant travel - Support internal governance
+0254 	Public servant travel - Employee training
+0255 	Public servant travel - Other reasons
+026 	Travel - Non-public servants
+0261 	Non-public servant travel - Support core mandate activities
+0262 	Non-public servant travel - Stakeholder engagement
+0263 	Non-public servant travel - Support internal governance
+0264 	Non-public servant travel - Support employee training
+0265 	Non-public servant travel - Other reasons
+03 	Information
+030 	Advertising services
+0301 	Advertising services
+031 	Publishing services
+0311 	Publishing services032 	Printing and imaging services
+0321 	Printing services
+0322 	Imaging services033 	Exposition and related services
+0331 	Exposition services
+0332 	Audio-visual services034 	Communications research services
+0341 	Communications research services
+035 	Communications professional services
+0351 	Communications professional services not elsewhere specified
+0352 	Public relations services036 	Subscriptions and data access services
+0361 	Electronic subscriptions and electronic publications
+0362 	Data and database access services
+04 	Professional and special services
+040 	Business services
+0401 	Accounting and audit services
+0402 	Human resources management services 1
+0403 	Financial management services 1
+0404 	Communications services 1
+0405 	Real property services 1
+0406 	Material services 1
+0407 	Acquisition services 1
+0811 	Contracted building cleaning
+0815 	Collection agency fees and charges
+0816 	Service provider fees related to loan administration
+0851 	Banking services
+0852 	Real estate services
+0853 	Provincial administration of public service and merchant seamen compensation legislation
+0854 	Motor vehicle licences
+0855 	Acquisition and contract charges
+0856 	Provincial/territorial administrative costs
+0859 	Other business services not elsewhere specified
+041 	Legal services
+0410 	Legal services
+042 	Engineering and architectural services
+0420 	Engineering services not elsewhere specified
+0421 	Architectural services
+0422 	Engineering consultants - Construction
+0423 	Engineering consultants - Other
+0495 	Services related to the assessment of potentially contaminated sites
+0496 	Services related to the remediation of contaminated sites
+0497 	Services related to the care and maintenance of contaminated sites
+0498 	Services related to the monitoring of previously contaminated sites
+043 	Scientific and research services
+0430 	Scientific services
+0431 	Scientific consultants
+0492 	Research contracts
+044 	Training and educational services
+0440 	Education - Non-public servants
+0444 	Teachers and instructors on contract
+0445 	Tuition fees for courses where employees take training on their own time 3
+0446 	Training consultants
+0447 	Tuition fees and costs of attending courses including seminars not elsewhere specified 3
+0448 	Purchase of training packages and courses
+045 	Health and welfare services
+0450 	Hospital services
+0451 	Other health services not elsewhere specified
+0452 	Welfare services
+0453 	Physicians and surgeons
+0454 	Paramedical personnel
+0455 	Dental services
+046 	Protection services
+0460 	Protection services
+047 	Informatics services
+0473 	Information technology and telecommunications consultants
+0474 	Information management services 1
+0475 	Information technology services 1
+0812 	Computer services (includes IT solutions/deliverables as well as IT managed services)
+048 	Management consulting
+0491 	Management consulting
+082 	Special fees and services
+0821 	Membership fees 3
+0822 	Hospitality
+0823 	Conference fees
+086 	Temporary help services
+0813 	Temporary help services
+087 	Interpretation and translation services
+0493 	Interpretation services
+0494 	Translation services
+088 	Construction services
+0881 	Construction services
+089 	Other services
+0499 	Other professional services not elsewhere specified
+0819 	Non-professional personal service contracts not elsewhere specified
+0890 	Other administrative service that is designated by order of the Governor in Council 1
+0891 	Personal services
+0892 	Recreational services
+05 	Rentals
+050 	Rental of land
+0501 	Rental of land
+051 	Rental of buildings
+0510 	Rental of residential buildings
+0511 	Rental of office buildings
+0512 	Rental of industrial and commercial buildings
+0513 	Rental of institutional buildings
+0514 	Rental of other buildings
+052 	Rental of informatics equipment
+0522 	Rental of image/video communications equipment (includes telepresence/video conferencing equipment, cabling, parts and peripherals)
+0582 	License/Maintenance fees for client software related to Distributed Computing Environment (DCE)
+0583 	License/Maintenance fees for application software (including COTS) and application development and delivery software
+0584 	License/Maintenance fees for operating system and utility software related to servers, storage, peripherals and components
+0585 	License/Maintenance fees for networking software
+0587 	Rental of computer equipment related to production and operations (P&O) environment - All servers, storage, printers, etc. (includes all related parts and peripherals)
+0588 	Rental of computer equipment related to Distributed Computing Environment (DCE) - Desktop/personal/portable (includes all related parts and peripherals)
+0589 	Rental of communications/networking equipment (includes analog, digital and combined analog/digital equipment, cabling, parts and peripherals)
+0590 	License/Maintenance fees for image/video communications software (includes telepresence/video conferencing software)
+053 	Rental of machinery, office furniture & fixtures, & other equipment
+0533 	Rental of machinery, office furniture and fixtures and other equipment
+054 	Rental of motor and other vehicles
+0540 	Rental of motor and other vehicles
+055 	Capital lease - Purchases
+0555 	Capital lease - Tangible capital assets
+056 	Rental of aircraft and ships
+0561 	Rental of aircraft
+0566 	Rental of ships
+057 	Rental - Other
+0570 	Rental - Other
+06 	Purchased repair and maintenance
+060 	Repair of engineering works
+0601 	Marine installations
+0607 	Highways, roads and streets
+0608 	Runways, landing fields and tarmac
+0611 	Waterworks and sewage systems
+0619 	Electric power installations
+0628 	Other engineering works
+063 	Repair of buildings
+0630 	Office buildings
+0634 	Commercial buildings
+0635 	Industrial buildings
+0639 	Institutional buildings
+0640 	Buildings and/or installations for telecommunications, computers and/or electronic/automated office systems
+0645 	Other buildings
+0646 	Residential buildings
+065 	Repair of machinery and equipment
+0655 	Processing machinery
+0656 	Heating, air-conditioning and refrigeration equipment
+0658 	Electric lighting, distribution and control equipment
+0660 	Measuring, controlling, laboratory, medical and optical instruments, apparatus and accessories
+0664 	Communications/Networking equipment (includes analog, digital and combined analog/digital equipment, cabling, parts and peripherals)
+0665 	Other equipment
+0668 	Image/Video communications equipment (includes telepresence/video conferencing equipment, cabling, parts and peripherals)
+0671 	Other office equipment
+0672 	Computer equipment related to production and operations (P&O) environment - All servers, storage, printers, etc. (includes all related parts and peripherals)
+0673 	Computer equipment related to Distributed Computing Environment (DCE) - Desktop/personal/portable (includes all related parts and peripherals)
+0675 	Ships and boats
+0676 	Aircraft
+0681 	Road motor vehicles - Military
+0682 	Road motor vehicles - Non-military
+0683 	Miscellaneous vehicles
+07 	Utilities (standard object 07)
+070 	Utility services
+0701 	Electricity
+0702 	Natural gas
+0703 	Sewer and water
+0705 	Waste disposal
+0709 	Other utility services
 
-0126Civilian - Other allowances and benefits 3
-0127Military and Royal Canadian Mounted Police (RCMP) members Allowances and benefits
-016Employer contributions
-0160Employer contribution to Public Service Superannuation Account (PSSA)
-- Current
-0161Employer contribution to Public Service Superannuation Account(PSSA) Actuarial deficiency
-0162Employer contribution to Public Service Death Benefit Account
-0164Employer contribution to the Canadian Forces Superannuation Account Current
-0165Employer contribution to the Canadian Forces Superannuation Account Actuarial deficiency
-0166Employer contribution to Canadian Forces Supplementary Death Benefit
-under Part II
-0167Employer contribution to Retirement Compensation Arrangements
-Account
-0168Employer contribution to the Royal Canadian Mounted Police (RCMP)
-Superannuation Account - Actuarial deficiency
-0169Employer contribution to Employment Insurance
-0170Employer contribution to Royal Canadian Mounted Police (RCMP)
-Superannuation Account
-0171Employer contribution to Members of Parliament Retirement Allowance
-Account
-0172Employer contribution to Canada and Quebec pension plans
-0173Employer contribution to other pension programs including Judges Act
-0174Employer contribution to hospital and medical plans
-0176Employer contribution for disability insurance
-0177Employer contributions - Other
-018S upp le me n ta ry p e rs o n n el c o s t s
-0181Executive Interchange and other exchange programs
-0182Supplementary employee benefits 3
-0184Provincial workers? compensation boards payments and recoveries
-0185O the r p e n s io n p a y m e n ts c h a r g e d t o e x p e n s e s
-0186Other supplementary personnel costs 3
-0187Accrual of salaries and benefits
-0188Return of pension contributions charged to expenses
-02Transportation and communications
-020Relocation
-0207Employee relocation in Canada
-0208Employee relocation outside Canada and/or return
-021Postage, freight, express, and cartage
-0210Transportation of things not elsewhere specified
-0212Postage and parcel post
-0213Courier services
-022Telecommunication services
-0223Communications/Network services (includes services for analog, digital
-or combined analog & digital, parts, peripherals and cabling)
-0230Voice communications services
-0231Data communications services
-0232Image/Video communications services (includes telepresence/video
-conferencing services)
-025Travel - Public Servants
-0251Public servant travel - Support core mandate activities
-0252Public servant travel - Stakeholder engagement
-0253Public servant travel - Support internal governance
-0254Public servant travel - Employee training
-0255Public servant travel - Other reasons
-026Travel - Non-public servants
-0261Non-public servant travel - Support core mandate activities
-0262Non-public servant travel - Stakeholder engagement
-0263Non-public servant travel - Support internal governance
-0264Non-public servant travel - Support employee training
-0265Non-public servant travel - Other reasons
-03Information
-030Advertising services
-0301Advertising services
-031Publishing services
-0311Publishing services032Printing and imaging services
-0321Printing services
-0322Imaging services033Exposition and related services
-0331Exposition services
-0332Audio-visual services034Communications research services
-0341Communications research services
-035Communications professional services
-0351Communications professional services not elsewhere specified
-0352Public relations services036Subscriptions and data access services
-0361Electronic subscriptions and electronic publications
-0362Data and database access services
-04Professional and special services
-040Business services
-0401Accounting and audit services
-0402Human resources management services 1
-0403Financial management services 1
-0404Communications services 1
-0405Real property services 1
-0406Material services 1
-0407Acquisition services 1
-0811Contracted building cleaning
-0815Collection agency fees and charges
-0816Service provider fees related to loan administration
-0851Banking services
-0852Real estate services
-0853Provincial administration of public service and merchant seamen
-compensation legislation
-0854Motor vehicle licences
-0855Acquisition and contract charges
-0856Provincial/territorial administrative costs
-0859Other business services not elsewhere specified
-041Legal services
-0410Legal services
-042Engineering and architectural services
-0420Engineering services not elsewhere specified
-0421Architectural services
-0422Engineering consultants - Construction
-0423Engineering consultants - Other
-0495Services related to the assessment of potentially contaminated sites
-0496Services related to the remediation of contaminated sites
-0497Services related to the care and maintenance of contaminated sites
-0498Services related to the monitoring of previously contaminated sites
-043Scientific and research services
-0430Scientific services
-0431Scientific consultants
-0492Research contracts
-044Training and educational services
-0440Education - Non-public servants
-0444Teachers and instructors on contract
-0445Tuition fees for courses where employees take training on their own
-time 3
-0446Training consultants
-0447Tuition fees and costs of attending courses including seminars not
-elsewhere specified 3
-0448Purchase of training packages and courses
-Page 15of 55
+1 	Goods, land, buildings and works
+11 	Materials and supplies (standard object 07)
+111 	Food, feed, beverages and tobacco
+1111 	Live animals, including their fodder
+1112 	Meat, fish and their preparations
+1113 	Dairy products and other animal products
+1114 	Vegetables and fruits, edible products, fats and preparations
+1115 	Miscellaneous food, food materials and food preparations
+1116 	Beverages and tobacco
+112 	Mineral products
+1121 	Salt, sulphur, ores, earth and stone
+1122 	Gasoline
+1123 	Aviation fuel
+1124 	Diesel fuel
+1125 	Light fuel oil
+1126 	Heavy fuel oil
+1127 	Lubricating fuel and greases
+1128 	Other mineral fuels, oils and products
+113 	Chemical products
+1130 	Inorganic and organic chemicals, including plastics, rubber and products, and excluding tires and tubes
+1132 	Pharmaceutical and other medicinal products
+1133 	Explosives, fireworks, and pyrotechnic products, etc.
+1134 	Photographic or cinematography goods
+1139 	Miscellaneous chemical products
+114 	Wood , p a p e r a n d w o o d pr o d u c t s
+1141 	Wood and articles of wood
+1142 	Paper and paperboard
+1143 	Printed matter, including books, newspapers, pictures, manuscripts and forms
+115 	Personal goods
+1151 	Uniforms
+1152 	Other clothing
+1153 	Footwear
+1159 	Miscellaneous textiles, headgear, umbrellas, etc.
+116 	Metals and metal products
+1160 	Ferrous metals
+1161 	Non-ferrous metals
+1163 	Cutlery
+1164 	Miscellaneous metal products
+117 	Miscellaneous goods and products
+1171 	Medical supplies, instruments, and apparatus
+1172 	Office and stationers supplies
+1173 	House furnishing, excluding furniture
+1174 	Horticultural products
+1175 	Precious metals and stones and its products
+1176 	Glass or glass products
+1179 	Miscellaneous manufactured articles
+12 	Acquisition of machinery and equipment, including parts and consumable tools (standard object 09)
+121 	Acquisition of machinery and machinery parts
+1211 	Special industry machinery
+1212 	Tools and implements
+1219 	Other machinery and parts
+122 	Acquisition of informatics equipment and parts
+1223 	Image/Video communications equipment (includes telepresence/video conferencing equipment, cabling, parts and peripherals)
+1282 	Computer equipment related to Production and Operations (P&O) environment - All servers, storage, printers, etc. (includes all related parts and peripherals)
+1283 	Computer equipment related to Distributed Computing Environment (DCE) - Desktop/personal/portable (includes all related parts and peripherals)
+1284 	Client software related to Distributed Computing Environment (DCE)
+1285 	Application software (including COTS) and application development and delivery software
+1286 	Operating system and utility software related to servers, storage, peripherals and components
+1287 	Networking software
+1289 	Communications/Networking equipment (includes analog, digital and combined analog/digital equipment, cabling, parts and peripherals)
+1291 	Image/Video communications software (includes telepresence/video conferencing software)
+123 	Acquisition of office equipment and furniture including parts
+1231 	Office furniture and furnishings, including parts
+1239 	Other office equipment and Parts
+124 	Acquisition of equipment and furniture including parts
+1241 	Plumbing equipment and fittings, including parts
+1242 	Electric lighting, distribution and control equipment and Parts
+1243 	Measuring, controlling, laboratory, medical and optical equipment and parts
+1244 	Radar equipment and parts
+1245 	Safety and sanitation equipment and parts
+1246 	Other furniture and fixtures including parts
+1249 	Other equipment and Parts
+125 	Acquisition of aircraft and ships, including parts
+1250 	Aircraft
+1251 	Aircraft parts
+1252 	Mobile service system
+1253 	Satellite and spacecraft acquisition and parts
+1256 	Ships and boats
+1257 	Ships and boats Parts
+126 	Acquisition of other vehicles and parts
+1261 	Road motor vehicles
+1263 	Road motor vehicles parts
+1264 	Other vehicles
+1267 	Miscellaneous vehicles parts, including tires and tubes
+127 	Arms and ammunition
+1271 	Weapons (including parts)
+1273 	Ammunition
+13 	Acquisition of land, buildings and works (standard object 08)
+130 	Acquisition of land
+1301 	Acquisition of land
+131 	Acquisition of engineering works
+1310 	Marine installations
+1316 	Roads, highways and airport runways
+1335 	Bridges, trestles, culverts, overpasses and viaducts
+1339 	Other engineering works
+134 	Acquisition of non-residential buildings
+1340 	Office buildings
+1343 	Commercial buildings
+1350 	Industrial buildings
+1356 	Schools and other educational buildings
+1357 	Hospitals, sanatoria, clinics and first-aid stations
+1358 	Other institutional buildings
+1360 	Buildings or installations for telecommunications, computer and/or office systems
+1362 	Passenger terminals - Air, bus, boat, train and other
+1363 	Armouries, barracks, drill halls, etc.
+1364 	Laboratories
+1369 	Other non-residential buildings
+137 	Acquisition of residential buildings
+1370 	Residential buildings
 
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
+2 	Transfer payments (standard object 10)
+20 	Transfer payments to persons
+200 	Payments to senior citizens
+2001 	Old age security payments
+201 	Payments for pensions
+2011 	Pensions World Wars I and II
+2012 	War Veterans? allowances
+2013 	Pensions to former government employees not entitled under current superannuation acts
+2014 	Payments to former civilians and uniformed personnel
+2019 	Other payments for pensions
+202 	Transfer payments to promote employment
+2022 	Assistance to persons to encourage employment
+2023 	Payments relating to improvement and promotion of employability of individuals
+2029 	Other transfer payments to persons for promotion of employment
+203 	Other transfer payments to persons
+2032 	Payments to Aboriginal people
+2035 	Assistance to immigrants and refugees
+2041 	Transfer payments to persons for research and development (including scholarships)
+2049 	Other non-recoverable payments to persons
+2051 	Recoverable payments to persons
+2055 	Contingency recoverable payments to persons
+2057 	Child tax benefit
+2060 	Goods and services tax (GST) credit to persons
+21 	Transfer payments to industry
+210 	Agricultural subsidies
+2102 	Transfer payments to industry for the benefit of producers under the Farm Income Protection Act
+2103 	Payments under agricultural income disaster assistance (AIDA)
+2107 	Miscellaneous agricultural subsidies
+212 	Other subsidies to industry
+2120 	Other freight rate subsidies to industry
+2122 	Steamship subsidies
+2125 	Assistance to industry to encourage employment
+2126 	Subsidy payments to industry for research and development
+2127 	Payments to industry under loan guarantees
+2130 	Payments for the Confederation Bridge
+2132 	Payments to Aboriginal corporations
+2133 	Payments to financial institutions under the Canada Students Loan Act and Canada Student Financial Assistance Act
+2139 	Other non-recoverable subsidies to industry
+2151 	Recoverable subsidy payments to industry
+2155 	Contingency - Recoverable subsidy payments to industry
+217 	Transfer payments for capital assistance
+2170 	Transfer payments to industry for Research and Development
+2171 	Transfer payments to the defence industry for capital assistance
+2174 	Payments to industry under industrial and regional development
+2178 	Energy conservation projects
+2179 	Other Non-recoverable Transfer payments to industry for Capital Assistance
+2181 	Recoverable payments to industry for capital assistance
+2185 	Contingency - Recoverable payments to industry for capital assistance
+22 	Transfer payments to provinces and territories
+221 	Transfer payments to provinces and territories for Education
+2212 	Payments for official languages to provinces and territories
+2214 	Alternative payments to provinces under the Canada Student Financial Assistance Act
+2215 	Payments to Quebec for Cree and Inuit education
+2216 	Payments to non-native educational institutions
+2217 	Payments to non-native school boards
+2218 	Special payments to provinces under the Apprentice Loans Act
+2219 	Other Transfer payments to provinces and territories for Education
+222 	Fiscal transfer payments
+2221 	Payments to provinces and territories under taxation agreements
+2223 	Statutory grants to provinces and territories (authorized under the Constitution Acts)
+2232 	Canada Health and Social Transfer payments
+2233 	Alternative payments to provinces and territories for standing programs
+2239 	Other Fiscal Transfer payments to provinces and territories
+224 	Other Transfer payments to provinces and territories
+2241 	Payments to provinces and territories for services to young offenders
+2243 	Payments for legal aid systems to provinces and territories
+2244 	Payments for environmental projects to provinces and territories
+2245 	Crop insurance payments to provinces and territories
+2247 	Assistance to provinces and territories to encourage employment
+2248 	Canada - Nova Scotia Offshore Revenue Account and Fiscal Equalization Offshore Petroleum Resource Accord
+2249 	Payments to provinces and territories for provincial highways, secondary and access roads
+2250 	Transfer payments to territories for operating expenditures
+2253 	Canada/Quebec accord on immigration
+2254 	Canada/Newfoundland Development Fund
+2255 	Payments to provinces under Canada Infrastructure Program
+2257 	Development initiatives paid to provinces and territories under the general development and subsidiary agreements
+2259 	Other Transfer payments to provinces and territories
+23 	Transfer payments to or on behalf of international organizations and foreign countries
+230 	Transfer payments for development assistance to other countries
+2301 	Purchase of goods for development assistance
+2302 	Purchase of services for development assistance
+2303 	Payments for development assistance to Canadian non - government organizations
+2304 	Other payments for development assistance to foreign countries
+231 	Transfer payments to international organizations
+2311 	Payments to United Nations and related organizations
+2312 	Contributions to North Atlantic Treaty Organization (NATO) and NATO related programs
+2314 	Payments to the International Development Association
+2315 	Payments to international banks and financial institutions
+2319 	Payments to other international organizations
+232 	Other transfer payments to or on behalf of international organizations and foreign countries
+2321 	Transfer payments to promote Canadian export sales
+2322 	International Food Aid Program
+2323 	Transfer payments to Thirty Meter Telescope
+2329 	Other transfer payments outside Canada to or on behalf of international organizations and foreign countries
+239 	Foreign exchange gain/loss
+2390 	Foreign exchange gain/loss on transfer payments
+24 	Transfer Payments to organizations, including Crown corporations and non-profit organizations
+241 	Transfer payments to universities
+2411 	Payments to universities in aid of research
+2412 	Assistance to encourage employment
+2419 	Other Transfer payments to universities
+242 	Transfer payments to Aboriginal organizations
+2421 	Payments to First Nations, Inuit and Métis school boards
+2422 	Payments to other First Nations, Inuit and Métis educational institutions
+2423 	Payments to other First Nations, Inuit and Métis associations
+243 	Transfer payments to other non - profit institutions and other organizations
+2431 	Payments to non - profit national organizations
+2432 	Payments to provincial/territorial non-profit organizations
+2433 	Payments to local non-profit organizations
+2434 	Assistance to non-profit organizations to encourage employment
+2436 	Payments for research and development to non-profit organizations
+2437 	Payments for the environment to non-profit organizations
+2449 	Other transfer payments to non-profit institutions and other organizations
+245 	Payments to Crown corporations
+2451 	Payments to Crown corporations
+26 	Transfer payments to municipalities and local organizations
+261 	Transfer payments to municipalities
+2611 	Grants in lieu of property taxes paid to municipalities
+2613 	Assistance to municipalities to encourage employment
+2614 	Payments to municipalities under Canada Infrastructure Program
+2619 	Other Transfer payments to municipalities
+262 	Transfer payments to other local organizations
+2621 	Payments to non-native educational institutions
+2622 	Payments to non-native school boards
+28 	Reallocation of transfer payments
+281 	Reallocation of transfer payments Between Programs or Departments
+2811 	Grants in lieu of taxes recovered from other departments
+282 	Transfer payments expenses recorded for accounting purposes
+2821 	Provision for valuation for loans, investments and advances
+2822 	Expenses for accrued liabilities
+2823 	Removal of low value amounts related to transfer payments
 
-045Health and welfare services
-0450Hospital services
-0451Other health services not elsewhere specified
-0452Welfare services
-0453Physicians and surgeons
-0454Paramedical personnel
-0455Dental services
-046Protection services
-0460Protection services
-047Informatics services
-0473Information technology and telecommunications consultants
-0474Information management services 1
-0475Information technology services 1
-0812Computer services (includes IT solutions/deliverables as well as IT
-managed services)
-048Management consulting
-0491Management consulting
-082Special fees and services
-0821Membership fees 3
-0822Hospitality
-0823Conference fees
-086Temporary help services
-0813Temporary help services
-087Interpretation and translation services
-0493Interpretation services
-0494Translation services
-088Construction services
-0881Construction services
-089Other services
-0499Other professional services not elsewhere specified
-0819Non-professional personal service contracts not elsewhere specified
-0890Other administrative service that is designated by order of the Governor
-in Council 1
-0891Personal services
-0892Recreational services
-05Rentals
-050Rental of land
-0501Rental of land
-051Rental of buildings
-0510Rental of residential buildings
-0511Rental of office buildings
-0512Rental of industrial and commercial buildings
-Page 16of 55
+3 	Other expenditures
+30 	Transfers to Crown corporations and other entities (standard object 12)
+300 	Transfers to Schedule III, Part I Corporations and their Wholly - Owned Subsidiaries
+3001 	Atomic Energy of Canada Ltd.
+3003 	Canada Mortgage and Housing Corporation
+3005 	Canadian Commercial Corporation
+3009 	National Capital Commission
+3010 	Export Development Canada
+3011 	Standards Council of Canada
+3012 	VIA Rail Canada Inc.
+3014 	The Jacques-Cartier and Champlain Bridges Inc.
+3017 	Marine Atlantic Inc.
+3018 	Canadian Dairy Commission
+3023 	Canadian Museum for Human Rights
+3024 	Canadian Museum of Civilization
+3025 	Canadian Museum of Nature
+3026 	National Museum of Science and Technology
+3027 	National Gallery of Canada
+3029 	Other
+3030 	Canadian Tourism Commission Corporation
+3031 	Enterprise Cape Breton
+3032 	Canadian Museum of Immigration at Pier 22
+304 	Transfers to Schedule III, Part II Corporations and their wholly - owned subsidiaries
+3041 	Canada Post Corporation
+3059 	Other
+306 	Transfers to other Crown corporations and other entities
+3061 	Canada Council
+3062 	Canadian Broadcasting Corporation
+3063 	International Development Research Centre
+3064 	National Arts Centre Corporation
+3065 	Telefilm Canada
+3079 	Other
+31 	Public debt charges (standard object 11)
+310 	Interest on unmatured debt of Canada
+3101 	Marketable bonds payable in Canadian currency
+3102 	Canada Savings Bonds (CSB)
+3103 	Special nonmarketable securities
+3104 	Treasury bills
+3105 	Marketable bonds payable in foreign currencies
+3106 	Notes and loans payable in foreign currencies
+3107 	Canada bills payable in foreign currency
+311 	Interest on specified purpose accounts and other liabilities
+3111 	Interest on superannuation and other pension accounts
+3112 	Interest on the Employment Insurance Account
+3113 	Interest on the Canada Pension Plan Account
+3114 	Interest on other liabilities
+312 	Interest on other accounts
+3121 	Interest on Special Drawing Rights and other foreign exchange accounts
+313 	Bond discounts and premiums
+3131 	Amortized Bond discounts and premiums
+314 	Cost of issuing and servicing the public debt
+3142 	Commission and remuneration on bonds
+3143 	Cost of servicing Canadian and foreign debt
+32 	Other subsidies and payment (standard object 12)
+321 	Deficits and write - offs to losses
+3213 	Losses of money
+3214 	Deficits and write-offs not elsewhere specified
+3215 	Deletion and write-offs of loans, investments and advances
+3216 	Loss on foreign currency transactions
+3217 	Forgiveness of loans, investments, and advances
+323 	Transfers to non-budgetary funds and accounts
+3239 	Transfers to non-budgetary funds and accounts
+324 	Discounts earned
+3241 	Discounts/Rebates earned for early payment to suppliers or through the use of acquisition cards
+325 	Miscellaneous expenditures
+3249 	Court awards to industry
+3250 	Court awards to persons
+3251 	Damage and other claims against the Crown
+3252 	Interest, administration or service charges, and other penalty charges
+3253 	Interest and service charges paid to financial institutions
+3254 	Removal of low value amounts related to program expenditures
+3256 	Canadian Security Intelligence Service
+3257 	Ex gratia payments
+3258 	Communications Security Establishment
+3259 	Miscellaneous expenditures not Elsewhere Classified
+326 	Adjustment of reserves
+3261 	Adjustment of provision for valuation of financial claims
+3262 	Adjustment of reserves for Loan Guarantees
+3263 	Allowance for increase in value of certain financial obligations
+3269 	Other adjustments
 
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
-
-0513Rental of institutional buildings
-0514Rental of other buildings
-052Rental of informatics equipment
-0522Rental of image/video communications equipment (includes
-telepresence/video conferencing equipment, cabling, parts and
-peripherals)
-0582License/Maintenance fees for client software related to Distributed
-Computing Environment (DCE)
-0583License/Maintenance fees for application software (including COTS) and
-application development and delivery software
-0584License/Maintenance fees for operating system and utility software
-related to servers, storage, peripherals and components
-0585License/Maintenance fees for networking software
-0587Rental of computer equipment related to production and operations
-(P&O) environment - All servers, storage, printers, etc. (includes all
-related parts and peripherals)
-0588Rental of computer equipment related to Distributed Computing
-Environment (DCE) - Desktop/personal/portable (includes all related
-parts and peripherals)
-0589Rental of communications/networking equipment (includes analog,
-digital and combined analog/digital equipment, cabling, parts and
-peripherals)
-0590License/Maintenance fees for image/video communications software
-(includes telepresence/video conferencing software)
-053Rental of machinery, office furniture & fixtures, & other equipment
-0533Rental of machinery, office furniture and fixtures and other equipment
-054Rental of motor and other vehicles
-0540Rental of motor and other vehicles
-055Capital lease - Purchases
-0555Capital lease - Tangible capital assets
-056Rental of aircraft and ships
-0561Rental of aircraft
-0566Rental of ships
-057Rental - Other
-0570Rental - Other
-06Purchased repair and maintenance
-060Repair of engineering works
-0601Marine installations
-0607Highways, roads and streets
-0608Runways, landing fields and tarmac
-0611Waterworks and sewage systems
-0619Electric power installations
-0628Other engineering works
-063Repair of buildings
-Page 17of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
-
-0630Office buildings
-0634Commercial buildings
-0635Industrial buildings
-0639Institutional buildings
-0640Buildings and/or installations for telecommunications, computers
-and/or electronic/automated office systems
-0645Other buildings
-0646Residential buildings
-065Repair of machinery and equipment
-0655Processing machinery
-0656Heating, air-conditioning and refrigeration equipment
-0658Electric lighting, distribution and control equipment
-0660Measuring, controlling, laboratory, medical and optical instruments,
-apparatus and accessories
-0664Communications/Networking equipment (includes analog, digital and
-combined analog/digital equipment, cabling, parts and peripherals)
-0665Other equipment
-0668Image/Video communications equipment (includes telepresence/video
-conferencing equipment, cabling, parts and peripherals)
-0671Other office equipment
-0672Computer equipment related to production and operations (P&O)
-environment - All servers, storage, printers, etc. (includes all related
-parts and peripherals)
-0673Computer equipment related to Distributed Computing Environment
-(DCE) - Desktop/personal/portable (includes all related parts and
-peripherals)
-0675Ships and boats
-0676Aircraft
-0681Road motor vehicles - Military
-0682Road motor vehicles - Non-military
-0683Miscellaneous vehicles
-07Utilities (standard object 07)
-070Utility services
-0701Electricity
-0702Natural gas
-0703Sewer and water
-0705Waste disposal
-0709Other utility services
-
-1Goods, land, buildings and works
-11Materials and supplies (standard object 07)
-111Food, feed, beverages and tobacco
-1111Live animals, including their fodder
-1112Meat, fish and their preparations
-Page 18of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
-
-1113Dairy products and other animal products
-1114Vegetables and fruits, edible products, fats and preparations
-1115Miscellaneous food, food materials and food preparations
-1116Beverages and tobacco
-112Mineral products
-1121Salt, sulphur, ores, earth and stone
-1122Gasoline
-1123Aviation fuel
-1124Diesel fuel
-1125Light fuel oil
-1126Heavy fuel oil
-1127Lubricating fuel and greases
-1128Other mineral fuels, oils and products
-113Chemical products
-1130Inorganic and organic chemicals, including plastics, rubber and
-products, and excluding tires and tubes
-1132Pharmaceutical and other medicinal products
-1133Explosives, fireworks, and pyrotechnic products, etc.
-1134Photographic or cinematography goods
-1139Miscellaneous chemical products
-114Wood , p a p e r a n d w o o d pr o d u c t s
-1141Wood and articles of wood
-1142Paper and paperboard
-1143Printed matter, including books, newspapers, pictures, manuscripts and
-forms
-115Personal goods
-1151Uniforms
-1152Other clothing
-1153Footwear
-1159Miscellaneous textiles, headgear, umbrellas, etc.
-116Metals and metal products
-1160Ferrous metals
-1161Non-ferrous metals
-1163Cutlery
-1164Miscellaneous metal products
-117Miscellaneous goods and products
-1171Medical supplies, instruments, and apparatus
-1172Office and stationers supplies
-1173House furnishing, excluding furniture
-1174Horticultural products
-1175Precious metals and stones and its products
-1176Glass or glass products
-Page 19of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
-
-1179Miscellaneous manufactured articles
-12Acquisition of machinery and equipment, including parts and consumable
-tools (standard object 09)
-121Acquisition of machinery and machinery parts
-1211Special industry machinery
-1212Tools and implements
-1219Other machinery and parts
-122Acquisition of informatics equipment and parts
-1223Image/Video communications equipment (includes telepresence/video
-conferencing equipment, cabling, parts and peripherals)
-1282Computer equipment related to Production and Operations (P&O)
-environment - All servers, storage, printers, etc. (includes all related
-parts and peripherals)
-1283Computer equipment related to Distributed Computing Environment
-(DCE) - Desktop/personal/portable (includes all related parts and
-peripherals)
-1284Client software related to Distributed Computing Environment (DCE)
-1285Application software (including COTS) and application development and
-delivery software
-1286Operating system and utility software related to servers, storage,
-peripherals and components
-1287Networking software
-1289Communications/Networking equipment (includes analog, digital and
-combined analog/digital equipment, cabling, parts and peripherals)
-1291Image/Video communications software (includes telepresence/video
-conferencing software)
-123Acquisition of office equipment and furniture including parts
-1231Office furniture and furnishings, including parts
-1239Other office equipment and Parts
-124Acquisition of equipment and furniture including parts
-1241Plumbing equipment and fittings, including parts
-1242Electric lighting, distribution and control equipment and Parts
-1243Measuring, controlling, laboratory, medical and optical equipment and
-parts
-1244Radar equipment and parts
-1245Safety and sanitation equipment and parts
-1246Other furniture and fixtures including parts
-1249Other equipment and Parts
-125Acquisition of aircraft and ships, including parts
-1250Aircraft
-1251Aircraft parts
-1252Mobile service system
-1253Satellite and spacecraft acquisition and parts
-1256Ships and boats
-Page 20of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
-
-1257Ships and boats Parts
-126Acquisition of other vehicles and parts
-1261Road motor vehicles
-1263Road motor vehicles parts
-1264Other vehicles
-1267Miscellaneous vehicles parts, including tires and tubes
-127Arms and ammunition
-1271Weapons (including parts)
-1273Ammunition
-13Acquisition of land, buildings and works (standard object 08)
-130Acquisition of land
-1301Acquisition of land
-131Acquisition of engineering works
-1310Marine installations
-1316Roads, highways and airport runways
-1335Bridges, trestles, culverts, overpasses and viaducts
-1339Other engineering works
-134Acquisition of non-residential buildings
-1340Office buildings
-1343Commercial buildings
-1350Industrial buildings
-1356Schools and other educational buildings
-1357Hospitals, sanatoria, clinics and first-aid stations
-1358Other institutional buildings
-1360Buildings or installations for telecommunications, computer and/or
-office systems
-1362Passenger terminals - Air, bus, boat, train and other
-1363Armouries, barracks, drill halls, etc.
-1364Laboratories
-1369Other non-residential buildings
-137Acquisition of residential buildings
-1370Residential buildings
-
-2Transfer payments (standard object 10)
-20Transfer payments to persons
-200Payments to senior citizens
-2001Old age security payments
-201Payments for pensions
-2011Pensions World Wars I and II
-2012War Veterans? allowances
-2013Pensions to former government employees not entitled under current
-superannuation acts
-2014Payments to former civilians and uniformed personnel
-Page 21of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
-
-2019Other payments for pensions
-202Transfer payments to promote employment
-2022Assistance to persons to encourage employment
-2023Payments relating to improvement and promotion of employability of
-individuals
-2029Other transfer payments to persons for promotion of employment
-203Other transfer payments to persons
-2032Payments to Aboriginal people
-2035Assistance to immigrants and refugees
-2041Transfer payments to persons for research and development (including
-scholarships)
-2049Other non-recoverable payments to persons
-2051Recoverable payments to persons
-2055Contingency recoverable payments to persons
-2057Child tax benefit
-2060Goods and services tax (GST) credit to persons
-21Transfer payments to industry
-210Agricultural subsidies
-2102Transfer payments to industry for the benefit of producers under the
-Farm Income Protection Act
-2103Payments under agricultural income disaster assistance (AIDA)
-2107Miscellaneous agricultural subsidies
-212Other subsidies to industry
-2120Other freight rate subsidies to industry
-2122Steamship subsidies
-2125Assistance to industry to encourage employment
-2126Subsidy payments to industry for research and development
-2127Payments to industry under loan guarantees
-2130Payments for the Confederation Bridge
-2132Payments to Aboriginal corporations
-2133Payments to financial institutions under the Canada Students Loan Act
-a n d Canada Student Financial Assistance Act
-2139Other non-recoverable subsidies to industry
-2151Recoverable subsidy payments to industry
-2155Contingency - Recoverable subsidy payments to industry
-217Transfer payments for capital assistance
-2170Transfer payments to industry for Research and Development
-2171Transfer payments to the defence industry for capital assistance
-2174Payments to industry under industrial and regional development
-2178Energy conservation projects
-2179Other Non-recoverable Transfer payments to industry for Capital
-Assistance
-2181Recoverable payments to industry for capital assistance
-Page 22of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
-
-2185Contingency - Recoverable payments to industry for capital assistance
-22Transfer payments to provinces and territories
-221Transfer payments to provinces and territories for Education
-2212Payments for official languages to provinces and territories
-2214Alternative payments to provinces under the Canada Student Financial
-Assistance Act
-2215Payments to Quebec for Cree and Inuit education
-2216Payments to non-native educational institutions
-2217Payments to non-native school boards
-2218Special payments to provinces under the Apprentice Loans Act
-2219Other Transfer payments to provinces and territories for Education
-222Fiscal transfer payments
-2221Payments to provinces and territories under taxation agreements
-2223Statutory grants to provinces and territories (authorized under the
-Constitution Acts)
-2232Canada Health and Social Transfer payments
-2233Alternative payments to provinces and territories for standing programs
-2239Other Fiscal Transfer payments to provinces and territories
-224Other Transfer payments to provinces and territories
-2241Payments to provinces and territories for services to young offenders
-2243Payments for legal aid systems to provinces and territories
-2244Payments for environmental projects to provinces and territories
-2245Crop insurance payments to provinces and territories
-2247Assistance to provinces and territories to encourage employment
-2248Canada - Nova Scotia Offshore Revenue Account and Fiscal Equalization
-Offshore Petroleum Resource Accord
-2249Payments to provinces and territories for provincial highways, secondary
-and access roads
-2250Transfer payments to territories for operating expenditures
-2253Canada/Quebec accord on immigration
-2254Canada/Newfoundland Development Fund
-2255Payments to provinces under Canada Infrastructure Program
-2257Development initiatives paid to provinces and territories under the
-general development and subsidiary agreements
-2259Other Transfer payments to provinces and territories
-23Transfer payments to or on behalf of international organizations and
-foreign countries
-230Transfer payments for development assistance to other countries
-2301Purchase of goods for development assistance
-2302Purchase of services for development assistance
-2303Payments for development assistance to Canadian non - government
-organizations
-2304Other payments for development assistance to foreign countries
-Page 23of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
-
-231Transfer payments to international organizations
-2311Payments to United Nations and related organizations
-2312Contributions to North Atlantic Treaty Organization (NATO) and NATO related programs
-2314Payments to the International Development Association
-2315Payments to international banks and financial institutions
-2319Payments to other international organizations
-232Other transfer payments to or on behalf of international organizations
-and foreign countries
-2321Transfer payments to promote Canadian export sales
-2322International Food Aid Program
-2323Transfer payments to Thirty Meter Telescope
-2329Other transfer payments outside Canada to or on behalf of international
-organizations and foreign countries
-239Foreign exchange gain/loss
-2390Foreign exchange gain/loss on transfer payments
-24Transfer Payments to organizations, including Crown corporations and
-non-profit organizations
-241Transfer payments to universities
-2411Payments to universities in aid of research
-2412Assistance to encourage employment
-2419Other Transfer payments to universities
-242Transfer payments to Aboriginal organizations
-2421Payments to First Nations, Inuit and Métis school boards
-2422Payments to other First Nations, Inuit and Métis educational institutions
-2423Payments to other First Nations, Inuit and Métis associations
-243Transfer payments to other non - profit institutions and other
-organizations
-2431Payments to non - profit national organizations
-2432Payments to provincial/territorial non-profit organizations
-2433Payments to local non-profit organizations
-2434Assistance to non-profit organizations to encourage employment
-2436P aym e n ts fo r re s e a rc h a n d d e v e l o p m e n t t o n o n - p r o f i t o r g a n i z a t i ons
-2437P aym e n ts fo r th e e n v iro n m e n t t o n o n - p r o f i t o r g a n i z a t i o n s
-2449Other transfer payments to non-profit institutions and other
-organizations
-245Payments to Crown corporations
-2451Payments to Crown corporations
-26Transfer payments to municipalities and local organizations
-261Transfer payments to municipalities
-2611Grants in lieu of property taxes paid to municipalities
-2613Assistance to municipalities to encourage employment
-2614Payments to municipalities under Canada Infrastructure Program
-Page 24of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
-
-2619Other Transfer payments to municipalities
-262Transfer payments to other local organizations
-2621Payments to non-native educational institutions
-2622Payments to non-native school boards
-28Reallocation of transfer payments
-281Reallocation of transfer payments Between Programs or Departments
-2811Grants in lieu of taxes recovered from other departments
-282Transfer payments expenses recorded for accounting purposes
-2821Provision for valuation for loans, investments and advances
-2822Expenses for accrued liabilities
-2823Removal of low value amounts related to transfer payments
-
-3Other expenditures
-30Transfers to Crown corporations and other entities (standard object 12)
-300Transfers to Schedule III, Part I Corporations and their Wholly - Owned
-Subsidiaries
-3001Atomic Energy of Canada Ltd.
-3003Canada Mortgage and Housing Corporation
-3005Canadian Commercial Corporation
-3009National Capital Commission
-3010Export Development Canada
-3011Standards Council of Canada
-3012VIA Rail Canada Inc.
-3014The Jacques-Cartier and Champlain Bridges Inc.
-3017Marine Atlantic Inc.
-3018Canadian Dairy Commission
-3023Canadian Museum for Human Rights
-3024Canadian Museum of Civilization
-3025Canadian Museum of Nature
-3026National Museum of Science and Technology
-3027National Gallery of Canada
-3029Other
-3030Canadian Tourism Commission Corporation
-3031Enterprise Cape Breton
-3032Canadian Museum of Immigration at Pier 22
-304Transfers to Schedule III, Part II Corporations and their wholly - owned
-subsidiaries
-3041Canada Post Corporation
-3059Other
-306Transfers to other Crown corporations and other entities
-3061Canada Council
-3062Canadian Broadcasting Corporation
-3063International Development Research Centre
-Page 25of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
-
-3064National Arts Centre Corporation
-3065Telefilm Canada
-3079Other
-31Public debt charges (standard object 11)
-310Interest on unmatured debt of Canada
-3101Marketable bonds payable in Canadian currency
-3102Canada Savings Bonds (CSB)
-3103Special nonmarketable securities
-3104Treasury bills
-3105Marketable bonds payable in foreign currencies
-3106Notes and loans payable in foreign currencies
-3107Canada bills payable in foreign currency
-311Interest on specified purpose accounts and other liabilities
-3111Interest on superannuation and other pension accounts
-3112Interest on the Employment Insurance Account
-3113Interest on the Canada Pension Plan Account
-3114Interest on other liabilities
-312Interest on other accounts
-3121Interest on Special Drawing Rights and other foreign exchange accounts
-313Bond discounts and premiums
-3131Amortized Bond discounts and premiums
-314Cost of issuing and servicing the public debt
-3142Commission and remuneration on bonds
-3143Cost of servicing Canadian and foreign debt
-32Other subsidies and payment (standard object 12)
-321Deficits and write - offs to losses
-3213Losses of money
-3214Deficits and write-offs not elsewhere specified
-3215Deletion and write-offs of loans, investments and advances
-3216Loss on foreign currency transactions
-3217Forgiveness of loans, investments, and advances
-323Transfers to non-budgetary funds and accounts
-3239Transfers to non-budgetary funds and accounts
-324Discounts earned
-3241Discounts/Rebates earned for early payment to suppliers or through the
-use of acquisition cards
-325Miscellaneous expenditures
-3249Court awards to industry
-3250Court awards to persons
-3251Damage and other claims against the Crown
-3252Interest, administration or service charges, and other penalty charges
-3253Interest and service charges paid to financial institutions
-Page 26of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
-
-3254Removal of low value amounts related to program expenditures
-3256Canadian Security Intelligence Service
-3257Ex gratia payments
-3258Communications Security Establishment
-3259Miscellaneous expenditures not Elsewhere Classified
-326Adjustment of reserves
-3261Adjustment of provision for valuation of financial claims
-3262Adjustment of reserves for Loan Guarantees
-3263Allowance for increase in value of certain financial obligations
-3269Other adjustments
-
-3A Expenditures from internal sources or for accounting purposes
-34Other expenditures From Internal Sources or for Accounting Purposes
-(Standard Object 12)
-342Amounts paid between or within departments for administrative
-overhead, or other charges
-3421General administrative services charged by other departments or by
-other programs within a department
-3422Suspense account (debit) - Other government departments
-3424Suspense activity allocation
-3425Reallocation of expenditures/costs within a department
-3427Reallocation of costs under shared cost programs
-3428Payments in lieu of taxes paid to Public Works and Government Services
-Canada (PWGSC)
-3429Other
-343Amounts charged to revolving funds by departments or agencies
-3431Overhead or other amounts charged directly to revolving funds by
-departments or agencies 1
-3432Interest charged to revolving funds by department of finance 1
-3433Reallocation of expenditures/costs within revolving funds 1
-3439Other 1
-344Customs and excise duties, and federal sales tax
-3441Customs import duties
-3442Excise duties and federal sales tax
-345Expenses charged to or from asset accounts for amortization or other
-purposes
-3451Amortization expenses for capital assets
-3452Usage of inventory
-3453Recognition of unamortized expenses related to assets
-3459Amortization of other assets accounts
-346Expenses charged to or from liability accounts
-3461Allowance for vacation pay and similar employee benefits
-3462Allowance for bad debts
-3463Charges to remediation liabilities
-Page 27of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
-
-3469Charges to other liability accounts
-347Transfer or incremental charges between appropriations
-3471Incremental charges from other appropriations 1
-3472Incremental recoveries from other appropriations (credit) 1
-37Reallocation of expenditures/Recognition of revenue - From internal
-sources (standard object 12)
-371Recoveries of expenditures between programs or departments
-3711Overhead or other amounts recovered by departments and agencies
-from revolving funds 1
-3712Amounts recovered for general administrative services by other
-departments or by other programs within a department 1
-3714Suspense activity allocation
-3715Recoveries of costs under shared cost programs
-3717Recoveries of expenditures/costs within a department
-3718Suspense account (credit balance) - Other government departments
-3719Other
-372Recoveries of expenditures from specified purpose and other accounts
-3721Recovery of expenses through recognizing revenue from restricted
-specified purpose accounts 1
-
-Page 28of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
+3 	A Expenditures from internal sources or for accounting purposes
+34 	Other expenditures From Internal Sources or for Accounting Purposes (Standard Object 12)
+342 	Amounts paid between or within departments for administrative overhead, or other charges
+3421 	General administrative services charged by other departments or by other programs within a department
+3422 	Suspense account (debit) - Other government departments
+3424 	Suspense activity allocation
+3425 	Reallocation of expenditures/costs within a department
+3427 	Reallocation of costs under shared cost programs
+3428 	Payments in lieu of taxes paid to Public Works and Government Services Canada (PWGSC)
+3429 	Other
+343 	Amounts charged to revolving funds by departments or agencies
+3431 	Overhead or other amounts charged directly to revolving funds by departments or agencies 1
+3432 	Interest charged to revolving funds by department of finance 1
+3433 	Reallocation of expenditures/costs within revolving funds 1
+3439 	Other 1
+344 	Customs and excise duties, and federal sales tax
+3441 	Customs import duties
+3442 	Excise duties and federal sales tax
+345 	Expenses charged to or from asset accounts for amortization or other purposes
+3451 	Amortization expenses for capital assets
+3452 	Usage of inventory
+3453 	Recognition of unamortized expenses related to assets
+3459 	Amortization of other assets accounts
+346 	Expenses charged to or from liability accounts
+3461 	Allowance for vacation pay and similar employee benefits
+3462 	Allowance for bad debts
+3463 	Charges to remediation liabilities
+3469 	Charges to other liability accounts
+347 	Transfer or incremental charges between appropriations
+3471 	Incremental charges from other appropriations 1
+3472 	Incremental recoveries from other appropriations (credit) 1
+37 	Reallocation of expenditures/Recognition of revenue - From internal sources (standard object 12)
+371 	Recoveries of expenditures between programs or departments
+3711 	Overhead or other amounts recovered by departments and agencies from revolving funds 1
+3712 	Amounts recovered for general administrative services by other departments or by other programs within a department 1
+3714 	Suspense activity allocation
+3715 	Recoveries of costs under shared cost programs
+3717 	Recoveries of expenditures/costs within a department
+3718 	Suspense account (credit balance) - Other government departments
+3719 	Other
+372 	Recoveries of expenditures from specified purpose and other accounts
+3721 	Recovery of expenses through recognizing revenue from restricted specified purpose accounts 1
 
 B Objects for revenue
-4Revenue
-4A Tax revenue
-42Tax revenue
-420Tax revenue
-4200Tax revenue (Total)
-4B Other revenue
-45Other revenue - Cost recovery and other user charges
-451Rights and privileges (including related royalty revenue)
-4510Licence fees
-4513Fees for passports, visas and citizenship certificates
-4515Oil royalties
-4516Natural resources royalties
-4517Other royalties
-4518Fees for the registration of trademarks, patents and copyrights
-4519Other revenue from rights and royalties
-452Lease and use of public property
-4520Oil and gas leases
-4521Land leases
-4525Rental of unimproved (vacant) land
-4526Rental of works
-4527Rental of machinery and equipment
-4528Rental of concessions in government - owned facilities
-4529Rental of parking space
-4530Rental of residential buildings
-4531Rental of non-residential buildings
-4535Rental of real property to Crown corporations
-4539Other Returns from Lease and use of public property
-454Proceeds from sales of goods and information products
-4540Sale of uniforms, clothing, etc.
-4542Sales of electricity
-4543Sales of Natural gas
-4544Government publications, maps and charts
-4545Other goods manufactured by government
-4546Sales of information products
-4547Petroleum, oil and lubricants
-4548Public meals
-4549Sales of other goods
-455Revenue from services of a regulatory nature
-4551Inspection fees
-Page 29of 55
 
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
-
-4554Aviation regulations
-4556Supervision of race tracks
-4558Fees from assessments of financial institutions
-4559Other services of a Regulatory Nature
-456Revenue from services of a non - regulatory (optional) nature
-4560Public Utility services, Including Water, Waste Water and Other Utilities
-4561Telecommunication services
-4562Dental services
-4563Hospital services
-4564Marine service and wharf revenue
-4565Other health services
-4566Engineering and scientific fees
-4567Airport services, landing and parking fees
-4568Technology centres services
-4569Other revenue from services of a non-regulatory nature
-457Revenue from services of a non-regulatory nature provided to other
-govern m e n ts a n d C ro w n c o r p o r a t i o n s
-4570Revenue for the provision of non-regulatory services to the United
-Nations
-4571Receipts from Crown corporations for other than real property
-4573Police services to local governments
-4574Other services to Local Governments
-4576Police services to provincial and territorial governments
-4577Other services to Provincial and Territorial Governments
-4578Services to other national governments
-458Administration fees and other charges
-4580Revenue from patents/royalties
-4581Revenue from access to information fees and charges
-4582Revenue from advertising or sponsorship
-4586Not sufficient funds (NSF) administrative charges
-459Miscellaneous
-4593Miscellaneous
-4594Adjustments to payables at year end (PAYE)
-4595Respendable revenue - Systems applications and products (SAP)
-departments
-4598Loan guarantee fees
-46Other revenue - Cost recovery and other user charges
-461Recoveries of costs from departments and agencies
-4611Overhead or other amounts recovered by departments and agencies
+4 	Revenue
+4 	A Tax revenue
+42 	Tax revenue
+420 	Tax revenue
+4200 	Tax revenue (Total)
+4 	B Other revenue
+45 	Other revenue - Cost recovery and other user charges
+451 	Rights and privileges (including related royalty revenue)
+4510 	Licence fees
+4513 	Fees for passports, visas and citizenship certificates
+4515 	Oil royalties
+4516 	Natural resources royalties
+4517 	Other royalties
+4518 	Fees for the registration of trademarks, patents and copyrights
+4519 	Other revenue from rights and royalties
+452 	Lease and use of public property
+4520 	Oil and gas leases
+4521 	Land leases
+4525 	Rental of unimproved (vacant) land
+4526 	Rental of works
+4527 	Rental of machinery and equipment
+4528 	Rental of concessions in government - owned facilities
+4529 	Rental of parking space
+4530 	Rental of residential buildings
+4531 	Rental of non-residential buildings
+4535 	Rental of real property to Crown corporations
+4539 	Other Returns from Lease and use of public property
+454 	Proceeds from sales of goods and information products
+4540 	Sale of uniforms, clothing, etc.
+4542 	Sales of electricity
+4543 	Sales of Natural gas
+4544 	Government publications, maps and charts
+4545 	Other goods manufactured by government
+4546 	Sales of information products
+4547 	Petroleum, oil and lubricants
+4548 	Public meals
+4549 	Sales of other goods
+455 	Revenue from services of a regulatory nature
+4551 	Inspection fees
+4554 	Aviation regulations
+4556 	Supervision of race tracks
+4558 	Fees from assessments of financial institutions
+4559 	Other services of a Regulatory Nature
+456 	Revenue from services of a non - regulatory (optional) nature
+4560 	Public Utility services, Including Water, Waste Water and Other Utilities
+4561 	Telecommunication services
+4562 	Dental services
+4563 	Hospital services
+4564 	Marine service and wharf revenue
+4565 	Other health services
+4566 	Engineering and scientific fees
+4567 	Airport services, landing and parking fees
+4568 	Technology centres services
+4569 	Other revenue from services of a non-regulatory nature
+457 	Revenue from services of a non-regulatory nature provided to other governments and Crown corporations
+4570 	Revenue for the provision of non-regulatory services to the United Nations
+4571 	Receipts from Crown corporations for other than real property
+4573 	Police services to local governments
+4574 	Other services to Local Governments
+4576 	Police services to provincial and territorial governments
+4577 	Other services to Provincial and Territorial Governments
+4578 	Services to other national governments
+458 	Administration fees and other charges
+4580 	Revenue from patents/royalties
+4581 	Revenue from access to information fees and charges
+4582 	Revenue from advertising or sponsorship
+4586 	Not sufficient funds (NSF) administrative charges
+459 	Miscellaneous
+4593 	Miscellaneous
+4594 	Adjustments to payables at year end (PAYE)
+4595 	Respendable revenue - Systems applications and products (SAP)departments
+4598 	Loan guarantee fees
+46 	Other revenue - Cost recovery and other user charges
+461 	Recoveries of costs from departments and agencies
+4611 	Overhead or other amounts recovered by departments and agencies
 from revolving funds 1
-4612Amounts recovered for general administrative services by other
+4612 	Amounts recovered for general administrative services by other
 departments or other programs within a department 1
-4613Subsidy received by a revolving fund from an appropriation 1
-Page 30of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
-
-4615Recoveries of costs from shared cost programs 1
-4616Recoveries from allocation of expenditures/costs within revolving funds
+4613 	Subsidy received by a revolving fund from an appropriation 1
+4615 	Recoveries of costs from shared cost programs 1
+4616 	Recoveries from allocation of expenditures/costs within revolving funds
 1
-4619Other 1
-462Services to other government departments as per section 29.2of the
-Financial Administration Act
-4620Human resources management services 1
-4621Financial management services 1
-4622Information Management services 1
-4623Information Technology services 1
-4624Communications services 1
-4625Real property services 1
-4626Material services 1
-4627Acquisition services 1
-4628Other administrative service that is designated by order of the Governor
-in Council 1
-466Revenue from sales of products and services provided to or within
-government departments and agencies by revolving funds
-4670Sales of goods and services - CORCAN Revolving Fund 1
-4679Other 1
-47Recovered other revenue
-471Refunds of previous years expenditures
-4711Refund of expenditures pertaining to purchased operating goods or
-services
-4712Refund of expenditures pertaining to capital purchases
-4713Refunds of Transfer payments to persons
-4714Refunds of transfer payments - Subsidies
-4715Refunds of Transfer payments to provinces and territories
-4716Refunds of transfer payments - Other
-4717Refunds of capital assistance
-4719Other Refunds of previous years expenditures
-473Repayment of recoverable items
-4731Contribution recoveries
-48Other revenue
-480Return on investments - Interest on loans and advances
-4801Interest on loans and advances from federal Crown corporations and
-agencies lending institutions
-4802Interest on loans and advances from all other federal Crown
-corporations
-4803Interest on loans and advances from provincial and territorial
-governments, including their Crown corporations
-4804Interest on loans and advances from domestic private sector enterprises
-4805Interest on other loans and advances from other domestic sources
-Page 31of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
-
-4806Interest on loans and advances from national governments and
-international organizations
-481Return on investments - Profits and dividends
-4811Profits and/or dividends from enterprises
-4812Profits from the Bank of Canada
-4814Profit and/or surplus from foreign exchange accounts (Department of
-Finance)
-4819Other return on investments, not elsewhere specified
-482Interest on Tax revenue
-4821Interest on Goods and services tax (GST)
-4822Interest on customs duties and other excise taxes
-4823Interest on income tax
-483Other interest income
-4832Interest on overdue accounts receivable
-4833Interest on bank deposits
-4834Interest on Canada student loans
-4835Interest on apprentice loans
-484Proceeds from sale of assets
-4841Revenue from coinage (seigniorage)
-4842Revenue from bullion
-4843Sales of surplus Crown assets
-4844Sales of residential real property
-4845Sale of non-residential real property
-4847Sale of Crown corporations
-4848Sale of departmental organizations
-485Fines, penalties and other court awards
-4851Fines
-4857Penalties
-4858Proceeds from other court awards, including seized property
-487Transfer payments from other governments
-4871Transfer payments from provincial or territorial governments
-4872Transfer payments from local governments, including municipalities and
-local school boards
-4873Transfer payments from foreign governments
-4874Lottery receipts from the provinces
-488Receipts from non-budgetary funds and accounts
-4880Administration of the Employment Insurance Account, including cost
-recoveries
-4883Revenue from the Canada Pension Plan
-4888Reallo c a tio n fro m n o n -bu d g e t a r y f u n d s a n d a c c o u n t s
-4889Other receipts from non-budgetary funds and accounts
-489Miscellaneous Other revenue
-4892Gain on revaluation of foreign currency assets and liabilities
-Page 32of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
-
-4892Gain on revaluation of foreign currency assets and liabilities
-4893Removal of low value amounts related to accounts receivable
-4899Other
-
-Page 33of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
+4619 	Other 1
+462 	Services to other government departments as per section 29.2 of the Financial Administration Act
+4620 	Human resources management services 1
+4621 	Financial management services 1
+4622 	Information Management services 1
+4623 	Information Technology services 1
+4624 	Communications services 1
+4625 	Real property services 1
+4626 	Material services 1
+4627 	Acquisition services 1
+4628 	Other administrative service that is designated by order of the Governor in Council 1
+466 	Revenue from sales of products and services provided to or within government departments and agencies by revolving funds
+4670 	Sales of goods and services - CORCAN Revolving Fund 1
+4679 	Other 1
+47 	Recovered other revenue
+471 	Refunds of previous years expenditures
+4711 	Refund of expenditures pertaining to purchased operating goods or services
+4712 	Refund of expenditures pertaining to capital purchases
+4713 	Refunds of Transfer payments to persons
+4714 	Refunds of transfer payments - Subsidies
+4715 	Refunds of Transfer payments to provinces and territories
+4716 	Refunds of transfer payments - Other
+4717 	Refunds of capital assistance
+4719 	Other Refunds of previous years expenditures
+473 	Repayment of recoverable items
+4731 	Contribution recoveries
+48 	Other revenue
+480 	Return on investments - Interest on loans and advances
+4801 	Interest on loans and advances from federal Crown corporations and agencies lending institutions
+4802 	Interest on loans and advances from all other federal Crown corporations
+4803 	Interest on loans and advances from provincial and territorial governments, including their Crown corporations
+4804 	Interest on loans and advances from domestic private sector enterprises
+4805 	Interest on other loans and advances from other domestic sources
+4806 	Interest on loans and advances from national governments and international organizations
+481 	Return on investments - Profits and dividends
+4811 	Profits and/or dividends from enterprises
+4812 	Profits from the Bank of Canada
+4814 	Profit and/or surplus from foreign exchange accounts (Department of Finance)
+4819 	Other return on investments, not elsewhere specified
+482 	Interest on Tax revenue
+4821 	Interest on Goods and services tax (GST)
+4822 	Interest on customs duties and other excise taxes
+4823 	Interest on income tax
+483 	Other interest income
+4832 	Interest on overdue accounts receivable
+4833 	Interest on bank deposits
+4834 	Interest on Canada student loans
+4835 	Interest on apprentice loans
+484 	Proceeds from sale of assets
+4841 	Revenue from coinage (seigniorage)
+4842 	Revenue from bullion
+4843 	Sales of surplus Crown assets
+4844 	Sales of residential real property
+4845 	Sale of non-residential real property
+4847 	Sale of Crown corporations
+4848 	Sale of departmental organizations
+485 	Fines, penalties and other court awards
+4851 	Fines
+4857 	Penalties
+4858 	Proceeds from other court awards, including seized property
+487 	Transfer payments from other governments
+4871 	Transfer payments from provincial or territorial governments
+4872 	Transfer payments from local governments, including municipalities and local school boards
+4873 	Transfer payments from foreign governments
+4874 	Lottery receipts from the provinces
+488 	Receipts from non-budgetary funds and accounts
+4880 	Administration of the Employment Insurance Account, including cost recoveries
+4883 	Revenue from the Canada Pension Plan
+4888 	Reallo c a tio n fro m n o n -bu d g e t a r y f u n d s a n d a c c o u n t s
+4889 	Other receipts from non-budgetary funds and accounts
+489 	Miscellaneous Other revenue
+4892 	Gain on revaluation of foreign currency assets and liabilities
+4892 	Gain on revaluation of foreign currency assets and liabilities
+4893 	Removal of low value amounts related to accounts receivable
+4899 	Other
 
 C Objects for Assets, Liabilities and Other
 transactions
-5Assets
-50Loans, investments, and advances
-501Loans
-5010Acquisition of loans with cash
-5011Acquisition of loans with other assets
-5013Loans to appropriation-dependent Crown corporations (ADCCs)
-5015Settlement of loans with cash
-5016Settlement of loans with other assets
-5018Repayment of loans from appropriation-dependent Crown corporations
+5 	Assets
+50 	Loans, investments, and advances
+501 	Loans
+5010 	Acquisition of loans with cash
+5011 	Acquisition of loans with other assets
+5013 	Loans to appropriation-dependent Crown corporations (ADCCs)
+5015 	Settlement of loans with cash
+5016 	Settlement of loans with other assets
+5018 	Repayment of loans from appropriation-dependent Crown corporations
 (ADCCs)
-5020Foreign currency translation of loans
-5021Write-off of loans
-5029O the r a d ju s tm e n ts to Lo an s
-503Advances
-5030Acquisition of other advances with cash
-5031Acquisition of other advances with other assets
-5032Acquisition of travel advances
-5033Advances to consolidated specified purpose accounts
-5035Settlement of other advances with cash
-5036Settlement of other advances with other assets
-5038Repayment of advances from consolidated specified purpose accounts
-5040Foreign currency translation of advances
-5041Write-off of advances
-5049Other adjustments to Advances 3
-505Investments
-5050Acquisition of investments with cash
-5051Acquisition of investments through capitalization of financial claims
-5052Acquisition of investments with other assets
-5053Investments in consolidated specified purpose accounts
-5054Investments in appropriation-dependent Crown corporations (ADCCs)
-5055Disposal of investments for cash
-5056Disposal of investments for other assets
-5057Repayment of investments from appropriation-dependent Crown
-corporations (ADCCs)
-5058Repayment of investments by consolidated specified purpose accounts
-5060Foreign currency translation of investments
-5061Write-off of investments
-5069Other adjustments to Investments
-Page 34of 55
+5020 	Foreign currency translation of loans
+5021 	Write-off of loans
+5029 	Other adjustments to Loans
+503 	Advances
+5030 	Acquisition of other advances with cash
+5031 	Acquisition of other advances with other assets
+5032 	Acquisition of travel advances
+5033 	Advances to consolidated specified purpose accounts
+5035 	Settlement of other advances with cash
+5036 	Settlement of other advances with other assets
+5038 	Repayment of advances from consolidated specified purpose accounts
+5040 	Foreign currency translation of advances
+5041 	Write-off of advances
+5049 	Other adjustments to Advances 3
+505 	Investments
+5050 	Acquisition of investments with cash
+5051 	Acquisition of investments through capitalization of financial claims
+5052 	Acquisition of investments with other assets
+5053 	Investments in consolidated specified purpose accounts
+5054 	Investments in appropriation-dependent Crown corporations (ADCCs)
+5055 	Disposal of investments for cash
+5056 	Disposal of investments for other assets
+5057 	Repayment of investments from appropriation-dependent Crown corporations (ADCCs)
+5058 	Repayment of investments by consolidated specified purpose accounts
+5060 	Foreign currency translation of investments
+5061 	Write-off of investments
+5069 	Other adjustments to Investments
+507 	Investments of the Canada Pension Plan Investment Fund
+5070 	Acquisition of investments with cash
+5071 	Transfers from the Canada Pension Plan accounts
+5075 	Disposal of investments with cash
+5079 	Other adjustments to Investments
+51 	Foreign exchange accounts
+511 	International Monetary Fund and Special Drawing Rights transactions
+5100 	Acquisition of claims with cash
+5101 	Acquisition of claims in exchange for Special Drawing Rights or International Monetary Fund notes
+5111 	Settlement of claims in exchange for Special Drawing Rights or International Monetary Fund notes
+5121 	Issues of notes payable to the International Monetary Fund (IMF)
+5123 	Redemption of notes payable to the International Monetary Fund (IMF)
+5130 	Maintenance of value adjustments
+5131 	Year end valuation adjustment
+5159 	Other adjustments
+516 	Exchange Fund Account - Advances (restricted claims)
+5160 	Advances provided to the Exchange Fund Account
+5161 	Settlements of advances
+5163 	Year - end valuation adjustment
+5169 	Other adjustments
+52 	Cash accounts
+529 	Cash account
+5299 	Net Increase or Decrease in Cash account
+53 	Accounts receivable
+539 	Accounts receivable
+5399 	Net Increase or Decrease in Accounts receivable
 
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
+6 	Liabilities
+60 	Specified purpose accounts (SPAs)
+601 	Pension insurance and social security accounts
+6001 	Contributions by current employees or participants
+6002 	Contributions by current employees - Public Service corporations
+6003 	Contributions by government employees for past services or in arrears
+6004 	Contributions by Public Service corporations employees for past service or in arrears
+6005 	Contributions by retired employees
+6012 	Contributions by government - As employer
+6013 	Contributions by Public Service corporations as employer
+6017 	Death benefit general contributions
+6018 	Death benefit single contributions
+6020 	Actuarial adjustments
+6022 	Transfers from other pension plans
+6023 	Refundable tax recovered from the Canada Revenue Agency
+6025 	Return on investment
+6027 	Interest credited to the account
+6029 	Other receipts
+6030 	Payment of benefits
+6034 	Payment of minimum benefits
+6035 	Pension division payments
+6037 	Return of contributions - Government employees 3
+6038 	Return of contributions - Public Service corporation employees
+6045 	Transfers to other pension plans
+6046 	Refundable tax remitted to the Canada Revenue Agency
+6047 	Withdrawal of surplus
+6051 	Operating expenses
+6053 	Transfer to Pension Investment Board
+6056 	Transfer from Pension Investment Board
+6058 	Pension transfer value payments
+6059 	Other payments
+606 	Provincial tax collection agreements
+6060 	Estimated collections of taxes
+6063 	Installment payments to provinces for taxes
+607 	Crown corporations deposits
+6079 	Net Increases or Decreases in Crown corporations deposits
+608 	Other deposits and trust funds
+6081 	Deposits received
+6082 	Interest received
+6083 	Transfers from budgetary expenditures
+6084 	Deposit of securities held in trust
+6085 	Refunds
+6086 	Payments made in accordance with authorities
+6087 	Return of securities held in trust
+6089 	Other adjustments
+609 	Miscellaneous accounts
+6099 	Net increases or decreases in other specified purpose accounts
+61 	Unmatured debt transactions
+611 	Unmatured debt payable
+6111 	Issue of debt
+6115 	Redemption of unmatured debt
+6116 	Transfers to matured debt (on retirement of debt)
+6117 	Revaluation of unmatured debt
+6118 	Unmatured debt payable - Exchange Rate Changes
+6119 	Other adjustments
+62 	Transactions relating to other liabilities
+621 	Interest due on unmatured debt (including compound interest on Canada Savings Bonds)
+6211 	Interest charges accrued
+6212 	Interest due
+6213 	Payments to claimants
+622 	Matured debt
+6221 	Transfers from unmatured debt
+6222 	Redemption of debts
+6225 	Write-off of Matured debt (Transfer to Revenue)
+6227 	Matured debt Revaluation
+629 	Miscellaneous
+6299 	Net increase or decrease in other liability
 
-507Investments of the Canada Pension Plan Investment Fund
-5070Acquisition of investments with cash
-5071Transfers from the Canada Pension Plan accounts
-5075Disposal of investments with cash
-5079Other adjustments to Investments
-51Foreign exchange accounts
-511International Monetary Fund and Special Drawing Rights transactions
-5100Acquisition of claims with cash
-5101Acquisition of claims in exchange for Special Drawing Rights or
-International Monetary Fund notes
-5111Settlement of claims in exchange for Special Drawing Rights or
-International Monetary Fund notes
-5121Issues of notes payable to the International Monetary Fund (IMF)
-5123Redemption of notes payable to the International Monetary Fund (IMF)
-5130Maintenance of value adjustments
-5131Year end valuation adjustment
-5159Other adjustments
-516Exchange Fund Account - Advances (restricted claims)
-5160Advances provided to the Exchange Fund Account
-5161Settlements of advances
-5163Year - end valuation adjustment
-5169Other adjustments
-52Cash accounts
-529Cash account
-5299Net Increase or Decrease in Cash account
-53Accounts receivable
-539Accounts receivable
-5399Net Increase or Decrease in Accounts receivable
-
-6Liabilities
-60Specified purpose accounts (SPAs)
-601Pension insurance and social security accounts
-6001Contributions by current employees or participants
-6002Contributions by current employees - Public Service corporations
-6003Contributions by government employees for past services or in arrears
-6004Contributions by Public Service corporations employees for past service
-or in arrears
-6005Contributions by retired employees
-6012Contributions by government - As employer
-6013Contributions by Public Service corporations as employer
-6017Death benefit general contributions
-6018Death benefit single contributions
-6020A ctua ria l a d ju s tm e n ts
-Page 35of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
-
-6022Trans fe rs fro m o th e r p e ns i o n p l a n s
-6023Refundable tax recovered from the Canada Revenue Agency
-6025Retu rn o n in v e s tme n t
-6027Interest credited to the account
-6029Other receipts
-6030Payment of benefits
-6034Payment of minimum benefits
-6035Pension division payments
-6037Return of contributions - Government employees 3
-6038Return of contributions - Public Service corporation employees
-6045Transfers to other pension plans
-6046Refundable tax remitted to the Canada Revenue Agency
-6047Withdrawal of surplus
-6051Operating expenses
-6053Transfer to Pension Investment Board
-6056Transfer from Pension Investment Board
-6058Pension transfer value payments
-6059Other payments
-606Provincial tax collection agreements
-6060Estimated collections of taxes
-6063Installment payments to provinces for taxes
-607Crown corporations deposits
-6079Net Increases or Decreases in Crown corporations deposits
-608Other deposits and trust funds
-6081Deposits received
-6082Interest received
-6083Trans fe rs fro m b u d g e ta r y e x p e n d i t u r e s
-6084Deposit of securities held in trust
-6085Refunds
-6086Payments made in accordance with authorities
-6087Return of securities held in trust
-6089Other adjustments
-609Miscellaneous accounts
-6099Net increases or decreases in other specified purpose accounts
-61Unmatured debt transactions
-611Unmatured debt payable
-6111Issue of debt
-6115Redemption of unmatured debt
-6116Transfers to matured debt (on retirement of debt)
-6117Revaluation of unmatured debt
-6118Unmatured debt payable - Exchange Rate Changes
-6119Other adjustments
-Page 36of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
-
-62Transactions relating to other liabilities
-621Inter e s t d u e o n u n ma tu red d e b t ( i n c l u d i n g c o m p o u n d i n t e r e s t o n
-Canada Savings Bonds)
-6211Interest charges accrued
-6212Interest due
-6213Payments to claimants
-622Matured debt
-6221Transfers from unmatured debt
-6222Redemption of debts
-6225Write-off of Matured debt (Transfer to Revenue)
-6227Matured debt Revaluation
-629Miscellaneous
-6299Net increase or decrease in other liability
-
-7Other
-70Other accounts/transactions
-702Allowance for valuation of assets and liabilities
-7021Allowance for valuation of financial claims (incl. allowance for doubtful
+7 	Other
+70 	Other accounts/transactions
+702 	Allowance for valuation of assets and liabilities
+7021 	Allowance for valuation of financial claims (incl. allowance for doubtful
 accounts)
-7022Allowance for statutory accounts payable
-7023Allowance for employee benefits
-7029Other allowances
-703Unamortized deficiencies on superannuation accounts
-7031Increase to reflect actuarial deficiencies recorded
-7032Decrease resulting from amortization of actuarial deficiencies
-704Unamortized Discount on Treasury bills
-7041Increase to Reflect Discount on New Treasury bills
-7042Decrease Resulting from Amortization of Discount on Treasury bills
-706Accumulated amortization
-7061Accumulated amortization on Capital Assets
-709Other transactions
-7099Net Increase or Decrease in Other transactions
+7022 	Allowance for statutory accounts payable
+7023 	Allowance for employee benefits
+7029 	Other allowances
+703 	Unamortized deficiencies on superannuation accounts
+7031 	Increase to reflect actuarial deficiencies recorded
+7032 	Decrease resulting from amortization of actuarial deficiencies
+704 	Unamortized Discount on Treasury bills
+7041 	Increase to Reflect Discount on New Treasury bills
+7042 	Decrease Resulting from Amortization of Discount on Treasury bills
+706 	Accumulated amortization
+7061 	Accumulated amortization on Capital Assets
+709 	Other transactions
+7099 	Net Increase or Decrease in Other transactions
 
-8Accumulated deficit
-80Unrestricted amounts
-801Unrestricted amounts in the Accumulated deficit
-8011Increases
-8012Decreases
-802Year - end closing of departmental accounts
-8021Closing of control accounts
-8022Closing of revenue and expense accounts
-81Consolidated specific purpose accounts
-810Consolidation of specified purpose accounts
-8103Other adjustments
-Page 37of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
-
-811Employment Insurance Account
-8110Contributions by employees, their employers and other participants
-8114Retu rn o n in v e s tme n t
-8116Other receipts
-8117Payment of benefits
-8120Operating expenses
-8122Other payments and Adjustments
-815Crop reinsurance fund
-8150Receipts from provinces
-8151Interest-free advances from the Government of Canada
-8153Payments to provinces
-8154Repayment of advances to the Government of Canada
-816Agricultural Commodities Stabilization Account
-8161Receipts from participating provinces and producers
-8167Payments to participating producers
-817Goods and services tax (GST) refundable advance accounts on purchases
-8171Payment of GST on purchases
-8172Payment of QST on purchases
-8173Reimbursement of QST by Revenu Québec
-818Seized Property Proceeds Account
-8181Proceeds from forfeited assets and fines
-8184Payments of operating and other expenses
-8186Payment of claims against the Crown and other expenses to outside
+8 	Accumulated deficit
+80 	Unrestricted amounts
+801 	Unrestricted amounts in the Accumulated deficit
+8011 	Increases
+8012 	Decreases
+802 	Year - end closing of departmental accounts
+8021 	Closing of control accounts
+8022 	Closing of revenue and expense accounts
+81 	Consolidated specific purpose accounts
+810 	Consolidation of specified purpose accounts
+8103 	Other adjustments
+811 	Employment Insurance Account
+8110 	Contributions by employees, their employers and other participants
+8114 	Return on investment
+8116 	Other receipts
+8117 	Payment of benefits
+8120 	Operating expenses
+8122 	Other payments and Adjustments
+815 	Crop reinsurance fund
+8150 	Receipts from provinces
+8151 	Interest-free advances from the Government of Canada
+8153 	Payments to provinces
+8154 	Repayment of advances to the Government of Canada
+816 	Agricultural Commodities Stabilization Account
+8161 	Receipts from participating provinces and producers
+8167 	Payments to participating producers
+817 	Goods and services tax (GST) refundable advance accounts on purchases
+8171 	Payment of GST on purchases
+8172 	Payment of QST on purchases
+8173 	Reimbursement of QST by Revenu Québec
+818 	Seized Property Proceeds Account
+8181 	Proceeds from forfeited assets and fines
+8184 	Payments of operating and other expenses
+8186 	Payment of claims against the Crown and other expenses to outside
 parties
-8187Payment of proceeds to other governments
-8188Transfer of Net Proceeds to Other revenue
-819New Parks and Historic Sites Account
-8190Donations (unspecified)
-8191Net proceeds from the sale of federal real property
-8192Contributions from the Government of Canada
-8194Other receipts
-8195D isb u rs e me n ts to o u ts id e p a r t i e s
-8196Disbursements (internal to government)
-8197Contributions to outside parties
-82Consolidated deposit and trust accounts
-820Gifts, donations and bequests accounts
-8200Receipts
-8201Payments
-821Insur a n c e a c c o u n ts
-8210Receipts
-8211Transfers from budgetary appropriations
-8215Payments
-Page 38of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
-
-822Earmarked fees and levies
-8220Receipts
-8225Payments
-829Other restricted accounts
-8290Other receipts
-8295Other payments
-83Consolidation of appropriation - Appropriation dependent and enterprise
-Crown corporations
-831Consolidation of appropriation - Appropriation dependent and
-enterprise Crown corporations
-8300Accumulated deficit/surplus brought forward - Consolidation of all
-Crown corporations
-8312Gain/Loss for the year - Enterprises Crown Corporations
-8313Other adjustments
-832Allowance for employee benefits
-8321Net change in allowance - Employee benefit
-833Revenue and expenditures
-8339Expenses - Other
-834Cash balances
-8340Net change - Cash in transit
-835Accounts receivable of appropriation - dependant Crown corporations
-(ADCCs) (with outside parties)
-8350Net Change - Accounts receivable 2
-836Loans, Investments and Advances by ADCC'S (With outside parties)
-8360Net change - Loans, investment and advances by appropriation
+8187 	Payment of proceeds to other governments
+8188 	Transfer of Net Proceeds to Other revenue
+819 	New Parks and Historic Sites Account
+8190 	Donations (unspecified)
+8191 	Net proceeds from the sale of federal real property
+8192 	Contributions from the Government of Canada
+8194 	Other receipts
+8195 	Disbursements to outside parties
+8196 	Disbursements (internal to government)
+8197 	Contributions to outside parties
+82 	Consolidated deposit and trust accounts
+820 	Gifts, donations and bequests accounts
+8200 	Receipts
+8201 	Payments
+821 	Insurance accounts
+8210 	Receipts
+8211 	Transfers from budgetary appropriations
+8215 	Payments
+822 	Earmarked fees and levies
+8220 	Receipts
+8225 	Payments
+829 	Other restricted accounts
+8290 	Other receipts
+8295 	Other payments
+83 	Consolidation of appropriation - Appropriation dependent and enterprise Crown corporations
+831 	Consolidation of appropriation - Appropriation dependent and enterprise Crown corporations
+8300 	Accumulated deficit/surplus brought forward - Consolidation of all Crown corporations
+8312 	Gain/Loss for the year - Enterprises Crown Corporations
+8313 	Other adjustments
+832 	Allowance for employee benefits
+8321 	Net change in allowance - Employee benefit
+833 	Revenue and expenditures
+8339 	Expenses - Other
+834 	Cash balances
+8340 	Net change - Cash in transit
+835 	Accounts receivable of appropriation - dependant Crown corporations (ADCCs) (with outside parties)
+8350 	Net Change - Accounts receivable 2
+836 	Loans, Investments and Advances by ADCC'S (With outside parties)
+8360 	Net change - Loans, investment and advances by appropriation
 dependant Crown corporations(ADCCs) 2
-837Accounts payable of appropriation-dependant Crown corporations
-(ADCCs) (with outside parties)
-8371Net change - Other liabilities ADCC 2
-838Borrowings of appropriation dependant Crown corporations (ADCC'S)
-(with outside parties)
-8380Net change - Other liabilities ADCC borrowings 2
-84Government elimination of inter-entity transactions and balances
-consolidation of appropriation - dependent Crown corporations (ADCCs)
-840Government elimination of inter-entity revenue and expenditure
-transactions
-8400O the r re v e n u e - R e tu rn on i n v e s t m e n t s 1
-8402Other revenue 1
-8419Expenses - Other elimination inter-entity transactions 1
-842Government elimination of inter-entity liability balances
-8422U nm a tu re d d e b t h e ld b y a p p r o p r i a t i o n d e p e n d a n t C r o wn c o r p o r ation's
-(ADCC's) 1
-8425Specified purpose accounts - Due to appropriation dependant Crown
-corporation's (ADCC's) 1
-Page 39of 55
+837 	Accounts payable of appropriation-dependant Crown corporations (ADCCs) (with outside parties)
+8371 	Net change - Other liabilities ADCC 2
+838 	Borrowings of appropriation dependant Crown corporations (ADCC'S) (with outside parties)
+8380 	Net change - Other liabilities ADCC borrowings 2
+84 	Government elimination of inter-entity transactions and balances consolidation of appropriation - dependent Crown corporations (ADCCs)
+840 	Government elimination of inter-entity revenue and expenditure transactions
+8400 	Other revenue - Return on investments 1
+8402 	Other revenue 1
+8419 	Expenses - Other elimination inter-entity transactions 1
+842 	Government elimination of inter-entity liability balances
+8422 	Unmatured debt held by appropriation dependant Crown corporation's (ADCC's) 1
+8425 	Specified purpose accounts - Due to appropriation dependant Crown corporation's (ADCC's) 1
+844 	Government elimination of inter-entity asset balances
+8440 	Elimination of inter-entity loans, investments or advances in ADCC 1
+8443 	Allowance for valuation of assets and liabilities 1
 
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
-
-844Government elimination of inter-entity asset balances
-8440Elimination of inter-entity loans, investments or advances in ADCC 1
-8443Allowance for valuation of assets and liabilities 1
-
-9Identification of partnering department for interdepartmental
-transactions
-9DDD Interdepartmental settlement 1
-
-Page 40of 55
-
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
+9 	Identification of partnering department for interdepartmental transactions
+9 	DDD Interdepartmental settlement 1
 
 Appendix A—Release notes in date
 order—Object codes for 2015-2016
@@ -1729,17 +1503,15 @@ Code
 2015-01-280187
 2015-01-120881
 
-Page 41of 55
-
 Status
 
 Note
 As per Order in Council 2015-1243, this code is
 Modify
-specific to dept 127as of November 4th, 2015.
+specific to dept 127 as of November 4th, 2015.
 As per Order in Council 2015-1252, this code is
 Modify
-specific to dept 135as of November 4th, 2015.
+specific to dept 135 as of November 4th, 2015.
 Modify
 Added 'and other organizations' as requested by TBS.
 New code creted as requested by TBS. The Financial
@@ -1771,47 +1543,47 @@ order—Object codes for 2015-2016
 Code
 D at e
 Status
-01872015- 01- 28Modify
+01872015- 01- 28 	Modify
 
 Note
 Object code restricted to the Receiver General
 As requested by TBS, the description has been
 modified to make it consistent with the Directive on
-08232015- 06- 04Modify
+08232015- 06- 04 	Modify
 Travel, Hospitality, Conferences and Events
 Expenditure.
-08812015- 01- 12Activated New object code created for PWGSC
-24492015- 10- 29Modify
+08812015- 01- 12 	Activated New object code created for PWGSC
+24492015- 10- 29 	Modify
 Added 'and other organizations' as requested by TBS.
 New code creted as requested by TBS. The Financial
 Administration Act (FAA) was amended to allow
-28232015- 09- 18Create
+28232015- 09- 18 	Create
 Treasury Board to make regulations to establish the
 threshold for low-value amounts (LVA).
 As per Order in Council 2015-1252, this code is
-30092015- 12- 10Modify
-specific to dept 135as of November 4th, 2015.
+30092015- 12- 10 	Modify
+specific to dept 135 	as of November 4 	th, 2015.
 As per Order in Council 2015-1243, this code is
-30412015- 12- 10Modify
-specific to dept 127as of November 4th, 2015.
+30412015- 12- 10 	Modify
+specific to dept 127 	as of November 4 	th, 2015.
 New object code created in order to remove the
-32542015- 03- 27Create
+32542015- 03- 27 	Create
 low-value accounts payable as per Treasury Board
 Secretariat directives for 2015-2016.
 New object code created to remove a low- value
-48932015- 03- 27Create
+48932015- 03- 27 	Create
 accounts receivable as per Treasury Board
 Secretariat directives for 2015-2016.
 
-Page 42of 55
+Page 42 	of 55
 
 Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
 
-7.4List of pay entitlement codes for
+7.4 	List of pay entitlement codes for
 2015–2016
 Please note that the source document is the Personnel- Pay input manual.
 
-0101Civilian regular time—Continuing employment
+0101 	Civilian regular time—Continuing employment
 Basic salaries and wages for regular time worked by all full-time indeterminate
 civilian personnel for continuing employment. It does not include any
 remuneration received for allowances or for working non-standard hours, extra
@@ -1854,7 +1626,6 @@ codes:
 306
 346
 360
-Page 43of 55
 
 Basic Pay
 Acting Pay/Acting Appointment
@@ -1885,7 +1656,7 @@ Lump Sum Equivalent
 Dual Remuneration - Non-pensionable
 Interim Salary Adjustment
 Vacation Pay Advance
-Bill C-29Lump Sum
+Bill C-29 	Lump Sum
 Leave Without Pay (LWOP) and Unauthorized Absences
 Fixed Hours Not Worked (Lates, etc.)
 Leave Granted - No credits
@@ -1896,25 +1667,25 @@ Lump sum signing bonus fully payable to all employees including
 Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
 
 part-time employees
-361Lump sum signing bonus fully payable to most employees, but only
+361 	Lump sum signing bonus fully payable to most employees, but only
 payable o n a p ro ra te d b a s is t o p a r t - t i m e e m p l o y e e s
-384Reversal ongoing Leave Without Pay (LWOP)
-401Prior Adjustment 301Cancelled
-402Prior Adjustment 302Cancelled
-403Prior Adjustment 303Cancelled
-404Rev Rec of Overpayment (O/P)
-405Rev Rec of O / P-Extra Duty (E/D)
-498Bill C-29Lump Sum (EDP)
-499Interim Payment
-1A 1Return of Contributions (ROC) Diplomat
-1A 2ROC Int. Diplomat
-1A 5ROC 1% Diplomat
-1A 6ROC 1% Int. Diplomat
-1C 8Performance Pay - Individual
-1C 9Performance Pay - Corporate
-1D 3Lump Sum Payment - Executive Group (EX) Recruitment
+384 	Reversal ongoing Leave Without Pay (LWOP)
+401 	Prior Adjustment 301 	Cancelled
+402 	Prior Adjustment 302 	Cancelled
+403 	Prior Adjustment 303 	Cancelled
+404 	Rev Rec of Overpayment (O/P)
+405 	Rev Rec of O / P-Extra Duty (E/D)
+498 	Bill C-29 	Lump Sum (EDP)
+499 	Interim Payment
+1 	A 1 	Return of Contributions (ROC) Diplomat
+1 	A 2 	ROC Int. Diplomat
+1 	A 5 	ROC 1% Diplomat
+1 	A 6 	ROC 1% Int. Diplomat
+1 	C 8 	Performance Pay - Individual
+1 	C 9 	Performance Pay - Corporate
+1 	D 3 	Lump Sum Payment - Executive Group (EX) Recruitment
 
-0102Civilian regular time—Part–time, seasonal, and
+0102 	Civilian regular time—Part–time, seasonal, and
 casual
 Basic salaries and wages for regular time worked by all part-time civilian
 personnel or for personnel employed on a full-time seasonal, term, or casual
@@ -1945,7 +1716,7 @@ codes:
 193
 194
 195
-Page 44of 55
+Page 44 	of 55
 
 Basic Pay
 Acting Pay/Acting Appointment
@@ -1972,41 +1743,39 @@ Arrears Pay/Revision
 
 Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
 
-196Arrears Pay/Conversion
-197Arrears Pay/Assimil'n
-198Arrears Pay/T/SOS
-199Arrears Pay/RE-TOS
-230Lump Sum Equivalent
-232Dual Remuneration - Non-pensionable
-245Interim Salary Adjustment
-300Bill C-29Lump Sum
-301Leave Without Pay (LWOP) and Unauthorized Absences
-302Fixed Hours not Worked (Lates, etc.)
-303Leave Granted - No Credits
-306Leave with Income Averaging
-346Pre-Retirement Transition Leave
-360Lump sum signing bonus fully payable to all employees including
-part-time employees
-361Lump sum signing bonus fully payable to most employees, but only
-payable on a prorated
-384Reversal ongoing Leave Without Pay (LWOP)
-401Prior Adjustment 301Cancelled
-402Prior Adjustment 302Cancelled
-403Prior Adjustment 303Cancelled
-404Rev Rec of Overpayment (O/P)
-405Rev Rec of O / P-Extra Duty (E/D)
-498Bill C-29Lump Sum (EDP)
-499Interim Payment
-1A 1Return of Contributions (ROC) Diplomat
-1A 2ROC Int. Diplomat
-1A 5ROC 1% Diplomat
-1A 6ROC 1% Int. Diplomat
-1C 7Part-time Casual Payment
-1C 8Performance Pay - Individual
-1C 9Performance Pay - Corporate
-1D 3Lump Sum Payment - EX R e c r u i t m e n t
+196 	Arrears Pay/Conversion
+197 	Arrears Pay/Assimil'n
+198 	Arrears Pay/T/SOS
+199 	Arrears Pay/RE-TOS
+230 	Lump Sum Equivalent
+232 	Dual Remuneration - Non-pensionable
+245 	Interim Salary Adjustment
+300 	Bill C-29 	Lump Sum
+301 	Leave Without Pay (LWOP) and Unauthorized Absences
+302 	Fixed Hours not Worked (Lates, etc.)
+303 	Leave Granted - No Credits
+306 	Leave with Income Averaging
+346 	Pre-Retirement Transition Leave
+360 	Lump sum signing bonus fully payable to all employees including part-time employees
+361 	Lump sum signing bonus fully payable to most employees, but only payable on a prorated
+384 	Reversal ongoing Leave Without Pay (LWOP)
+401 	Prior Adjustment 301 	Cancelled
+402 	Prior Adjustment 302 	Cancelled
+403 	Prior Adjustment 303 	Cancelled
+404 	Rev Rec of Overpayment (O/P)
+405 	Rev Rec of O / P-Extra Duty (E/D)
+498 	Bill C-29 	Lump Sum (EDP)
+499 	Interim Payment
+1 	A 1 	Return of Contributions (ROC) Diplomat
+1 	A 2 	ROC Int. Diplomat
+1 	A 5 	ROC 1% Diplomat
+1 	A 6 	ROC 1% Int. Diplomat
+1 	C 7 	Part-time Casual Payment
+1 	C 8 	Performance Pay - Individual
+1 	C 9 	Performance Pay - Corporate
+1 	D 3 	Lump Sum Payment - EX R e c r u i t m e n t
 
-0103Civilian premium pay for work during
+0103 	Civilian premium pay for work during
 non-standard hours or for other reasons
 Premiums paid to all civilian personnel for working evening or night shifts or on
 week-ends or designated holidays.
@@ -2022,11 +1791,10 @@ codes:
 154
 155
 174
-Page 45of 55
 
 Premium Pay for Work on a Holiday
-Shift Premium - Evening or 2nd shift
-Shift Premium - Night or 3rd shift
+Shift Premium - Evening or 2 	nd shift
+Shift Premium - Night or 3 	rd shift
 Split Shift Premium
 Schedule or Shift Change Premium
 Night School Compensation
@@ -2047,20 +1815,20 @@ Special Monthly Schedule Pay
 Compensation - Designated Holiday (BUD 604)
 Late Hour Premium
 
-0104Civilian holiday pay in lieu of leave
+0104 	Civilian holiday pay in lieu of leave
 Remuneration paid to civilian personnel in lieu of, or to compensate for, annual
 vacation leave or statutory holidays.
 This object will include all expenditures charged to the following pay entitlement
 codes:
-025Holiday Pay Allowance - Subject to Superannuation
-029Leave - Payment in Lieu - "S"033Leave - Payment in Lieu - "X" and "T"
-045Holiday Pay Allowance - Not Subject to Superannuation
-073Vacation Pay of 4%, 6% or 8%
-173Premium Pay in Lieu of Statutory Holidays
-249Vacation Pay - Various Rates
-1F 3Lay Day Payment in Lieu of Vacation Credits
+025 	Holiday Pay Allowance - Subject to Superannuation
+029 	Leave - Payment in Lieu - "S"033 	Leave - Payment in Lieu - "X" and "T"
+045 	Holiday Pay Allowance - Not Subject to Superannuation
+073 	Vacation Pay of 4%, 6% or 8%
+173 	Premium Pay in Lieu of Statutory Holidays
+249 	Vacation Pay - Various Rates
+1 	F 3 	Lay Day Payment in Lieu of Vacation Credits
 
-0105Civilian overtime (for additional hours)
+0105 	Civilian overtime (for additional hours)
 Remuneration paid to civilian personnel received for working time, that is,
 additional to the normal hours worked.
 This object will include all expenditures charged to the following pay entitlement
@@ -2089,7 +1857,7 @@ codes:
 247
 254
 255
-Page 46of 55
+Page 46 	of 55
 
 Additional Amount Paid in Lieu of Overtime
 Call In Pay
@@ -2118,93 +1886,93 @@ Break Penalty 1
 
 Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
 
-256Non-Continuous Hours 1
-257Overtime - Second Consecutive Holiday (BUD 228, 408)
-258Overtime - First Half-Hour of Overtime (BUD 228,408)
-259Overtime - Second Meal
-260Overtime - On a Regular Working Day
-261Overtime - On First Day of Rest
-262Overtime - On Second and Subsequent Day of Rest
-263Overtime - On Statutory Holiday
-268Overtime - While on Training
-290Overtime - Other Rate
-307C o m p . Leave Adjustment L/R
-1F 5Meal Taxable
-1F 8Second Meal Taxable
+256 	Non-Continuous Hours 1
+257 	Overtime - Second Consecutive Holiday (BUD 228, 408)
+258 	Overtime - First Half-Hour of Overtime (BUD 228,408)
+259 	Overtime - Second Meal
+260 	Overtime - On a Regular Working Day
+261 	Overtime - On First Day of Rest
+262 	Overtime - On Second and Subsequent Day of Rest
+263 	Overtime - On Statutory Holiday
+268 	Overtime - While on Training
+290 	Overtime - Other Rate
+307 	C o m p . Leave Adjustment L/R
+1 	F 5 	Meal Taxable
+1 	F 8 	Second Meal Taxable
 
-0106Civilian bilingual bonus
+0106 	Civilian bilingual bonus
 Remuneration paid to civilian personnel in the form of a bonus for using both
 official languages as a requirement for employment.
 This object will include expenditures charged to the following pay entitlement
 codes
-007Bilingual Differential
-141Bilingual Bonus ($ 800.00)
-153Bilingual Bonus - AECB 1
+007 	Bilingual Differential
+141 	Bilingual Bonus ($ 800.00)
+153 	Bilingual Bonus - AECB 1
 
-0107Civilian severance pay and termination benefits
+0107 	Civilian severance pay and termination benefits
 Special remuneration paid to civilian personnel at the time of the termination of
 their employment.
 This object will include all expenditures charged to the following pay entitlement
 codes:
-051Retiring Allowance - Non-eligible
-054Severance Pay - Eligible
-107Death Gratuity (2Months Salary)
-108Retiring Allowance (i.e. Separation Pay, Retirement Incentive Payment) Eligible
-120Retiring Allowance - Registered Retirement Savings Plan
-124Pay in Lieu of Notice (Term Employees)
-202Additional Earnings for Superannuation, Death Benefit (DB), Disability
+051 	Retiring Allowance - Non-eligible
+054 	Severance Pay - Eligible
+107 	Death Gratuity (2 	Months Salary)
+108 	Retiring Allowance (i.e. Separation Pay, Retirement Incentive Payment) Eligible
+120 	Retiring Allowance - Registered Retirement Savings Plan
+124 	Pay in Lieu of Notice (Term Employees)
+202 	Additional Earnings for Superannuation, Death Benefit (DB), Disability
 Insurance (DI) and Long Term Disability Insurance (LTD)
-207Additional Earnings for Superannuation
-208Additional Earnings for DB, Disability Insurance (DI) and LTD
-242TSM - Education Allowance
-250Separation Benefit or Alternative Lump Sum Payment - Eligible
-279Separation Benefit or Alternative Lump Sum Payment - Non-eligible
-280Severance Pay - Non-eligible
-363Retention Payment - Eligible
-364Retention Payment - Non-eligible
-365Transition Support Measure (TSM) or Payment in Lieu of Foregone
+207 	Additional Earnings for Superannuation
+208 	Additional Earnings for DB, Disability Insurance (DI) and LTD
+242 	TSM - Education Allowance
+250 	Separation Benefit or Alternative Lump Sum Payment - Eligible
+279 	Separation Benefit or Alternative Lump Sum Payment - Non-eligible
+280 	Severance Pay - Non-eligible
+363 	Retention Payment - Eligible
+364 	Retention Payment - Non-eligible
+365 	Transition Support Measure (TSM) or Payment in Lieu of Foregone
 Benefits - Eligible
-366Transition Support Measure (TSM) or Payment in Lieu of Foregone
-Page 47of 55
+366 	Transition Support Measure (TSM) or Payment in Lieu of Foregone
+Page 47 	of 55
 
 Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
 
 Benefits - Non-eligible
-367Transition Support Measure Education Allowance or Compensation for
+367 	Transition Support Measure Education Allowance or Compensation for
 Pension Reduction - Eligible
-368Transition Support Measure Education Allowance or Compensation for
+368 	Transition Support Measure Education Allowance or Compensation for
 Pension Reduction - Non-eligible
-369Retiring Allowances - Adjustment - Eligible
-370Retiring Allowances - Adjustment - Non-eligible
-371Civilian Reduction Program - Supplement or Age and Years of Service
+369 	Retiring Allowances - Adjustment - Eligible
+370 	Retiring Allowances - Adjustment - Non-eligible
+371 	Civilian Reduction Program - Supplement or Age and Years of Service
 Allowance under Early Departure Incentive - Eligible
-372Civilian Reduction Program - Supplement - Non-eligible
-373Early Departure Incentive - Eligible
-374Early Departure Incentive - Non-eligible
-385Alternate Delivery Initiative (ADI) Lump Sum - Eligible
-386Alternative Delivery Initiative Lump Sum - Non-eligible
-387Alternative Delivery Initiative Pension Lump Sum - Eligible
-388Alternative Delivery Initiative Pension Lump Sum - Non-eligible
-389Alternative Delivery Initiative Salary Top-up Allowance - Eligible
-390Alternative Delivery Initiative Salary Top-up Allowance - Non-eligible
-391ADI Additional Salary Top-up Allowance - Eligible
-392ADI Additional Salary Top-up Allowance - Non-eligible
-1C 1Institutional Retirement Lump Sum - Non-eligible
-1C 2Institutional Retirement Lump Sum - Eligible
-1S 1Indian Status - Eligible Severance Pay
-1S 2Indian Status - Non-eligible Severance Pay
+372 	Civilian Reduction Program - Supplement - Non-eligible
+373 	Early Departure Incentive - Eligible
+374 	Early Departure Incentive - Non-eligible
+385 	Alternate Delivery Initiative (ADI) Lump Sum - Eligible
+386 	Alternative Delivery Initiative Lump Sum - Non-eligible
+387 	Alternative Delivery Initiative Pension Lump Sum - Eligible
+388 	Alternative Delivery Initiative Pension Lump Sum - Non-eligible
+389 	Alternative Delivery Initiative Salary Top-up Allowance - Eligible
+390 	Alternative Delivery Initiative Salary Top-up Allowance - Non-eligible
+391 	ADI Additional Salary Top-up Allowance - Eligible
+392 	ADI Additional Salary Top-up Allowance - Non-eligible
+1 	C 1 	Institutional Retirement Lump Sum - Non-eligible
+1 	C 2 	Institutional Retirement Lump Sum - Eligible
+1 	S 1 	Indian Status - Eligible Severance Pay
+1 	S 2 	Indian Status - Non-eligible Severance Pay
 
-0108Civilian severance pay and termination benefits
+0108 	Civilian severance pay and termination benefits
 - Immediate settlement
 Remuneration paid to civilian personnel for the immediate cash-out of all or
 portion of severance pay benefits earned prior to termination of employment as
 permitted by collective agreements or under terms and conditions of employment.
 This object will include all expenditures charged to the following pay entitlement
 codes:
-1F 6Full Severance Liquidation Payment
-1F 7Partial Severance Liquidation Payment
+1 	F 6 	Full Severance Liquidation Payment
+1 	F 7 	Partial Severance Liquidation Payment
 
-0110Civilian retroactive - Previous fiscal year(s)
+0110 	Civilian retroactive - Previous fiscal year(s)
 Retroactive salaries and wages, including overtime paid to civilian personnel for
 earnings related to previous fiscal year(s).
 This object will include all expenditures charged to the following pay entitlement
@@ -2217,7 +1985,7 @@ codes:
 211
 212
 213
-Page 48of 55
+Page 48 	of 55
 
 Lieu Retro FY1- Superannuation
 Lieu Retro RY1- No Superannuation
@@ -2242,7 +2010,7 @@ First Year Before Current Fiscal Year - Retroactive Overtime
 Second Year Before Current Fiscal Year - Retroactive Overtime
 Third Year Before Current Fiscal Year - Retroactive Overtime
 
-0111Civilian retroactive - Current fiscal year
+0111 	Civilian retroactive - Current fiscal year
 Retroactive salaries and wages, including overtime paid to civilian personnel for
 earnings related to the current fiscal year.
 This object will include all expenditures charged to the following pay entitlement
@@ -2269,33 +2037,33 @@ Rotational Supplement - Pensionable
 Compensation Award - Pensionable but with No Premiums
 Rotational Supplement - Pensionable but with No Premiums
 
-0112Civilian pay equity
+0112 	Civilian pay equity
 This object will include all expenditures charged to the following pay entitlement
 codes:
 2645% Lump Sum in Lieu
-267Pay Equity Retroactive Adjustment
-269Pay Equity Retroactive Adjustment - Non-pensionable
-270Additional Earnings for Superannuation, Death Benefit, Disability
+267 	Pay Equity Retroactive Adjustment
+269 	Pay Equity Retroactive Adjustment - Non-pensionable
+270 	Additional Earnings for Superannuation, Death Benefit, Disability
 Insurance and Long Term Disability Insurance - Double
-271Pay Equity Salary Adjustment
-272Pay Equity Salary Adjustment - Non-pensionable
-273Pay Equity Overtime Adjustment
-277Pay Equity Basic Pay Adjustment
-278Pay Equity Basic Pay Adjustment - Non-pensionable
-310Pay Equity Vacation Pay Adjustment
-311Pers Pay Equity Retro Adjustment
-312Pers Pay Equity Retro Adjustment - Non-pensionable
-313Pers Pay Equity Basic Pay Adjustment
-314Pers Pay Equity Basic Pay Adjustment - Non-pensionable
-315Pers Pay Equity Salary Adjustment
-316Pers Pay Equity Salary Adjustment - Non-pensionable
-317Pers Pay Equity Overtime Adjustment (rate base=1and 9)
-323Pers Pay Equity Vacation Pay Adjustment
-334Translation Pay Equity Retro Adjustment - Superannuable
-335Translation Pay Equity Adjustment - Non-superannuable
+271 	Pay Equity Salary Adjustment
+272 	Pay Equity Salary Adjustment - Non-pensionable
+273 	Pay Equity Overtime Adjustment
+277 	Pay Equity Basic Pay Adjustment
+278 	Pay Equity Basic Pay Adjustment - Non-pensionable
+310 	Pay Equity Vacation Pay Adjustment
+311 	Pers Pay Equity Retro Adjustment
+312 	Pers Pay Equity Retro Adjustment - Non-pensionable
+313 	Pers Pay Equity Basic Pay Adjustment
+314 	Pers Pay Equity Basic Pay Adjustment - Non-pensionable
+315 	Pers Pay Equity Salary Adjustment
+316 	Pers Pay Equity Salary Adjustment - Non-pensionable
+317 	Pers Pay Equity Overtime Adjustment (rate base=1 	and 9)
+323 	Pers Pay Equity Vacation Pay Adjustment
+334 	Translation Pay Equity Retro Adjustment - Superannuable
+335 	Translation Pay Equity Adjustment - Non-superannuable
 
-0120Civilian allowances to compensate employees
-Page 49of 55
+0120 	Civilian allowances to compensate employees
+Page 49 	of 55
 
 Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
 
@@ -2306,28 +2074,28 @@ civilian personnel for certain types of expenses that are incurred as part of th
 regular employment.
 This object will include all expenditures charged to the following pay entitlement
 codes:
-010Canoe Allowance
-038Clothing Allowance / Correction Services Group
-047Automobile Benefit
-084Boot and Glove Allowance
-104Mileage/Out of Pocket Expenses
-112Meal's and Quarters Cash (Non-Taxable) - Pay at Time and One-half
-129Adjustment for Transferred Teachers
-137Tool Usage Expense
-152Safety Footwear Allowance
-158Transfer Allowance
-201Quarters and Rations in Kind - Taxable
-203Meals and Quarters in Cash - Taxable
-204Meals and Quarters in Kind - Taxable
-228Travel Expense Allowance
-284Phone Allowance - Ships Crews
-289Handicapped Parking
-343Supplement Multilingual Service
-1G 1Distinctive Cloth.
-1G 2Non-Distinctive Cloth.
-1F 4Commuting Assistance
+010 	Canoe Allowance
+038 	Clothing Allowance / Correction Services Group
+047 	Automobile Benefit
+084 	Boot and Glove Allowance
+104 	Mileage/Out of Pocket Expenses
+112 	Meal's and Quarters Cash (Non-Taxable) - Pay at Time and One-half
+129 	Adjustment for Transferred Teachers
+137 	Tool Usage Expense
+152 	Safety Footwear Allowance
+158 	Transfer Allowance
+201 	Quarters and Rations in Kind - Taxable
+203 	Meals and Quarters in Cash - Taxable
+204 	Meals and Quarters in Kind - Taxable
+228 	Travel Expense Allowance
+284 	Phone Allowance - Ships Crews
+289 	Handicapped Parking
+343 	Supplement Multilingual Service
+1 	G 1 	Distinctive Cloth.
+1 	G 2 	Non-Distinctive Cloth.
+1 	F 4 	Commuting Assistance
 
-0121Civilian compensation for additional or specific
+0121 	Civilian compensation for additional or specific
 duties performed
 Remuneration paid as an allowance in accordance with a collective bargaining
 agreement or with the Terms and Conditions of Employment to compensate
@@ -2347,7 +2115,7 @@ codes:
 018
 020
 021
-Page 50of 55
+Page 50 	of 55
 
 Administrative Allowance - Teachers - One Room School
 Officer Cadets - Sea Duty Allowance
@@ -2418,7 +2186,7 @@ Farm Managers Allowance
 324
 325
 326
-Page 51of 55
+Page 51 	of 55
 
 Farm Managers Allowance
 First Aid to the General Public
@@ -2477,32 +2245,32 @@ High Angle Rescue Allowance
 
 Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
 
-332Dangerous Goods Allowance
-333Human Drugs Clinical Review Allowance
-347Assignment Allowance 1
-467Rescue Special Allowance
-468Fisheries Enforcement Allowance
-472Class Conversion
-474Allowance for Management Duties 1
-489Armed Boarding Allowance
-1A 3Rigid Hull Inflatable Allowance - Lump Sum
-1B3Primary Products Inspection Group Grain Inspector Supplement
-1B5Dangerous Goods
-1B6Functional Supervisory Differential
-1B7Meat Hygiene Allowance
-1B8Functional Supervisory Differential - Non-superannuable
-1B9Meat Hygiene Allowance - Non-superannuable
-1C 3Instructor Allowance - Pensionable
-1C 4Institutional Emergency Response Team Allowance - Pensionable
-1C 5Instructor Allowance - Non-pensionable
-1C 6Institutional Emergency Response Team Allowance - Non-pensionable
-1D 1Market Allowance
-1E9Allowance for Use of Space and Equipment
-1F 1Immediate Operational Readiness
-1F 2Operational Availability
-1G 8Integrated Border Services Allowance
+332 	Dangerous Goods Allowance
+333 	Human Drugs Clinical Review Allowance
+347 	Assignment Allowance 1
+467 	Rescue Special Allowance
+468 	Fisheries Enforcement Allowance
+472 	Class Conversion
+474 	Allowance for Management Duties 1
+489 	Armed Boarding Allowance
+1 	A 3 	Rigid Hull Inflatable Allowance - Lump Sum
+1 	B3 	Primary Products Inspection Group Grain Inspector Supplement
+1 	B5 	Dangerous Goods
+1 	B6 	Functional Supervisory Differential
+1 	B7 	Meat Hygiene Allowance
+1 	B8 	Functional Supervisory Differential - Non-superannuable
+1 	B9 	Meat Hygiene Allowance - Non-superannuable
+1 	C 3 	Instructor Allowance - Pensionable
+1 	C 4 	Institutional Emergency Response Team Allowance - Pensionable
+1 	C 5 	Instructor Allowance - Non-pensionable
+1 	C 6 	Institutional Emergency Response Team Allowance - Non-pensionable
+1 	D 1 	Market Allowance
+1 	E9 	Allowance for Use of Space and Equipment
+1 	F 1 	Immediate Operational Readiness
+1 	F 2 	Operational Availability
+1 	G 8 	Integrated Border Services Allowance
 
-0122Civilian pay equity allowances
+0122 	Civilian pay equity allowances
 This object will include all expenditures charged to the following pay entitlement
 codes:
 243
@@ -2523,149 +2291,138 @@ Pers Pay Equity Separation Benefits Adjustment - Non-eligible
 Pers Pay Equity Allowance Adjustment - Pensionable
 Pers Pay Equity Allowance Adjustment - Non-pensionable
 
-0123Civilian pay equity - Interest
+0123 	Civilian pay equity - Interest
 This object will include all expenditures charged to the following pay entitlement
 code:
-246Pay Equity Interest
+246 	Pay Equity Interest
 
-0125Civilian isolated posts allowance
+0125 	Civilian isolated posts allowance
 Remuneration paid as an allowance to civilian personnel for being employed in an
 isolated location. Such payment is made in accordance with the Isolated Posts
 Directive, a collective bargaining agreement, or the Terms and Conditions of
 Employment.
-Page 52of 55
+Page 52 	of 55
 
 Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
 
 This object will include all expenditures charged to the following pay entitlement
 codes:
-046Shelter Cost Differential
-057Specified Location Allowance
-101Living Cost Differential
-102Fuel and Utilities Differential
-128Northern Allowance - Judges 1
-282Vacation Travel Assistance Payment
-297Environment Allowance
-1F 4Commuting Assistance
+046 	Shelter Cost Differential
+057 	Specified Location Allowance
+101 	Living Cost Differential
+102 	Fuel and Utilities Differential
+128 	Northern Allowance - Judges 1
+282 	Vacation Travel Assistance Payment
+297 	Environment Allowance
+1 	F 4 	Commuting Assistance
 
-0126Other civilian allowances and benefits (specify)
+0126 	Other civilian allowances and benefits (specify)
 Remuneration paid to civilian personnel as an allowance or benefit in accordance
 with a collective bargaining agreement or the Terms and Conditions of
 Employment, which does not pertain to allowances specified in other objects.
 This object will include all expenditures charged to the following pay entitlement
 codes:
-068Canadian Grain Commission Differential
-077Educational Leave Allowance
-144Equalization Adjustment Allowance
-146Maternity Allowance
-148Employment Insurance SUB Plan
-188Retention Allowance
-216Salary Relativity - Pensionable 1
-217Salary Relativity - Non-pensionable 1
-218Equalization Adjustment - Pensionable
-219Equalization Adjustment - Retroactive - Non-pensionable
-227Terminable Retention Allowance
-229Monthly Terminable Allowance or Chief Financial Officer Transitional
+068 	Canadian Grain Commission Differential
+077 	Educational Leave Allowance
+144 	Equalization Adjustment Allowance
+146 	Maternity Allowance
+148 	Employment Insurance SUB Plan
+188 	Retention Allowance
+216 	Salary Relativity - Pensionable 1
+217 	Salary Relativity - Non-pensionable 1
+218 	Equalization Adjustment - Pensionable
+219 	Equalization Adjustment - Retroactive - Non-pensionable
+227 	Terminable Retention Allowance
+229 	Monthly Terminable Allowance or Chief Financial Officer Transitional
 Allowance
-234Aviation Aircrew Allowance
-244Maternity Allowance - Ongoing
-251Recruitment and Retention Allowance
-288Salary Relativity Adjustments 1
-299Equalization Adjustment Overtime
-344Equal Adjustment Balance
-395Special Tax Exemption (Federal)
-396Federal Tax Exemption (Quebec)
-1H 4Correctional Officer Allowance
-1H 5EG Lab/X-ray Technologist Annual Allowance
-1H 6EG Annual Allowance
+234 	Aviation Aircrew Allowance
+244 	Maternity Allowance - Ongoing
+251 	Recruitment and Retention Allowance
+288 	Salary Relativity Adjustments 1
+299 	Equalization Adjustment Overtime
+344 	Equal Adjustment Balance
+395 	Special Tax Exemption (Federal)
+396 	Federal Tax Exemption (Quebec)
+1 	H 4 	Correctional Officer Allowance
+1 	H 5 	EG Lab/X-ray Technologist Annual Allowance
+1 	H 6 	EG Annual Allowance
 
-0182Supplementary employee benefits
+0182 	Supplementary employee benefits
 Amounts paid as supplementary benefits, for items such as lodgings and free
 food. It includes the provincial health remuneration supplement paid to
 employees resident in certain provinces as the employer's portion of payments to
 provincial hospital and medical plans.
 This object will include all expenditures charged to the following pay entitlement
-Page 53of 55
+Page 53 	of 55
 
 Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
 
 code:
-170Medicare Remunerations Supplements - British Columbia
+170 	Medicare Remunerations Supplements - British Columbia
 
-0186Other supplementary personnel costs
+0186 	Other supplementary personnel costs
 Any other amounts paid as supplementary personnel costs that are not included
-in economic objects 0151to 0155, such as incentive bonus, exempt staff costs,
+in economic objects 0151 	to 0155, such as incentive bonus, exempt staff costs,
 housing subsidy, employee parking reimbursement, etc.
 This object will include all amounts charged to the following pay entitlement
 codes:
-061
-248
-281
-285
-295
-296
-322
-466
+061	Premium Pay
+248	Housing Benefit
+281	Reimbursement for Parking
+285	Housing Differential Assistance 1
+295	Transition Support Allowance
+296	Transportation Subsidy
+322	Awards and Rewards
+466	Survivor Benefit
 
-Premium Pay
-Housing Benefit
-Reimbursement for Parking
-Housing Differential Assistance 1
-Transition Support Allowance
-Transportation Subsidy
-Awards and Rewards
-Survivor Benefit
+0445 	Tuition fees for courses where employees take training on their own time
 
-0445Tuition fees for courses where employees take
-training on their own time
 This object will include expenditures charged to the following pay entitlement
 codes:
-090Education
-239Reimbursement of Tuition Fees and Books
+090 	Education
+239 	Reimbursement of Tuition Fees and Books
 
-0447Tuition fees and costs of attending courses not
-elsewhere specified (specify)
+0447 	Tuition fees and costs of attending courses not elsewhere specified (specify)
+This object will include expenditures charged to the following pay entitlement code.
+090 	Education
+239 	Reimbursement of Tuition Fees and Books
+
+0451 	Other health services not elsewhere specified
 This object will include expenditures charged to the following pay entitlement
 code.
-090Education
-239Reimbursement of Tuition Fees and Books
+1 	G 3 	WFA Financial Counseling
 
-0451Other health services not elsewhere specified
-This object will include expenditures charged to the following pay entitlement
-code.
-1G 3WFA Financial Counseling
+0821 	Membership fees
 
-0821Membership fees
 This object will include all expenditures charged to the following pay entitlement
-codes:034Membership Fees
-Page 54of 55
+codes:
+034 	Membership Fees
+240 	Reimbursement of Seminars and Membership
 
-Government-wide Chart of Accounts - Chapter 7- Object codes - Summary - (FY 2015-2016)
-034Membership Fees
-240 Reimbursement of Seminars and Membership
+5049 	Other adjustments to advances
 
-5049 Other adjustments to advances
 All other transactions that pertain to advances, which could include: (i) other
 acquisitions of advances, i.e. advances acquired for consideration other than cash
 or other assets; (ii) other settlements of advances, i.e. advances settled for
 consideration other than cash or other assets.
 
-5399 Net increase or decrease in accounts receivable
+5399 	Net increase or decrease in accounts receivable
 This object includes the following pay entitlement codes:
-1H 1Transition Payment 2014
-1H 3Transition Payment retaken on strength (RE-TOS)
+1 	H 1 	Transition Payment 2014
+1 	H 3 	Transition Payment retaken on strength (RE-TOS)
 
-6037Return of contributions from Public Service
-Superannuation Act
+6037 	Return of contributions from Public Service Superannuation Act
+
 This object will include all expenditures charged to the following pay entitlement
 codes:
-286Public Service Superannuation Act (PSSA) 2Fund Return of Contributions
-(ROC)
-287PSSA 2Fund ROC Interest
-293Retirement Compensation Arrangement (RCA) 2ROC
-294RCA 2ROC In te re s t
+286 	Public Service Superannuation Act (PSSA) 2 	Fund Return of Contributions (ROC)
+287 	PSSA 2 	Fund ROC Interest
+293 	Retirement Compensation Arrangement (RCA) 2 	ROC
+294 	RCA 2 	ROC Interest
 
 Footnotes
-1
-Entitlement codes relate to entities for which Treasury Board does not
+1 Entitlement codes relate to entities for which Treasury Board does not
 represent the employer.
+
+
+
