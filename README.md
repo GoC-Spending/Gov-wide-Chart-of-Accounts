@@ -11,8 +11,8 @@ Only after creating this repository, did we discover these:
 
 Which had in them the data from that outdated PDF.  We've incorporated the some of the delimited text files from this dataset with version control so that you can easily see what's changed in the 2 years.  
 
-There are also other pieces of data on government Chart of Accounts that may be worth collecting.
-
+There are also other pieces of data on government Chart of Accounts that may be worth collecting:
 - [Authority codes list as per the Government-wide Chart of Accounts](http://open.canada.ca/data/en/dataset/e338ea7c-33b9-4fa1-bb30-f11afccff3ad)
+- [Open.Canada.ca List of Chart of Accounts](http://open.canada.ca/data/en/dataset?keywords=Government-wide+Chart+of+Accounts)
 
 Of course there are also the [GoC: Goods and Services Identification Number](https://buyandsell.gc.ca/procurement-data/goods-and-services-identification-number) which will be replaced by the [The United Nations Standard Products and Services Code® (UNSPSC®)](https://www.unspsc.org/) in 2017. The two are mapped [GSIN to UNSPSC](https://buyandsell.gc.ca/procurement-data/unspsc/download-unspsc) or [GSIN to UNSPSC(on open.canada.ca)](http://open.canada.ca/data/en/dataset/588eab5b-7b16-4a26-b996-23b955965ffa).
