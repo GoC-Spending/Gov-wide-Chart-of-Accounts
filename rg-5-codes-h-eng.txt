@@ -1,0 +1,949 @@
+Number	Name
+^1	Budgetary
+^11	Expenditures
+A	Statutory expenditures
+A1	Standard
+A11	Operating budget related items
+A111	Minister's salary and motor car allowance (including Prime Minister and secretaries of state)
+A112	Other statutory salaries and allowances
+A12	Special statutory items
+A121	Court awards-Crown Liability and Proceedings Act
+A122	Refunds of previous years revenue
+A123	Collection agency fees under section 17.1 of the Financial Administration Act
+A124	Court awards-Supreme Court
+A125	Court awards-Tax Court of Canada
+A126	Losses on foreign exchange
+A127	Payment pursuant to section 24(1) of the Financial Administration Act
+A13	Restricted spending authorities
+A130	Spending of revenues pursuant to section 30 of the Canadian Food Inspection Agency Act
+A131	Spending of amounts equivalent to proceeds from disposal of surplus moveable Crown assets
+A132	Expenditures pursuant to paragraph 29.1 of Financial Administration Act (for departmental corporations)
+A133	Expenditures equivalent to revenue resulting from the conduct of operations pursuant to section 20 of the Parks Canada Agency Act
+A134	Spending of revenue received pursuant to section 60 of the Canada Revenue Agency Act
+A135	Spending pursuant to section 5 of the National Research Council Act
+A136	Expenditures pursuant to section 29 of the Financial Administration Act for payments pursuant to guaranties under the Spring Credit Advance Program
+A137	Expenditures pursuant to section 29 of the Financial Administration Act in respect to guarantees entered into by Farm Credit Canada for the National Bio Ethanol Program
+A138	Spending of revenues pursuant to section 18(2)of the Canada School of Public Service Act
+A139	Spending pursuant to section 12(4) of the Canada Education Savings Act
+A161	Spending of revenues pursuant to section 4.2 of the Department of Health Act
+A162	Spending of revenues pursuant to section 21(3) of the Nuclear Safety and Control Act
+A163	Spending of revenues pursuant to section 60.1 of Department of Employment and Social Development (ESDC) Act
+A164	Spending of revenues pursuant to paragraph 4(2)(a) of Social Sciences and Humanities Research Council Act
+A165	Spending of revenues pursuant to paragraph 4(2)(a) of Natural Sciences and Engineering Research Council Act
+A166	Spending of revenues pursuant to section 6(1)(g) of the Canadian Centre of Occupational Health and Safety Act
+A14	Contribution to employee benefit plans
+A145	Contributions to employee benefit plans-Treasury Board residual
+A146	Contributions to employee benefit plans-Members of the military
+A149	Contributions to employee benefit plans-Reorganisation
+A14A	Contributions to employee benefit plans-Program
+A15	Other
+A153	Transfer payments in connection with the Budget Implementation Act
+A2	Transfer payments
+A20	Agriculture-Payments in connection with the Farm Income Protection Act
+A201	Crop insurance programs
+A203	Net Income Stabilization Account
+A206	Contributions to a transition to future risk management programming
+A209	Grants and contributions for the AgriInvest Kickstart Program
+A210	Grants and contribution payments for the AgriInvest Program
+A213	Payments in connection with the Agriculture Marketing Programs Act
+A214	Grants for the Transitional Industry Support Program
+A215	Bovine Spongiform Encephalopathy (BSE) Recovery Program
+A216	Business risk management (BRM) programs
+A217	Farm Income Protection Act-Province-based programs
+A218	Contributions for the Transitional Industry Support Program
+A219	Contributions for the Canadian Farm Income Program
+A220	Payments in connection with the Farm Income Protection Act-Quebec gross revenue insurance conditional remission order
+A221	Class contribution payments for repositioning of the Canadian beef and cattle industry
+A225	Contributions in support of the Farm Income payment
+A226	Grants in support of the Farm Income payment
+A229	Contributions in support of business risk management programs under the Agricultural Policy Framework-Production insurance
+A230	Grants in support of the Canadian Agriculture Income Stabilization (CAIS) Inventory Transition Initiative
+A235	Contributions in support of the Canadian Agriculture Income Stabilization (CAIS) Inventory Transition Initiative
+A236	Contribution payments for the Grain and Oilseed Payment Program
+A237	Grant payments for the Grain and Oilseed Payment Program
+A238	Contributions in support of business risk management programs under the Agricultural Policy Framework-Province-based programs
+A239	Contributions in support of business risk management programs under the Agricultural Policy Framework-Agriculture policy initiatives
+A294	Grant payments for the Golden Nematode Disaster Program
+A295	Grants and contributions in support of the Cost of Production Benefit
+A296	Grant and contribution payments for the Agricultural Disaster Relief Program-AgriRecovery
+A297	Grants in support of the Cull Breeding Swine Program
+A298	Grant and contribution payments for the AgriStability Program
+A299	Contributions in support of the Assistance to the Pork Industry Initiative
+A22	Agriculture-Other payments
+A223	Grants to agencies established under Farm Products Agencies Act
+A224	Loan guarantees under the Canadian Agricultural Loans Act
+A227	Canadian Cattlemen's Association Legacy Fund
+A23	Environment
+A233	Canada Foundation for Sustainable Development Technology grant
+A293	Nature Conservancy of Canada
+A24	Finance-Federal-provincial payments
+A241	Canada Health and Social Transfer
+A242	Fiscal equalization
+A243	Statutory subsidies
+A244	Alternative payments for standing programs
+A245	Youth allowances recovery
+A251	Canadian Millennium Scholarship Foundation
+A256	Canada Health Transfer
+A257	Canada Social Transfer
+A267	Payment to Ontario related to Canada Health Transfer
+A273	Territorial financing (Part I.1-Federal-Provincial Fiscal Arrangement Act)
+A274	Wait times reduction transfer
+A382	Transitional payment to Newfoundland and Labrador
+A383	Additional Fiscal equalization to Nova Scotia
+A384	Additional Fiscal equalization Offset Payment to Nova Scotia
+A385	Payments to provinces for assistance with sales tax harmonization
+A386	Payment to Nova Scotia-Offshore Petroleum Resources
+A387	Additional Fiscal equalization Payment-Total Transfer Protection (BIA 2010)
+A388	Canada Health Transfer and Canada Social Transfer to Saskatchewan and Newfoundland and Labrador-Total Transfer Protection
+A389	Fiscal stabilization
+A421	Environment, including public transit and energy-efficient retrofit program for low-income housing
+A422	Training programs and post-secondary education access enhancement
+A423	Affordable housing
+A432	Payments to Ontario
+A437	Incentive for provinces to eliminate taxes on capital
+A439	Securities regulation
+A444	Additional Fiscal equalization Payment-Total Transfer Protection (BIA1 2013)
+A26	Finance-International development payments
+A261	Payments for International Development Association
+A262	Payments to International Monetary Fund's Poverty Reduction and Growth Facility
+A264	Payments for foreign aid
+A265	Payment for multilateral debt relief
+A266	Small and Medium Enterprise (SME) Finance Challenge
+A268	Fast start climate change financing
+A269	Agriculture Advance Market Commitment
+A27	Finance-Other
+A270	Payments to the Canadian Securities regulation Regime Transition Office
+A271	Payments for pensions grants or allowances in respect to the Halifax Relief Pension Continuation Act
+A284	Payments to PPP Canada Inc.
+A28	Foreign Affairs, Trade and Development (Department of)
+A281	Payments to the international financial institutions accounts
+A29	Export Development Canada
+A291	Payments of concessional loans to facilitate and develop trade between Canada and foreign countries
+A292	Forgiveness of non-budgetary loans pursuant to section 23(6) of the Export Development Act
+A31	Health
+A311	Payments for Insured Health Services and Extended Health Care
+A312	Canada Health Infoway Inc.
+A315	Payments in connection with the Patent Act (Patented medicines)
+A32	Employment and Social Development Canada
+A320	Benefit enhancement measures -Employment Insurance Operating Account
+A321	Interest payments under the Canada Student Loans Act
+A322	Liabilities under the Canada Student Loans Act
+A323	Interest and other payments under the Canada Student Financial Assistance Act
+A325	Labour adjustment benefits payments
+A326	Payments of compensation respecting government employees and merchant seamen
+A327	Old Age Security Pension
+A330	Canada education savings grant payments to Registered Educations Savings Plans (RESPs)trustees on behalf of RESP beneficiaries to encourage Canadians to save for post-secondary education of children
+A331	Canada Study Grants to qualifying full and part-time students pursuant to the Canada Student Financial Assistance Act
+A332	Payments related to the direct financing arrangements under the Canada Student Financial  Assistance Act
+A333	Old age guaranteed income supplement payments
+A334	Old age allowance payments
+A335	Universal Child Care Benefit
+A337	Canada Learning Bond payments to Registered Education Savings Plans (RESPs) trustees on behalf of RESP beneficiaries to support access to post-secondary education to children from low-income families
+A338	Wage Earner Protection Program
+A339	Canada Disability Savings Bond
+A340	Canada Disability Savings Grants
+A349	Payments in connection with the Apprentice Loans Act
+A34	Indian affairs and Northern Development
+A342	Grants to aboriginal organizations designated to receive claim settlement payments pursuant to Comprehensive Land Claim Settlement Acts
+A345	Grant to the Nunatsiavut Government for the implementation of the Labrador Inuit Land Claims Agreement pursuant to the Labrador Inuit Land Claims Agreement Act
+A346	Mackenzie Gas Projects Impacts Act
+A347	Grassy Narrows and Islington Bands Mercury Disability Board
+A348	Indian Annuities Treaty payments
+A35	Office of Infrastructure of Canada
+A353	Infrastructure Stimulus Fund
+A354	Provincial-Territorial Infrastructure Base Funding Program
+A355	Communities Component of the Building Canada Fund
+A356	Green Infrastructure Fund
+A357	Gas Tax Fund-Financing municipal infrastructure
+A36	Industry
+A362	Liabilities in Atlantic Canada under the Small Business Loan Act
+A364	Canada Foundation for Innovation
+A366	Liabilities under the Canada Small Business Financing Act
+A367	Genome Canada
+A369	Liabilities for loan guarantee payments pursuant to paragraph 14(1)(b) of the Department of Industry Act
+A438	Improving infrastructure at universities and colleges
+A37	Natural Resources
+A370	Reduction of housing energy consumption, Natural Resources Canada
+A371	Payments to Atomic Energy of Canada Limited (AECL)
+A372	Canada / Nova Scotia Development Fund
+A373	Canada / Newfoundland Development Fund
+A374	Canada / Newfoundland Offshore Petroleum Board
+A375	Canada / Nova Scotia Offshore Petroleum Board
+A376	Payments to the Nova Scotia Offshore Revenue Account
+A378	Payments to the Newfoundland Offshore Petroleum Resource Revenue Fund
+A379	Newfoundland Fiscal equalization Offset Payments
+A380	EnerGuide for Houses Retrofit Incentive Program
+A381	Crown share adjustment payments for Nova Scotia Offshore Petroleum Resources
+A39	Canada Revenue Agency
+A391	Children's Special Allowance payments
+A392	Energy cost benefit
+A393	Softwood lumber-Payments to provinces
+A40	Public Works and Government Services
+A401	Payment in lieu of taxes to municipalities and other taxing authorities
+A41	Transport
+A411	Victoria Bridge, Montreal
+A413	Northumberland Strait Crossing subsidy payment
+A414	Payments in respect of St. Lawrence Seaway agreements
+A45	Canada Mortgage and Housing Corporation
+A451	Reduction of housing energy consumption, Canada Mortgage and Housing Corporation
+A452	EnerGuide for low-income households
+A453	Renovation and retrofit of social housing
+A454	Housing for low-income seniors
+A47	Citizenship and Immigration Canada
+A471	Fees returned in connection with a terminated application
+A472	Fees returned in connection with a terminated application in investor and entrepreneur classes
+A5	Revolving funds
+A50	Agriculture
+A501	Canadian Grain Commission Revolving Fund
+A502	Canadian Pari-Mutuel Agency revolving fund
+A51	Canadian Heritage
+A513	National Film Board Revolving Fund
+A53	Industry
+A531	Canadian Intellectual Property Office Revolving Fund
+A54	Natural Resources
+A541	Geomatics Canada Revolving Fund
+A56	Public Works and Government Services
+A561	Real Property Services Revolving Fund
+A564	Optional Services Revolving Fund
+A568	Translation Bureau Revolving Fund
+A569	Defence Production Revolving Fund
+A58	Public Safety and Emergency Preparedness
+A581	CORCAN Revolving Fund
+A59	Citizenship and Immigration (Department of)
+A521	Passport Office Revolving Fund
+A6	Superannuation and related accounts
+A60	Canadian Heritage
+A601	Payments under the Lieutenant- Governors Superannuation Act
+A602	Supplementary Retirement Benefits-Former lieutenant-governors
+A61	Foreign Affairs, Trade and Development (Department of)
+A611	Payments under the Diplomatic Service (Special) Superannuation Act
+A62	Governor General
+A621	Annuities payable under the Governor General's Act
+A63	Employment and Social Development Canada
+A631	Supplementary Retirement Benefits-Annuities agents' pensions
+A632	Civil Service Insurance actuarial liability adjustments
+A633	Actuarial liability adjustments-Government annuities account
+A65	National Defence
+A653	Pensions and annuities paid to civilians
+A654	Payments under the Supplementary Retirement Benefits Act
+A655	Payments under parts I-IV of the Defence Services Pension Continuation Act
+A67	Public Safety and Emergency Preparedness
+A671	Pensions and other employee benefits-Royal Canadian Mounted Police (RCMP)
+A672	Royal Canadian Mounted Police (RCMP)-Earlier Superannuation Acts
+A674	Correctional Service-Pension and other benefits
+A68	Treasury Board
+A681	Payments under earlier Superannuation Acts
+A682	Contributions to the Retirement Compensation Account
+A683	Payments for the pay equity settlement
+A684	Payments under the Public Service Pension Adjustment Act
+A69	Veterans Affairs
+A691	Veterans insurance actuarial liability adjustment
+A692	Returned Soldiers Insurance actuarial liability adjustment
+A7	Interest and other costs related to public debt
+A70	Finance-Interest on unmatured debt and other public debt costs
+A701	Interest on unmatured debt and other public debt costs
+A702	Interest on other liabilities
+A8	Other statutory amounts
+A80	Agriculture
+A803	Canadian Food Inspection Agency-Compensation payments for the Health of Animals Act and the Plant Protection Act
+A81	Canadian Heritage
+A811	Payment to the Canadian Museum of Immigration at Pier 21
+A82	Finance
+A821	Purchase of domestic coinage
+A822	Losses on premium, and discount
+A823	Payment of liabilities previously recorded as revenue
+A824	Payments to depositors under Financial Institution Depositors Compensation Act
+A825	Payments under section 17 of the Office of the Superintendent of Financial Institution Act
+A826	Payments to Foreign Claims Fund
+A827	Payments under section 13 of the Financial Consumer Agency of Canada Act
+A83	Export Development Canada
+A832	Export development Canada-Administration charges per section 23 of the Export Development Act
+A85	Indian affairs and Northern Development
+A852	Payments on loan guarantees made to Indians for housing and economic development
+A853	Payments to comprehensive claim beneficiaries in compensation for resource royalties
+A87	Justice
+A872	Commissioner for Federal Judicial Affairs: Judges salaries, allowances and annuities
+A875	Supreme Court-Judges salaries, allowances and annuities
+A90	Parliament
+A901	Officers and members of the Senate-Salaries, allowances and other payments
+A902	Members of the House of Commons-Salaries and allowances
+A91	Privy Council
+A911	Salary of the Chief Electoral Officer
+A912	Electoral expenditures
+A913	Expenditures under the Electoral Boundaries Readjustment Act
+A92	Receiver General
+A922	Provision for valuation
+A93	Veterans Affairs
+A931	Re-establishment credits under section 8, and repayments under section 15 of the War Service Grants Act of compensating adjustments made in accordance with the terms of the Veterans' Land Act
+B	Non-Statutory expenditures
+B1	Standard
+B11	Program expenditures or operating expenditures vote-All departments
+B119	Program expenditures or operating expenditures vote-Reorganization
+B11A	Program expenditures or operating expenditures vote
+B12	Program expenditures or operating expenditures vote-All departments
+B129	Program expenditures or operating expenditures vote-Reorganisation
+B12A	Program expenditures or operating expenditures vote
+B13	Revenue Credited to the Vote-Authorized departments
+B139	Revenue Credited to the Vote (Credited to the Program or Operating Vote for the Program)-Reorganisation
+B13A	Revenue credited to the vote (credited to the program or operating vote for the program)
+B14	Capital vote-Authorized departments
+B149	Capital vote-Reorganisation
+B14A	Capital vote
+B15	Grants and contributions-Authorized departments
+B159	Grants and contribution vote-Reorganisation
+B15A	Grants and contribution vote
+B16	Other appropriations
+B161	Debt write-offs
+B162	Forgiveness of debts
+B163	Subsidy Paid to Revolving funds
+B2	Appropriations to Crown corporations
+B20	Canadian Broadcasting Corporation
+B202	Payments to Canadian Broadcasting Corporation for operating expenditures
+B204	Payments to Canadian Broadcasting Corporation for capital expenditures
+B206	Payments to Canadian Broadcasting Corporation for working capital
+B21	National Capital Commission
+B212	Payments to National Capital Commission for operating expenditures
+B214	Payments to National Capital Commission for capital expenditures
+B22	Payments to museums
+B221	National Gallery of Canada for operating and capital expenditures
+B222	National Gallery of Canada for the purchase of objects for the collection
+B223	Canadian Museum of Civilization for operating and capital expenditures
+B224	Canadian Museum of Nature for operating and capital expenditures
+B225	National Museum of Science and Technology for operating and capital expenditures
+B226	Canadian Museum for Human Rights-Operating and capital expenditures
+B227	Canadian Museum of Immigration at Pier 21 for operating and capital expenditures
+B23	Payments for cultural purposes
+B231	Telefilm Canada
+B232	National Arts Centre Corporation
+B234	Canada Council for the Arts
+B24	Payments for transportation purposes
+B241	Marine Atlantic Inc.
+B242	VIA Rail Canada Inc.
+B243	The Jacques-Cartier and Champlain Bridges Inc.
+B244	Canadian Air Transport Security Authority
+B245	Payments to The Federal Bridge Corporation Limited
+B246	The Windsor-Detroit Bridge Authority
+B25	Payments for industry or regional development purposes
+B251	Enterprise Cape Breton Corporation
+B254	Standards Council of Canada
+B255	Canadian Dairy Commission
+B256	Atomic Energy of Canada Limited
+B257	Canadian Tourism Commission
+B26	Payments to other Crown corporations
+B260	Payments to the First Nations Statistical Institute
+B261	Old Port of Montreal Corporation Inc.
+B263	Payments to Canada Post Corporation for special purposes
+B264	Canada Mortgage and Housing Corporation
+B267	Canadian Wheat Board
+B268	Payments to PPP Canada Inc. for operations and program delivery
+B269	Payments to PPP Canada Inc. for P3 fund investments
+B27	Payments for Foreign Affairs, Trade and Development purposes
+B271	Canadian Commercial Corporation
+B272	International Development Research Centre
+B3	Specific appropriated accounts
+B31	Special departmental appropriations or accounts
+B312	National Film Board Revolving Fund-Operating loss
+B313	Investors' Indemnity Account
+B314	Payments to New Parks and Historic Sites Account
+B316	Payments to territorial governments
+B317	Federal-provincial transfers-Manitoba
+B318	Locally engaged staff benefit programs
+B32	Centrally provided appropriations (Treasury Board votes)
+B321	Public Service Insurance
+B322	Government contingencies vote (T.b. vote 5)
+B323	Provision for valuation
+B325	Government-wide initiatives
+B326	Compensation adjustments
+B4	Suspense accounts
+B41	Other government departments (OGD) suspense
+B410	Other government departments (OGD) suspense-Authorities transferred from another department
+B42	Interdepartmental Settlement Suspense accounts
+B420	Interdepartmental Settlement Suspense accounts
+^12	Revenue
+C	Tax revenue
+C1	Income tax
+C11	Income taxes
+C111	Collections, less refunds and transfers
+C112	Interest and penalties
+C113	Child tax benefit and credit
+C115	Other Transfers under the Income tax Act for individuals
+C116	Other Transfers under the Income tax Act for industry
+C2	Excise tax
+C21	Goods and services tax (including the harmonized sales tax)
+C211	Net collections (after deducting input tax credits and refunds)
+C212	Interest and penalties
+C213	Rebates
+C214	Credits to persons
+C22	Other Excise taxes
+C221	Sales tax
+C222	Excise tax on Gasoline
+C223	Other energy taxes
+C224	Other Excise taxes
+C225	Interest and penalties
+C3	Customs Act
+C31	Customs import duties
+C311	Customs import duties
+C312	Interest and penalties
+C4	Other taxes
+C41	Other taxes
+C411	Air travellers security charge
+C413	Softwood lumber export charge
+C414	Softwood lumber charge on refunds of duty deposits
+C419	Miscellaneous
+D	Other revenue
+D1	Return On Investments
+D11	Bank of Canada
+D111	Bank of Canada
+D12	Crown corporations
+D121	Enterprise Crown corporations
+D122	Other Crown corporations
+D13	Exchange fund and accounts
+D131	Exchange Fund Account
+D132	International Monetary Fund
+D133	Premiums, discounts and exchange
+D14	Other accounts
+D141	Interest on bank deposits
+D142	Agreement acts with other national governments
+D143	Loans with developing countries
+D144	Agreements with provincial and territorial governments
+D145	Non-budgetary accounts
+D149	Other Return On Investments
+D2	User charges
+D21	User charges
+D211	User charges Emanating from a Department's Enabling Statute
+D212	User charges Emanating from a Program Specific Statute
+D213	User charges emanating from section 19 of the Financial Administration Act
+D214	User charges Emanating from Contracts
+D215	User charges for internal support services
+D22	User charges
+D221	User charges Emanating from a Department's Enabling Statute
+D222	User charges Emanating from a Program Specific Statutes
+D223	User charges emanating from section 19 of the Financial Administration Act
+D3	Other revenue
+D31	Special authorities
+D311	Refunds of previous years expenditures
+D312	Adjustments of previous years accounts payable (PAYE)
+D313	Recovery of transition payments-Pay in arrears
+D32	Restricted spending authorities
+D321	Proceeds from disposal of moveable surplus Crown assets
+D34	Other revenue Authorities
+D341	Gifts to the Crown
+D342	Sale of bullion and coinage
+D343	Gains on foreign exchange
+D344	Miscellaneous Revenue Received from Crown corporations
+D345	Proceeds from disposal of real property
+D349	Other revenue
+^13	Non-appropriated amounts
+F	Non-appropriated amounts
+F1	Expenditures not being charged to appropriations at the same time
+F11	Expenditures not being charged to appropriations at the same time
+F111	Amortization expenses for capital assets
+F112	Inventory charged to program expenses
+F113	Re-allocation of suspense activity accounts
+F114	Capital lease
+F115	Travellers cheques issued as advances on a subsequent date
+F116	Advances accounted for on a later date
+F119	Other amounts to be charged to program expenses
+F12	Expenditures not being charged to appropriations at the same time
+F120	Expenses related to the increase in the carrying amount of an asset restoration liability due to the passage of time
+F121	Allowances set up for vacation pay
+F122	Allowances set up for bad debt expenses
+F123	Refunds of program expenditures
+F124	Allowances set up for severance pay
+F125	Allowances set up for compensatory leave
+F126	Notes to international financial institutions
+F127	Expenses related to remediation liabilities
+F128	Expenses for claims and pending and threatened litigation
+F129	Other amounts to be charged later
+F130	Issuance of notes to international financial organizations
+F15	Other expenses
+F151	Discounted portion of expenses being recovered
+F152	Reallocation of capital asset expenditures
+F153	Potentially collectible amounts for Canada Student Loans
+F154	Expenses related to loan guarantee
+F156	Expenses to record allowance for valuation of loans, investments and advances
+F158	Expenses related to provisions devolved to departments, not elsewhere specified
+F159	Other expenses not being Charged to Appropriations at the Same Time
+F2	Revenue not being credited to appropriations or other authorities at the same time
+F21	Revenue earned which will be credited to an appropriation
+F210	Revenue earned which will be credited to an appropriation later
+F218	Contra offset for revenue credited to votes
+F22	Revenue previously used
+F221	Amortization of revenue which was previously used to purchase an asset
+F25	Other revenue
+F251	Amortization of discounts
+F259	Other revenue not being Credited to Appropriations or Other Authorities at the Same Time
+F3	Non-appropriated amounts Added to or Deducted from Asset Balances
+F31	Amounts previously charged to appropriations
+F311	Increases (Decreases) to accumulated amortization of capital assets
+F312	Reductions from (Increases to) inventory balances
+F313	Reductions from prepaid expense balances
+F319	Reductions from (Increases to) balances of other assets
+F32	Amounts to be credited to appropriations later
+F322	Unamortized discount on Loans, Investments and Advances (including repayable contributions)
+F323	Unamortized discount on receivables
+F329	Amounts to be credited to appropriations later
+F35	Other
+F351	Write-off of capital assets
+F352	Doubtful accounts for Canada Student Loans
+F359	Other Non-appropriated amounts Added to or Deducted from Asset Balances
+F4	Non-appropriated amounts Added to or Deducted from Liability Balances
+F41	Liabilities increased (Decreased) before amounts are charged to appropriations
+F411	Changes to allowances for vacation pay
+F412	Changes to allowances for doubtful accounts and valuation
+F413	Charges to accruals for severance pay
+F414	Charges to accruals for compensatory leave
+F419	Charges to other accruals and allowances
+F45	Other
+F450	Other Non-appropriated amounts Added to or Deducted from Liability Balances
+F99	Other
+F963	Other non-appropriated amounts-Central adjustment
+F964	Other non-appropriated amounts-CC central adjustment
+F965	Other non-appropriated amounts-MFSO central adjustment
+F999	Non-appropriated amounts
+^14	Statutory Consolidated Specified Purpose Account
+K	Statutory Consolidated Specified Purpose Account
+K1	Major accounts
+K11	Employment Insurance Operating Account
+K111	Employment Insurance Operating Account
+^2	Non-budgetary
+^21	Loan and advance accounts
+G	Statutory loan and advances
+G1	Standard
+G11	Goods and services tax (GST) related authorities for departmental purchases from external suppliers (including HST)
+G111	Goods and Services Tax (GST) Refundable Advance Account
+G112	Goods and services tax (GST) government tax remission order
+G113	Quebec Sales tax (QST) Refundable Advance Account
+G12	Loans, Investments and Advances to Crown corporations
+G121	Payments for Investments in Enterprise Crown corporations
+G122	Payments for Loans and Advances to Enterprise Crown corporations
+G123	Payments for Investments in Consolidated Crown corporations
+G124	Payments for Loans to Consolidated Crown corporations
+G13	Loans and advances to provinces and territories
+G131	Payments under federal-provincial fiscal agreements
+G132	Payments under Atlantic Provinces Power Development Act
+G133	Payments under the Municipal Development and Loan Board Act
+G134	Payments to Ontario and Prince Edward Island
+G139	Other payments to provinces and territories
+G14	Loans and advances to national governments
+G141	Payments under the Export Credits Insurance Act
+G143	Payments under the Visiting Forces (North Atlantic Treaty) Act
+G144	Payments under Export Development Act (non-concessional)
+G145	Payments under Export Development Act (concessional)
+G146	Payments under Bretton Woods and Related Agreements Act
+G15	Loans, investments and advances to international organizations
+G151	Payments under Bretton Woods and Related Agreements Act
+G152	Payments under International Development (Financial Institutions) Assistance Act
+G153	Payments and encashment of notes issued to the European Bank for reconstruction and development agreement-Capital subscriptions
+G155	Investment contributions pursuant to section 3 of the Canada Fund for Africa Act
+G159	Payments to the International Monetary Fund
+G16	Investments and loans and advances to joint and mixed enterprises
+G162	Payment of shares under The Public Sector Pension Investment Board Act
+G163	Payment of shares under The Canada Pension Plan Investment Board Act
+G169	Payments for loans and advances under statutes of the Government of Canada
+G17	Loans and advances to consolidated specified purpose accounts
+G170	Loans and advances to consolidated specified purpose accounts
+G18	Other loans and advances
+G180	Loans disbursed under the Canada Student Financial Assistance Act
+G181	Loans disbursed under the Apprentice Loans Act
+G2	Specific
+G21	Citizenship and Immigration
+G211	Immigration loans for transportation and assistance
+G22	Finance
+G221	Investors in Canadian Commercial Bank
+G222	International Monetary Fund Poverty Reduction and Growth Facility
+G223	Loans pursuant to the Canada Deposit Insurance Corporation Act
+G224	Advances to Financial Consumer Agency of Canada
+G225	Canadian Secured Credit Facility
+G226	Collateral deposits related to currency swaps
+G23	Human Resources and Skills Development
+G231	Provincial workers compensation boards
+G24	Public Works and Government Services
+G241	Seized Property Working Capital Account
+G26	Veterans Affairs
+G261	Veterans Land Act fund
+G29	Other ministries
+G299	Other loans and advances
+G3	Allowances for valuation
+G31	Valuation of assets and liabilities
+G310	Allowance for valuation
+H	Non-statutory loan votes
+H1	Standard
+H12	Loans, Investments and Advances to Crown corporations
+H121	Payments for Investments in Enterprise Crown corporations
+H122	Payments for Loans and Advances to Enterprise Crown corporations
+H123	Payments for Investments in Consolidated Crown corporations
+H124	Payments for Loans and Advances to Consolidated Crown corporations
+H125	Repayments from Enterprise and Consolidated Crown corporations
+H13	Loans to provinces and territories
+H131	Payments for Loans to provinces and territories
+H135	Repayments of all Loans to provinces and territories
+H14	Loans to national governments
+H141	Payments for Loans to national governments
+H142	Payments for loans to developing countries
+H145	Repayments of all loans to national government and developing countries
+H16	Loans, investments and advances to international organizations
+H161	Payments of notes to international financial organizations-Capital subscription
+H162	Payments for loans to international financial institutions
+H163	Payments for advances to multilateral organizations
+H165	Repayments from international organizations
+H168	Issuance Payment of Notes to international financial institutions Fund Accounts (Advances/Funds)
+H17	Loans to joint and mixed enterprises
+H171	Payments to joint and mixed enterprises
+H173	Payments of investment contributions pursuant to section 3 of the Canada Fund for Africa Act
+H174	Repayments investment contributions pursuant to section 3 of the Canada Fund for Africa Act
+H18	Loans and advances to employees
+H181	Payments for standing advances to employees
+H182	Payments for accountable temporary advances
+H19	Miscellaneous advances
+H191	Miscellaneous advances
+H2	Specific
+H20	Agriculture
+H201	Construction of multi-purpose exhibition buildings
+H21	Canadian Heritage
+H211	Loans to institutions and public authorities under the Cultural Property Export and Import Act
+H22	Fisheries and Oceans
+H221	Haddock fishermen
+H229	Other
+H23	Foreign Affairs, Trade and Development (Department of)
+H231	Development of export trade
+H232	Working capital advance for loans and advances to personnel working or engaged abroad
+H233	Working capital advance for advances to posts abroad
+H24	Indian affairs
+H241	Yukon Energy Corporation
+H242	Council for Yukon First Nations
+H243	Indian Economic Development Fund
+H244	Loans to Native claimants
+H245	Loans to First Nations in British Columbia
+H249	Other
+H25	Industry
+H254	Payments pursuant to subsection 14(2) of the Department of Industry Act
+H256	Loans pursuant to paragraph 14(1)(a) of the Department of Industry Act
+H26	National Defence
+H261	Canadian Forces housing
+H262	Working capital advance
+H263	Milit-Air pilot training
+H27	Natural Resources
+H271	Nordion International
+H28	Transport
+H281	St. John Harbour Bridge
+H282	St. Lawrence Seaway Management Corporation
+H29	Other
+H291	Loans to individuals under supervision and parolees
+H30	Office of Infrastructure of Canada
+H301	Investment in contributed surplus of Parc Downsview Park Inc. for the purpose of allowing the completion of the transfer of lands from National Defence to Parc Downsview Park Inc.
+^22	Consolidated specified purpose accounts
+L	Statutory consolidated specified purpose accounts
+L1	Major accounts
+L11	Employment Insurance Account
+L112	Advances to Employment Insurance Account
+L113	Employment Insurance Operating Account
+L13	Crop Re-insurance Fund
+L131	Crop Re-insurance Fund
+L132	Advances to Crop Re-insurance Fund
+L14	Agricultural Commodities Stabilization Account
+L141	Agricultural Commodities Stabilization Account
+L2	Other consolidated specified purpose accounts
+L21	Insurance accounts
+L211	Ship-source Oil Pollution Fund
+L212	Investors' Indemnity Account
+L213	Health Insurance Supplementary Account
+L214	Nuclear Liability Reinsurance Account
+L219	Other Insurance accounts
+L22	Other specified purpose accounts
+L222	Environmental Damages Fund
+L223	Department of Indian affairs and Northern Development (DIAND)-Environmental Studies Research
+L224	Seized Property Proceeds Account
+L225	New Parks and Historic Sites Account
+L226	The National Battlefields Commission-Trust Fund Account
+L227	Supplementary Fish Fines Account
+L228	Fines for the transportation of dangerous goods
+L229	Other
+L231	Natural Resources-Environmental Studies Research Fund
+L232	Mackenzie King Trust Account
+L233	Supplementary Fines Account-Species at Risk Act 
+M	Non-statutory consolidated specified purpose accounts
+M1	Consolidated specified purpose accounts
+M11	Insurance accounts
+M119	Other Insurance accounts
+M12	Other specified purpose accounts
+M121	Canadian Commercial Bank and Northland Bank Holdback Account
+M123	H.L. Holmes Fund
+M124	Social Sciences and Humanities Research Council-Queen's Fellowship Fund
+M129	Other accounts
+^23	Other specified purpose accounts
+N	Statutory Other specified purpose accounts
+N1	Superannuation accounts
+N11	Public Service Superannuation Act
+N111	Public Service Superannuation Account
+N112	Public Service Death Benefit Account
+N115	Public Service Pension Fund
+N12	Canadian Forces Superannuation Act
+N121	Canadian Forces Superannuation Account
+N122	Regular Forces Death Benefit Account
+N125	Canadian Forces Pension Fund
+N126	Reserve Force Pension Fund
+N13	Royal Canadian Mounted Police Superannuation Act
+N131	Royal Canadian Mounted Police (RCMP) Superannuation Account
+N133	Royal Canadian Mounted Police (RCMP) Dependents Pension Fund
+N135	Royal Canadian Mounted Police (RCMP) Pension Fund
+N14	Members of Parliament Retirement Allowance Act
+N141	Members of Parliament retirement accounts
+N142	Members of Parliament Retirement Compensation Arrangements Account
+N15	Supplementary Retirement Benefits (SRB) Act
+N151	Supplementary Retirement Benefit Account-Judges
+N152	Supplementary Retirement Benefit Account-Parliament
+N153	Supplementary Retirement Benefit Account-Diplomatic services (DSSSA)
+N154	Supplementary Retirement Benefit Account-Lieutenant Governor accounts (LGSA)
+N155	Supplementary Retirement Benefit Account-RCMP Continuation Act
+N156	Supplementary Retirement Benefit Account-Defense Services Pension Continuation Act
+N16	Special Retirement Arrangements Act
+N161	Retirement Compensation Arrangements (RCA) no. 1-Public servants
+N162	Retirement Compensation Arrangements (RCA) no. 1-National Defence
+N163	Retirement Compensation Arrangements (RCA) no. 1-Royal Canadian Mounted Police (RCMP)
+N164	Retirement Compensation Arrangements (RCA) no. 2-Public servants
+N19	Other Superannuation Acts
+N191	Other Superannuation accounts
+N2	Other Pension and Insurance accounts
+N21	Canada Pension Plan
+N210	Canada Pension Plan Account
+N22	Government Annuities Account
+N220	Government Annuities Account
+N23	Insurance accounts
+N231	Civil Service Insurance Fund
+N232	Returned Soldiers Insurance Fund
+N233	Veterans Insurance Fund
+N24	Other pension accounts
+N241	Annuities Agents' Pension Account
+N242	Treasury Board: Locally Engaged Contributory Pension Account
+N243	DFATD: Locally Engaged Contributory Pension Account
+N3	Deposit accounts
+N30	Agriculture
+N301	Canadian Dairy Commission Account
+N304	Producer Payment Protection Claim Account
+N31	Canada Border Services Agency
+N310	General security deposits
+N311	Immigration Guarantee Fund
+N33	Human Resources and Skills Development
+N331	Canada Labour Code-Other
+N332	Canada Labour Code-Wage recovery appeals
+N333	Fair Wages Deposit Account
+N34	Indian affairs and Northern Development
+N341	Guarantee Deposits-Indian affairs and Northern Development
+N342	Guarantee Deposits-Oil and Gas-Indian affairs and Northern Development
+N343	Guarantee deposits-Reserve resources
+N35	Industry
+N351	Trustee performance securities-Bankruptcy and Insolvency Act
+N36	Justice
+N361	Security for costs-Supreme Court of Canada
+N37	Canada Revenue Agency
+N371	Guarantee deposits-National Revenue
+N372	Temporary deposits received from importers
+N373	Deposits/Disbursements-Workers Compensation Board
+N38	Natural Resources
+N381	Guarantee deposits-Oil and gas-Natural Resources
+N39	Privy Council
+N391	Candidates' and committees' deposits-Election and referendum
+N3A	Public Works and Government Services
+N3A1	Seized property cash
+N3B	Other ministries
+N3B9	Other
+N4	Provincial and other tax collection agreement accounts
+N41	Provincial tax collection agreement accounts
+N411	Personal Income tax
+N412	Corporate Income tax
+N413	Harmonized Sales tax
+N42	First Nation tax collection agreement accounts
+N421	Excise taxes
+N422	First Nation goods and services tax (FNGST)
+N5	Trust accounts
+N51	Indian and Northern Affairs
+N511	Indian band funds-Capital accounts
+N512	Indian estate accounts
+N513	Indian savings accounts
+N515	Indian Moneys Suspense accounts
+N516	Indian special accounts
+N517	Fines-Indian Act
+N518	Indian band funds-Shares and certificates
+N519	Indian band funds-Revenue accounts
+N52	National Defence
+N521	Estates-Armed services
+N53	Public Safety and Emergency Preparedness
+N531	Royal Canadian Mounted Police (RCMP) Benefit Trust Fund
+N54	Veterans Affairs
+N541	Veterans Administered Trust accounts
+N59	Other ministries
+N599	Other trust funds set up under various acts
+N6	Donations, endowment interest and prepayment accounts
+N61	Endowment interest
+N611	Endowment interest-Mackenzie King Trust Account
+N62	Donations and bequests
+N621	Canadian Institutes of Health Research-Donations for research
+N622	Canadian Institutes of Health Research-Endowment interest
+N625	Canadian Centre for Occupational Health and Safety-Donations
+N626	Library and Archives of Canada Account
+N7	Other specified purpose accounts
+N70	Agriculture
+N702	Net Income Stabilization Account
+N703	AgriInvest Program
+N71	Canadian Heritage
+N712	Telefilm Canada-Advance Account
+N73	Finance
+N731	Common school funds-Ontario and Québec
+N732	Foreign Claims Fund
+N74	Fisheries and Oceans
+N741	Sales of seized assets
+N77	Employment and Social Development Canada
+N771	Labour Standards Suspense Account
+N8	Other specified purpose accounts
+N80	Industry
+N801	Income from securities in trust-Bankruptcy and Insolvency Act
+N802	Securities in trust-Bankruptcy and Insolvency Act
+N803	Unclaimed dividends and undistributed assets-Bankruptcy and Insolvency Act
+N804	Unclaimed dividends and undistributed assets-Canada Business Corporations Act
+N805	Unclaimed dividends and undistributed assets-Winding-up Act
+N807	Trust funds-Natural Sciences and Engineering Research Council
+N81	Citizenship and Immigration
+N811	Immigrant Investor Program
+N812	Immigration investor venture capital
+N84	Natural Resources
+N841	Market development and incentive payments-Alberta
+N86	Public Safety and Emergency Preparedness
+N861	Seized assets-Canadian funds
+N89	Other ministries
+N899	Other Specific Accounts in Other ministries or Other Authorities Not Specified Above
+P	Non-Statutory Other specified purpose accounts
+P1	Superannuation accounts
+P11	Pension Liabilities Under Other Superannuation accounts
+P111	Judges Act-Pension liability
+P112	Lieutenant Governors Superannuation Act (LGSA)-Liability
+P113	Diplomatic Service (Special) Superannuation Act (DSSSA) liability
+P114	Defence Service Pension Continuation Act-Liability
+P115	Royal Canadian Mounted Police Continuation Act liability
+P119	Other pension liabilities
+P12	Allowance for pension adjustments
+P121	Allowance for pension adjustments-General Accounts
+P122	Allowance for pension adjustments-Retirement Compensation Arrangements (RCA) Accounts
+P123	Allowance for pension adjustments-Supplementary Retirements Benefit Accounts (SRBA)
+P129	Allowance for pension adjustments-Other accounts
+P2	Other Pension and Insurance accounts
+P23	Other Pension and Insurance accounts
+P231	Other Insurance accounts
+P3	Deposit accounts
+P32	Finance
+P321	Canadair holdback-Canada Development Investment Corporation
+P323	Hibernia Abandonment Fund
+P324	SWAPs collateral deposit
+P34	Indian and Northern Affairs
+P341	Field British Columbia and Yukon operations of the Northern Canada Power Commission
+P36	Justice
+P361	Security for costs-Tax Court of Canada
+P37	Public Works and Government Services
+P371	Contractor security deposits
+P39	Other ministries
+P399	Other
+P4	Donations, endowment interest and prepayment accounts
+P41	Endowment interests
+P411	Endowment interest-H.L. Holmes Fund
+P412	Endowment interest-Social Sciences and Humanities Research Council: Queen's Fellowship Fund
+P42	Donations, gifts and bequests
+P423	Endangered species-Donations
+P424	Rideau Hall donations
+P426	Prime Ministers Awards
+P427	Social Sciences &amp; Humanities Research Council-Trust Fund
+P428	Corporate sponsorships and donations
+P430	Crown corporation trusts-Donations
+P431	Royal Canadian Mounted Police (RCMP) Pipe Band
+P432	Sponsorship agreement-Contributions
+P433	Mounted Police Foundation
+P439	Donations, gifts and bequests
+P49	Prepayments
+P491	Funds from non-government organizations
+P5	Trust accounts
+P51	Finance
+P511	Insurance company liquidation accounts (OSFI)
+P52	Human Resources and Skills Development
+P521	Indian Residential Schools Settlement Agreement-Common experience payments
+P53	Public Safety and Emergency Preparedness
+P531	Scholastic awards
+P532	Inmates Trust Fund
+P54	Veterans Affairs
+P541	Veterans estate funds
+P542	Veterans Administration and Welfare Trust Fund
+P59	Other ministries
+P599	Other
+P7	Other specified purpose accounts
+P70	Agriculture
+P703	Shared-cost agreements-Agriculture and Agri-food
+P704	Shared cost-Canadian Food Inspection Agency (CFIA)
+P71	Canadian Heritage
+P711	Miscellaneous projects deposits
+P712	Shared-cost agreements-Conferences and training-Canadian Heritage
+P713	Shared-cost/Joint project agreements-Canadian Heritage
+P72	Environment
+P721	Miscellaneous projects deposits-Environment
+P73	Finance
+P731	War Claims Fund-World War II
+P74	Fisheries and Oceans
+P741	Federal/provincial cost-sharing agreements
+P742	Miscellaneous projects deposits-Fisheries and Oceans
+P75	Foreign Affairs, Trade and Development (Department of)
+P751	Canada Foundation Account
+P752	Financial assistance to Canadians abroad
+P755	Shared-cost projects-Foreign Affairs, Trade and Development (Department of)
+P756	Shared-cost projects-International conferences-Moneys received as prepayment for services from non-governmental organizations
+P76	Health
+P762	Collaborative research projects
+P763	Miscellaneous federal/Provincial projects-Health
+P764	Pan American Health Organization-SIREVA
+P765	World Health Organization
+P77	Employment and Social Development Canada
+P772	Federal/Provincial shared-cost project-Human resources development
+P773	Federal/provincial shared-cost project-Interprovincial Computerized Examination Management System (ICEMS)
+P776	Shared cost agreements
+P78	Indian and Northern Affairs
+P786	Treaty Land Entitlement (Saskatchewan) Fund
+P8	Non Statutory Other specified purpose accounts
+P80	Industry
+P801	Canada/Provinces Business Services Centre
+P804	Shared-cost/Joint project agreements-Research
+P805	Shared-cost projects-Industry
+P806	Petro-Canada Entreprises-Unclaimed shares
+P807	Federal/provincial agreement-Advance Account
+P811	RADARSAT-Canadian Space Agency
+P814	Project deposits-Statistics Canada
+P82	Justice
+P821	Federal Court Special Account
+P83	National Defence
+P831	Funds from foreign governments to cover their share of expenses under joint agreements-DND
+P832	Non-government agencies
+P833	Funds from North Atlantic Treaty Organization (NATO) to cover their share of infrastructure projects under joint agreements
+P835	Joint research and development projects
+P837	Funds from foreign governments to cover their share of expenses under joint agreements-CSE
+P84	Natural Resources
+P844	Newfoundland Offshore Revenue Account
+P845	Nova Scotia Offshore Revenue Account
+P846	Shared cost agreement-Geological Survey of Canada
+P847	Shared cost project
+P85	Public Works and Government Services
+P853	Military purchases excess funds deposit
+P86	Public Safety and Emergency Preparedness
+P862	Joint research and development project-Royal Canadian Mounted Police (RCMP)
+P88	Veterans Affairs
+P881	Shared cost project-Permanent Visitor Education Centre of the Canadian National Vimy Memorial
+P89	Other ministries
+P891	Privy Council Office-Shared cost projects-Travel expenses-Moneys received as pre-payment for services from non-governmental organizations
+P893	Cost-sharing agreements and other collaborative agreements
+P899	Other
+^24	Other assets and liabilities
+R	Other assets and liabilities
+R3	All Other assets and liabilities
+R30	All other assets and liabilities-All departments
+R300	Total (or net, as applicable) amounts of all other assets and of all other liabilities
+R7	Foreign exchange accounts
+R70	Foreign exchange accounts-Finance
+R700	Total amounts only
+R8	Unmatured debt
+R80	Finance
+R800	Unmatured debt
+R801	Total amounts only

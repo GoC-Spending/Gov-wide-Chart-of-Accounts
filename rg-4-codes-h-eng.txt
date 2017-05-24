@@ -1,0 +1,1434 @@
+Number	Name
+1	Assets
+11	Current assets
+111	Cash
+1111	Cash balances
+11111	Cash on deposit in Canadian currency (Consolidated Revenue Fund)
+11113	Special deposits held in trust-Receiver General
+11114	Cash on deposit in foreign currencies
+11116	Cash held as collateral
+1112	Outstanding deposits (cash in transit)
+11121	Cash in transit and in hands of collectors at year end
+11123	Deposits in transit to the Receiver General
+11124	Outstanding deposits
+11125	Cash in hands of departments awaiting deposit to the Receiver General
+1113	Outstanding payments
+11131	Outstanding payments (Receiver General cheques and other)
+11132	Imprest accounts cheques
+11134	Payments in transit to the Receiver General
+1114	Cash equivalent accounts
+11141	Traveller’s Cheques
+11142	Term deposits auction
+11149	Other cash equivalent accounts
+1115	Other cash accounts
+11151	Consolidated Crown corporations and other entities
+11159	Other cash accounts
+112	Accounts receivable
+1121	Accounts receivable-Tax revenue
+11211	Personal income tax
+11212	Corporate income tax
+11213	Goods and services tax, including the harmonized sales tax
+11214	Other excise taxes and duties
+11215	Energy taxes
+11216	Other taxes
+11217	Customs duties and taxes on imports
+11218	Source deductions
+11219	Non-residents
+1122	Accounts receivable-Other revenue, excluding interdepartmental
+11221	Accounts receivable-Other revenue
+11225	Accrued receivables
+11226	Other receivables
+11229	Allowance for doubtful accounts-Accounts receivable for other revenue, excluding interdepartmental
+1123	Accounts receivable-Other
+11231	Accounts receivable for refunds of program expenses
+11232	Consolidated Crown corporations and other entities
+11233	Overpayments to be recovered
+11234	Accrued interest receivables on loans
+11235	Accrued interest receivables on term and demand deposits
+11236	Transition payment-Pay in arrears
+11237	Salary overpayments
+11238	Unamortized discount on receivables
+11239	Allowance for doubtful accounts-Other accounts receivable
+1124	Accounts receivable-Interdepartmental
+11242	Other government departments (OGD)-Accounts receivable
+11244	Other government department (OGD)-Suspense advances
+11245	Interdepartmental settlement (IS) credits in transit to the Receiver General (for Creditor initiated IS)
+1125	Accounts receivable-Tax revenue-Interdepartmental allocations
+11251	Canada Pension Plan Premiums receivable from Canada Revenue Agency (CRA)
+11252	Employment insurance contributions receivable from Canada Revenue Agency (CRA)
+11253	Old Age Security overpayments receivable from Canada Revenue Agency (CRA)
+11254	Provincial tax collections receivable from Canada Revenue Agency (CRA)
+11255	Provincial benefit programs receivable from Finance
+11256	Source deductions receivable from other government department (OGD)
+11259	Other receivables
+1127	Allowance for doubtful tax accounts-Tax revenue
+11271	Personal income taxes
+11272	Corporate income taxes
+11273	Goods and services tax (GST)
+11274	Excise tax and duties
+11275	Energy taxes
+11276	Other taxes
+11277	Customs duties and taxes on imports
+11278	Source deductions
+11279	Non-residents
+113	Accounts receivable-Tax revenue accrual estimates
+1131	Personal income tax-Accrual estimates
+11311	T1 Instalments received from individuals
+11312	Estimated accrued receivable (contra)
+11313	Suspense clearing accounts
+1132	Personal income tax-Employers source deductions accrued
+11321	T4 Source deductions installments received from employers
+11322	Estimated accrued receivable (contra)
+11323	Suspense clearing accounts
+1133	Corporate income tax-Accruals
+11331	T2 Installments received from corporations
+11332	Estimated accrued receivable (contra)
+11333	Suspense clearing accounts
+1134	Non-resident tax-Accruals
+11341	Tax withheld on behalf of non-residents
+11342	Estimated accrued receivable (contra)
+11343	Suspense clearing accounts
+1135	GST-Accruals
+11351	Installments received from vendors
+11352	Estimated accrued receivable (contra)
+11353	Suspense clearing accounts
+1136	Excise taxes-Accruals
+11361	Installments received from manufacturers
+11362	Estimated accrued receivable (contra)
+11363	Suspense clearing accounts
+1137	Customs duties-Accruals
+11371	Installments received from importers
+11372	Estimated accrued receivable (contra)
+11373	Suspense clearing accounts
+1139	Other tax revenue-Accruals
+11391	Installments/Withholding received
+11392	Estimated accrued receivable (contra)
+11393	Suspense clearing accounts
+12	Foreign exchange accounts
+121	International Monetary Fund
+1211	Subscriptions and notes payable
+12111	Subscriptions
+12112	Notes payable (contra)
+12113	International Monetary Fund-General resources account lending
+1212	Special drawing rights allocations
+12120	Special drawing rights allocations
+122	Other
+1221	Exchange fund account
+12211	International reserves held in exchange fund account
+12212	Accrued gains and losses on exchange fund account
+13	Loans, investments and advances (LIA)
+131	Loans, investments and advances to Crown corporations
+1311	Investments in major/lending institution enterprise Crown corporations
+13111	Canada Deposit Insurance Corporation
+13112	Canada Mortgage and Housing Corporation
+13113	Export Development Canada
+13114	Farm Credit Canada
+13115	Business Development Bank of Canada
+1312	Loans and advances to major/lending institution enterprise Crown corporations
+13121	Canada Deposit Insurance Corporation
+13122	Canada Mortgage and Housing Corporation
+13123	Export Development Canada
+13124	Farm Credit Canada
+13125	Business Development Bank of Canada
+1313	Investments in other enterprise Crown corporations
+13131	Bank of Canada
+13132	Canada Development Investment Corporation
+13133	Royal Canadian Mint
+13134	Canada Hibernia Holding Corporation
+13135	Ridley Terminals
+13138	Crown corporation enterprises (CCE)-Equity adjustments
+13139	Other investments in other enterprise Crown corporations
+1314	Loans and advances to other enterprise Crown corporations
+13142	Canada Post Corporation
+13145	Freshwater Fish Marketing Corporation
+13147	Ports Corporations
+13148	Canada Lands (notes receivable)
+13149	Other loans and advances to other enterprise Crown corporations
+1315	Investments in consolidated Crown corporations
+13151	Atomic Energy of Canada Limited
+13152	Canadian Broadcasting Corporation
+13153	VIA Rail Canada Inc.
+13159	Other investments in consolidated Crown corporation
+1316	Loans and advances to consolidated Crown corporations
+13161	Atomic Energy of Canada Limited
+13163	National Capital Commission
+13164	Canadian Dairy Commission
+13169	Other loans and advances to consolidated Crown corporation
+1317	Loans, investments and advances for consolidated Crown corporations
+13170	Loans, investments and advances to consolidated Crown corporations
+1318	Unamortized premium/discount on loans to Crown corporations
+13181	Unamortized premium/discount on loans to Crown corporations
+13182	Unamortized premium/discount on notes receivable to Canada Lands Corporation
+132	Loans, investments and advances to other governments and organizations
+1321	Provincial and territorial governments for regional and industrial development
+13211	Atlantic Development Board for water projects
+13212	Atlantic Provinces Power Development Act
+13213	Financing of special areas and highway agreements
+13214	Financing of comprehensive plan development
+13219	Other loans and advances for regional and industrial development
+1322	Provincial and territorial governments for other purposes
+13221	Federal-Provincial fiscal arrangements
+13222	Municipal development and loan boards for capital works
+13223	Winter capital projects fund
+13224	Financing of regional electrical interconnections
+13225	Expansion of Agricultural Service Centres
+13227	Provincial tax collection overpayments-T3
+13228	Unamortized discounts on loans to provincial and territorial governments
+13229	Other loans and advances to provincial and territorial governments
+1323	National governments, including developing countries
+13231	National governments, excluding developing countries
+13232	Developing countries
+13233	Unamortized discounts for loans to developing countries (contra)
+13234	Development of export trade
+13235	Unamortized discounts for loans for development of export trade (contra)
+13236	NATO for recoverable damage claims
+13237	Allowance for doubtful loans
+13239	Other loans and advances to national governments and developing countries
+1324	International organizations
+13241	Capital subscriptions to development banks
+13242	Capital subscriptions to international banks
+13243	Loans to international organizations
+13244	Advances to international organizations and associations
+13245	Advance to Global Environmental Facility
+13246	Capital subscriptions and contributions to International Development Association
+13247	Allowance for subscriptions to international organizations (contra)
+13248	Multilateral advances to international financial institutions
+13249	Allowance for advances to international financial institutions (contra)
+1325	Unamortized discounts for loans, investments and advances to international organizations
+13251	Unamortized discounts for loans to international organizations (contra)
+1326	Portfolio investments
+13262	Lower Churchill Development Corporation Limited
+13268	Write-down for portfolio investments
+13269	Other portfolio investments
+1327	Other organizations
+13271	Development of export trade payments made to private sector
+13272	Unamortized discounts for loans to the private sector for development of export trade (contra)
+13273	Payments made to the private sector related to financial assistance to the automotive sector
+133	Other loans, investments and advances
+1331	Loans and accountable advances to employees
+13311	Missions abroad (Foreign affairs working capital advances)
+13312	Personnel posted abroad (Foreign affairs working capital advances)
+13313	Imprest accounts, standing advances and authorized loans
+13314	Accountable advances (temporary advances)
+13315	Standing advances to employees
+13319	Other loans and advances to employees
+1333	Loans to First Nations and Northern Territories
+13331	First Nations in British Columbia
+13332	Native claimants
+13333	Indian economic development
+13335	Inuit loan fund
+13336	Council for Yukon Indians
+1334	Other loans made by departments
+13340	Canadian secured credit facility program
+13341	Construction of exhibition buildings
+13343	Immigration loans for transportation and assistance
+13345	Enterprise development loans
+13346	Hibernia development project
+13347	Assistance loans made by Atlantic Canada Opportunities Agency
+13348	Nordion International Inc.
+13349	Unamortized discounts for loans made by departments (concessionary loans)
+1335	Other advances and subsidies
+13351	Provincial workers compensation boards
+13352	Canadian commercial banks
+13353	Canadian Forces housing
+13354	Confederation Bridge
+13355	St. John Harbour Bridge
+13356	Veterans Land Act Fund
+13357	Pilot training program-MILIT-AIR Inc.
+13359	Unamortized discount for other advances and subsidies (concessionary loans)
+1336	Loans and advances to consolidated specified purpose accounts
+13361	Interest bearing loans to employment insurance account
+13363	Advances to crop reinsurance fund
+13364	Advances to agricultural commodities stabilization accounts
+1337	Loans and advances on expired loan guarantees
+13371	Loans and advances on expired loan guarantees
+13379	Allowance for doubtful loans
+1338	Loans and advances on transfer (including repayable contributions)
+13381	Loans
+13388	Unamortized discount
+13389	Allowance for doubtful loans and advances
+1339	Other loans, investments and advances
+13391	Loans and advances to individuals other than employees
+13392	Goods and services tax (GST) (including harmonized sales tax-HST) refundable advance account
+13393	Canada student loans (direct loans)
+13394	Amounts subrogated under the Canada Student Loans Act and the Canada Student Financial Assistance Act
+13395	Apprentice loans (direct loans)
+13396	Quebec sales tax (QST) refundable advance account
+13397	Unamortized discount-Other loans, investments and advances
+13398	Unamortized discount on Canada student loans risk shared loans
+13399	Miscellaneous loans, investments and advances
+134	Allowance for valuation
+1341	Allowance for valuation for loans to Crown corporations
+13411	Allowance for loans to enterprise Crown corporations
+13412	Allowance for loans to consolidated Crown corporations
+1342	Allowances for valuation for loans, investments and advances to other governments and organizations
+13421	Allowances, provincial and territorial governments for regional and industrial development
+13422	Allowances, provincial and territorial governments for other purposes
+13423	Allowance, national governments, including developing countries
+13424	Allowances, international organizations
+13427	Allowances, other organizations
+1343	Allowances for valuation for other loans, investments and advances
+13431	Allowances for loans and accountable advances for employees
+13433	Allowances, loans to First Nations and Northern Territories
+13434	Allowances, other loans made by departments
+13435	Allowances, other advances and subsidies
+13437	Allowances, loans and advances on expired loan guarantees
+13438	Allowances for loans and advances on transfers (incl. repayable contributions)
+13439	Allowances, other loans, investments and advances
+1349	Allowance for valuation for other loans
+13490	Other loans
+13493	Allowance on Canada student loans (direct loans)
+13494	Allowance on amounts subrogated under the Canada Student Loans Act and the Canada Student Financial Assistance Act
+13495	Allowance on provincial tax collection overpayments-T3
+13496	Allowance for apprentice loans
+135	Loans, investments and advances by consolidated Crown corporations and other entities
+1351	Loans and advances by consolidated Crown corporations and other entities
+13510	Loans and advances by consolidated Crown corporations and other entities
+1352	Investments by consolidated Crown corporations and other entities
+13520	Investments by consolidated Crown corporations and other entities
+14	Prepaid expenses and deferred charges
+141	Prepaid expenses
+1411	Prepaid expenses
+14110	Prepaid expenses
+1412	Prepayments of transfers
+142	Deferred charges
+1421	Deferred charges on unmatured debt
+14211	Unamortized discounts on Treasury bills
+14212	Unamortized discounts on Canada bills
+14213	Unamortized discounts and premiums on marketable bonds
+14214	Unamortized commissions on Canada Savings Bonds
+14215	Unamortized discounts and premiums on Real Return Bonds 
+14216	Unamortized discounts and premiums on foreign bonds
+1429	Other deferred charges
+14299	Other deferred charges
+15	Inventories
+151	Regular inventories
+1511	Inventories held for consumption
+15110	Inventories held for consumption
+15111	Work in Progress-Other government department (OGD)
+1512	Inventories for resale
+15120	Inventories for resale
+15121	Work in progress-External
+16	Capital assets
+161	Tangible capital assets
+1611	Land, buildings and works
+16111	Land
+16112	Buildings
+16113	Works and infrastructure
+1612	Machinery and equipment
+16121	Machinery and equipment
+16122	Computer hardware
+16123	Computer purchased and developed software
+16124	Arms and weapons for defence
+16129	Other equipment (including furniture)
+1613	Vehicles
+16131	Ships and boats
+16132	Aircraft
+16133	Motor vehicles (non-military)
+16134	Military vehicles
+16135	Other vehicles
+1614	Leasehold improvements
+16141	Leasehold improvements
+16142	Leasehold Improvements on properties where custodian is another government department
+162	Accumulated amortization on tangible capital assets
+1621	Accumulated amortization on buildings and works
+16212	Accumulated amortization on buildings
+16213	Accumulated amortization on works and infrastructure
+1622	Accumulated amortization on machinery and equipment
+16221	Accumulated amortization on machinery and equipment
+16222	Accumulated amortization on computer hardware
+16223	Accumulated amortization on computer purchased and developed software
+16224	Accumulated amortization on arms and weapons for defence
+16229	Accumulated amortization on other equipment, including furniture
+1623	Accumulated amortization on vehicles
+16231	Accumulated amortization on ships and boats
+16232	Accumulated amortization on aircraft
+16233	Accumulated amortization on motor vehicles (non-military)
+16234	Accumulated amortization on military vehicles
+16235	Accumulated amortization on other vehicles
+1624	Accumulated amortization on leasehold improvements
+16241	Accumulated amortization on leasehold improvements
+16242	Accumulated amortization on leasehold improvements on properties where custodian is another government department
+163	Work in progress on tangible capital assets
+1631	Work in progress
+16311	Buildings in progress of construction
+16312	Engineering works in progress of construction
+16315	Work in progress for software
+16316	Work in progress related to alternative financing arrangements (public private partnerships)
+16319	Other construction or work in progress
+166	Tangible capital assets under capital leases
+1661	Land, buildings and works under capital leases
+16611	Land under capital leases
+16612	Buildings under capital leases
+16613	Works and infrastructure under capital leases
+1662	Machinery and equipment under capital leases
+16621	Machinery and equipment under capital leases
+16622	Computer hardware under capital leases
+16623	Computer software under capital leases
+16624	Arms and weapons under capital leases
+16629	Other equipment under capital leases
+1663	Vehicles under capital leases
+16631	Ships and boats under capital leases
+16632	Aircraft under capital leases
+16633	Motor vehicle (non-military) under capital leases
+16634	Military vehicles under capital leases
+16639	Other vehicles under capital leases
+167	Accumulated amortization on tangible capital assets under capital leases
+1671	Accumulated amortization on buildings and works under capital leases
+16712	Accumulated amortization on buildings under capital leases
+16713	Accumulated amortization on works and infrastructure under capital leases
+1672	Accumulated amortization on machinery and equipment under capital leases
+16721	Accumulated amortization on machinery and equipment under capital leases
+16722	Accumulated amortization on computer hardware under capital leases
+16723	Accumulated amortization on computer software under capital leases
+16724	Accumulated amortization on arms and weapons under capital leases
+16729	Accumulated amortization on other equipment under capital leases
+1673	Accumulated amortization on vehicles under capital leases
+16731	Accumulated amortization on ships and boats under capital leases
+16732	Accumulated amortization on aircraft under capital leases
+16733	Accumulated amortization on motor vehicles (non-military) under capital leases
+16734	Accumulated amortization on military vehicles under capital leases
+16739	Accumulated amortization on other vehicles under capital leases
+168	Work in progress on tangible capital assets under capital lease
+1681	Work in progress under capital lease
+16811	Buildings under capital leases in progress of construction
+16812	Engineering work under capital leases in progress of construction
+16815	Work in progress for software under capital leases
+16819	Other construction or work in progress under capital leases
+17	Future benefit assets
+171	Future pension benefit assets
+1711	Consolidated Crown corporations' future pension benefit assets
+17111	Consolidated Crown corporations' funded pension assets
+2	Liabilities
+21	Current liabilities
+211	Accounts payable
+2111	Accounts payable regular
+21111	Accounts payable ongoing
+21112	Accrued salaries and wages
+21113	Accrued liabilities
+21115	Year end accrual-pending Budget Implementation Act
+21117	Accrued interest payable on regular (trade) payables
+21119	Other payables
+2112	Unpaid payroll deductions
+21121	Income taxes payable (to Government of Canada)
+21122	Canada pension plan (CPP) payable
+21123	Employment insurance (EI) payable
+21124	Superannuation deducted
+21125	Retirement compensation accounts deducted
+21126	Other deductions payable to the Government of Canada
+21127	Deductions payable to outside parties
+21128	Departmental paylist deductions
+21129	Other unpaid payroll deductions
+2113	Accounts payable interdepartmental
+21132	Other government departments (OGD)-Accounts payable
+21134	Goods and services tax (GST) (including harmonized sales tax-HST) payable to Canada Revenue Agency (CRA)
+21135	Interdepartmental settlement (IS) debits in transit to the Receiver General (for debtor initiated IS)
+21136	Quebec sales tax (QST) payable to government departments
+2114	Notes payable
+21141	Notes payable to International Development Association
+21142	Notes payable to development banks
+21143	Notes payable to international financial institutions
+21149	Notes payable to other international organizations and banks
+2115	Other accounts payable
+21151	Provincial sales tax, excluding harmonized sales tax (HST)
+21152	Consolidated Crown corporations and other entities
+21153	Contractor’s holdback
+21154	Accrued interest payable on capital leases
+21155	Amounts owing to banks under direct financing arrangements pursuant to the Canada Student Financial Assistance Act (CSFA)
+21156	Account payable to other levels of government (contra asset)
+21157	Revaluation of foreign currency forward contract
+21159	Other accounts payable
+2116	Accounts payable by Canada Revenue Agency (CRA)-Tax revenue
+21161	Personal and non-residents tax payable account
+21162	Corporate income taxes payable
+21163	Goods and services tax (GST)
+21164	Accounts payable provincial sales tax
+21165	Accounts payable Nova Scotia Worker Compensation
+21166	Accounts payable to the Ministry of Revenue Quebec (MRQ) by Canada Revenue Agency (CRA)
+21167	Accounts payable to provinces-Other taxes
+21169	Other tax revenues payable
+2117	Accounts payable-Tax revenue-Interdepartmental allocations
+21171	Canada pension plan premiums payable to the Department of Social Development
+21172	Employment insurance contributions payable to Human Resources and Skills Development (HRSD)
+21173	Old age security overpayments payable to the Department of Social Development
+21174	T1 (Individual) Provincial and Territorial Tax Collections Payable to Finance
+21175	Provincial Benefit Programs Payable to Canada Revenue Agency (CRA)
+21176	Harmonized Sales Tax (HST) Payable to Finance (used by Canada Revenue Agency-CRA)
+21177	T2 (Corporate) Provincial and Territorial Tax Collections Payable to Finance
+21179	Other Payables
+212	Interest and Matured Debt
+2121	Matured Debt
+21211	Marketable Bonds
+21212	Canada Savings Bonds
+21213	Treasury Bills
+21214	Matured Debt in Foreign Currencies
+2122	Interest Due on Unmatured Debt
+21221	Interest Due
+21222	Compound Interest on Canada Savings Bonds
+21223	Interest Due on Coupons
+2123	Interest Accrued on Unmatured Debt
+21231	Interest Accrued on Marketable Bonds
+21232	Interest Accrued on Canada Savings Bonds
+21233	Interest Accrued on Special Non-Marketable Bonds Issued to Canada Pension Plan (CPP) Investment Fund
+21234	Interest Accrued on Unmatured Debt in Foreign Funds
+21235	Interest Accrued on Other Liabilities
+21236	Interest Accrued for Promissory Notes
+21237	Interest Accrued for Medical Equipment Trust
+213	Current Portion of Long-Term Debt
+2131	Unmatured Debt in Canadian Currency
+21311	Marketable Bonds
+21312	Canada Savings Bonds
+21313	Treasury Bills
+2132	Unmatured Debt in Foreign Currency
+21321	Marketable Bonds
+214	Allowances
+2141	Allowance for Employee Benefits
+21410	Allowance for Maternity/Parental Leave
+21411	Allowance for Vacation Pay
+21412	Allowance for Termination Benefits-Work Force Adjustment
+21413	Allowance for Retroactive Salaries
+21414	Allowance for time-off in lieu
+21415	Allowance for severance benefits-Departments
+21416	Allowance for Termination Benefits-Departments
+21417	Allowance for Other Employee Benefits
+21418	Consolidated Crown Corporations and Other Entities
+21419	Allowance for Sick Leave Benefit Plan-Departments
+2142	Allowance for Borrowings of Crown Corporations
+21421	Total Borrowings of Agent Enterprise Crown Corporations
+21422	Borrowings of Agent Enterprise Crown Corporations Expected to be Repaid
+21423	Total Borrowings of Consolidated Crown Corporations
+21424	Borrowings of Consolidated Crown Corporations Expected to be Repaid
+2143	Other Allowances
+21431	Allowance for Accrued Items
+21432	Allowance for Loan Guarantees
+21433	Allowance for claims and pending and threatened litigations
+2144	Allowances for Other Valuation Amounts
+21441	Income Tax Refunds
+21442	Petroleum Industry Refunds
+21443	Harmonized Sales Tax (HST) Payable to Provinces
+215	Other Current Liabilities
+2151	Deferred Revenues
+21510	Deferred Revenues
+21511	Lease Inducement
+216	Suspense Accounts
+2161	General Suspense Accounts
+21611	General Suspense Accounts
+21612	Intradepartmental Clearing Account
+21613	Garnisheed Salaries
+21614	Family Orders
+21615	Undistributed/Unmatched IS Suspense
+2162	Special Suspense Accounts
+21621	Other Government Department (OGD) Suspense
+21622	Public Service Superannuation Act (PSSA) / Supplementary Retirements Benefit Account (SRBA) Suspense Clearing
+21623	Unclaimed Cheque Suspense
+21624	Interdepartmental Settlement Suspense
+21625	Contributed Capital Suspense
+21626	Reallocation of Internal/External Codes for Interdepartmental Settlement (IS) Transactions
+21627	Suspense for Proceeds from Asset Sales
+22	Pension Accounts
+221	Canada Pension Plan (CPP)
+2211	Canada Pension Plan Account
+22110	Canada Pension Plan Account-Cumulative Funds under Administration
+22111	Canada Pension Plan (CPP)-Cumulative Transfers to CPP Investment Board
+2212	Securities Held by Canada Pension Plan (CPP) Investment Fund
+22121	Provincial and Territorial Bonds Held by Canada Pension Plan (CPP) Investment Fund
+22123	Investments of the Government of Canada
+2213	Canada Pension Plan (CPP) Short Term Investments Held
+22130	Canada Pension Plan-Short Term Investments Held
+222	Public Sector Pensions
+2221	Public Service Pensions
+22211	Public Service Superannuation Account
+22212	Public Service Superannuation Investment Fund
+22213	Public Service Pension Fund
+2222	Canadian Forces Pensions
+22221	Canadian Forces Superannuation Account
+22222	Canadian Forces Superannuation Investment Fund
+22223	Canadian Forces Pension Fund
+22224	Reserve Force Pension Fund
+2223	Royal Canadian Mounted Police (RCMP) Pensions
+22231	Royal Canadian Mounted Police (RCMP) Superannuation Account
+22232	Royal Canadian Mounted Police (RCMP) Superannuation Investment Fund
+22233	Royal Canadian Mounted Police (RCMP) Pension Fund
+2224	Members of Parliament Retiring Allowances Accounts
+22241	Members of Parliament Retiring Allowances Account (House of Commons)
+22242	Senators Retiring Allowances Accounts
+2225	Members of Parliament Retirement Compensation Arrangements (RCA) Account
+22251	Retirement Compensation Arrangements (RCA) Account-House of Commons
+22252	Retirement Compensation Arrangements (RCA)-House of Commons-Cumulative Tax Withheld Recoverable
+22255	Retirement Compensation Arrangements (RCA) Account-Senate
+22256	Retirement Compensation Arrangements (RCA) Account- Senate-Cumulative Tax Withheld Recoverable
+223	Retirement Compensation Arrangements Account (RCA)
+2231	Retirement Compensation Arrangements (RCA) Account No. 1-Public Servants
+22311	Retirement Compensation Arrangements (RCA) No. 1-Public Servants General Account
+22312	Retirement Compensation Arrangements (RCA) No. 1-Public Servants Cumulative Tax Withheld Recoverable
+2232	Retirement Compensation Arrangements (RCA) Account No. 1-National Defence
+22321	Retirement Compensation Arrangements (RCA) Account No. 1-National Defence General Account
+22322	Retirement Compensation Arrangements (RCA) Account No. 1-National Defence Cumulative Tax Withheld Recoverable
+2233	Retirement Compensation Arrangements (RCA) Account No. 1-Royal Canadian Mounted Police (RCMP)
+22331	Retirement Compensation Arrangements (RCA) Account No. 1-Royal Canadian Mounted Police (RCMP)-General Account
+22332	Retirement Compensation Arrangements (RCA) No. 1-Royal Canadian Mounted Police (RCMP)-Cumulative Tax Withheld Recoverable
+2234	Retirement Compensation Arrangements (RCA) Account No. 2-Public Servants
+22341	Retirement Compensation Arrangements (RCA) No. 2-Public Servants General Account
+22342	Retirement Compensation Arrangements (RCA) No. 2-Public Servants-Cumulative Tax Remitted Recoverable
+224	Other Public Sector Pension Accounts
+2241	Supplementary Retirements Benefit Account (SRBA)
+22412	Supplementary Retirements Benefit Account (SRBA)-Judges
+22413	Supplementary Retirements Benefit Account (SRBA)-Lieutenant Governors (LGSA)
+22414	Supplementary Retirements Benefit Account (SRBA)-Diplomatic DSSSA
+22415	Supplementary Retirements Benefit Account (SRBA)-Parliament
+22416	Supplementary Retirements Benefit Account (SRBA)-Royal Canadian Mounted Police Pension Continuation Act
+22417	Supplementary Retirements Benefit Account (SRBA)-Defence Service Pension Continuation Act
+2242	Pension Liabilities Under Other Superannuation Acts
+22422	Judges Act-Pension Liability
+22423	Lieutenant Governors Superannuation Act-Pension Liability
+22424	Diplomatic Services Superannuation Act-Pension Liability
+22426	Royal Canadian Mounted Police Continuation Act-Pension Liability
+22427	Defence Services Pension Continuation Act-Pension Liability
+22429	Other Pension Liabilities
+225	Allowance for Pension Adjustments
+2251	Allowance for Pension Adjustments General Accounts
+22511	Public Service Superannuation Account (PSSA)-Allowance for Pension Adjustments
+22512	Canadian Forces Superannuation Act (CFSA)-Allowance for Pension Adjustments
+22513	Royal Canadian Mounted Police Superannuation Account-Allowance for Pension Adjustments
+22514	Members of Parliament Retiring Allowances Account-Allowance for Pension Adjustments
+22515	Members of Parliament(MP) Retirement Compensation Arrangements (RCA)-Allowance for Pension Adjustments
+22516	Public Service Pension Fund-Allowance for Pension Adjustments
+22517	Canadian Forces (CF) Pension Fund-Allowance for Pension Adjustments
+22518	Royal Canadian Mounted Police (RCMP) Pension Fund-Allowance for Pension Adjustments
+22519	Reserve Force Pension Fund-Allowance for Pension Adjustments
+2252	Allowance for Pension Adjustments - Retirement Compensation Arrangements (RCA) Accounts
+22521	Retirement Compensation Arrangements (RCA) No. 1-Public Servants-Allowance for Pension Adjustments
+22522	Retirement Compensation Arrangements (RCA) No. 1-National Defence-Allowance for Pension Adjustments
+22523	Retirement Compensation Arrangements (RCA) No. 1-Royal Canadian Mounted Police-Allowance for Pension Adjustments
+22524	Retirement Compensation Arrangements (RCA) No. 2-Public Servants-Allowance for Pension Adjustments
+2253	Allowance for Pension Adjustments - Supplementary Retirements Benefit Account (SRBA)
+22532	Supplementary Retirements Benefit Account (SRBA)-Judges Allowance for Pension Adjustments
+22533	Supplementary Retirements Benefit Account (SRBA)-Lieutenant Governors (LGSA)-Allowance for Pension Adjustments
+22534	Supplementary Retirements Benefit Account (SRBA)-Diplomatic DSSSA-Allowance for Pension Adjustments
+22535	Supplementary Retirements Benefit Account (SRBA)-Parliament-Allowance for Pension Adjustments
+22536	Supplementary Retirements Benefit Account (SRBA)-RCMP  Continuation Act Allowance for Pension Adjustments
+22537	Supplementary Retirements Benefit Account (SRBA)-Defence Service Pension Continuation Act Allowance for Pension Adjustments
+2254	Allowance for Pension Adjustments-Other Accounts
+22549	Other Pension Accounts-Allowance for Pension Adjustments
+2255	Consolidated Crown Corporations' Pension Liabilities
+22551	Consolidated Crown Corporations' Funded Pension Liabilities
+22552	Consolidated Crown corporations' Unfunded Pension Liabilities
+226	Insurance, Death Benefit and Other Pension Accounts
+2261	Insurance Accounts
+22611	Civil Service Insurance Fund
+22612	Veterans Insurance Fund
+22613	Insurance Company Liquidation Accounts
+22614	Returned Soldiers Insurance Fund
+22618	Insurance Company Liquidation Contra Account
+22619	Other Insurance Accounts
+2262	Death Benefit Accounts
+22621	Public Service Death Benefit Account
+22622	Regular Forces Death Benefit Account
+22629	Other Death Benefit Accounts
+2263	Other Pension Accounts
+22631	Royal Canadian Mounted Police (RCMP)-Dependents Pension Fund
+22632	Locally Engaged Contributory Pension Account
+22633	Annuity Agent Pension Account
+22639	Other Pension Accounts
+227	Other Employee Future Benefits
+2271	Other Retirement Benefits
+22711	Health Care Plan Liability
+22712	Dental Plan Liability
+2272	Post-Employment Benefits and Compensated Absences
+22721	Severance Benefits Liability
+22722	Workers' Compensation Liability
+22725	Veterans' Benefits Liability
+22726	RCMP Benefits Liability
+22727	Sick Leave Benefit Plan Liability
+22728	Early retirement, severance and other benefits liability for former Cape Breton Development Corporation employees
+2273	Consolidated Crown corporations' other employee future benefit liabilities
+22731	Consolidated Crown Corporations' Other Employee Future Benefit Liabilities
+23	Specified Purpose and Other Liability Accounts
+231	Government Annuities Account
+2311	Government Annuities Account
+23110	Government Annuities Account
+232	Deposit and Trust Accounts
+2321	Deposit Accounts
+23211	Guarantee Deposits Accounts
+23212	Seized Property Cash
+23213	Other Deposit Accounts
+23214	Securities Held in Trust Deposit Accounts (Contra)
+23216	SWAPs Collateral Deposit
+23217	Canadian Dairy Commission Account
+23218	Canada Development Investment Corporation Holdback
+23219	Other Consolidated Crown Corporation Deposit Accounts
+2322	Trust Accounts
+23221	Indian Band Funds
+23222	Indian Savings Accounts
+23223	Other Trust Accounts
+23224	Securities Held in Trust-Other Trust Accounts (Contra)
+23225	Indian Estates Account
+23226	Indian Moneys Suspense Account
+23229	Consolidated Crown Corporation Trust Accounts
+2323	Contractor Security Deposits
+23231	Contractor Security Deposits Held in Trust-Bonds
+23232	Contractor Security Deposits-Cash and Cheques
+23233	Contractor Security Deposits Held in Trust-Certified Cheques
+23234	Securities Held in Trust Contractor Deposits Bonds (Contra)
+23235	Securities Held in Trust Contractor Deposits Certified Cheques (Contra)
+233	Provincial and First Nations Tax Collection Agreements Accounts
+2331	Provincial Tax Collection Agreements Accounts-Personal Income Taxes
+23310	Personal Income Taxes-Calendar Year 2010
+23311	Personal Income Taxes-Calendar Year 2011
+23312	Personal Income Taxes-Calendar Year 2012
+23313	Personal Income Taxes-Calendar Year 2013
+23314	Personal Income Taxes-Calendar Year 2014
+23315	Personal Income Taxes-Calendar Year 2015
+23316	Personal Income Taxes-Calendar Year 2016
+23317	Personal Income Taxes-Calendar Year 2007
+23318	Personal Income Taxes-Calendar Year 2008
+23319	Personal Income Taxes-Calendar Year 2009
+2332	Provincial Tax Collection Agreements Accounts - Corporate Income Taxes
+23320	Corporate Income Taxes-Calendar Year 2010
+23321	Corporate Income Taxes-Calendar Year 2011
+23322	Corporate Income Taxes-Calendar Year 2012
+23323	Corporate Income Taxes-Calendar Year 2013
+23324	Corporate Income Taxes-Calendar Year 2014
+23325	Corporate Income Taxes-Calendar Year 2015
+23326	Corporate Income Taxes-Calendar Year 2016
+23327	Corporate Income Taxes-Calendar Year 2007
+23328	Corporate Income Taxes-Calendar Year 2008
+23329	Corporate Income Taxes-Calendar Year 2009
+2333	Provincial Tax Collection Agreements Accounts-Harmonized Sales Taxes
+23330	Harmonized Sales Tax-Calendar Year 2010
+23331	Harmonized Sales Tax-Calendar Year 2011
+23332	Harmonized Sales Tax-Calendar Year 2012
+23333	Harmonized Sales Tax-Calendar Year 2013
+23334	Harmonized Sales Tax-Calendar Year 2014
+23335	Harmonized Sales Tax-Calendar Year 2015
+23336	Harmonized Sales Tax-Calendar Year 2016
+23337	Harmonized Sales Tax-Calendar Year 2007
+23338	Harmonized Sales Tax-Calendar Year 2008
+23339	Harmonized Sales Tax-Calendar Year 2009
+2334	First Nations Tax Agreement Accounts
+23340	Excise Taxes-Calendar Year 2010
+23341	Excise Taxes-Calendar Year 2011
+23342	Excise Taxes-Calendar Year 2012
+23343	Excise Taxes-Calendar Year 2013
+23344	Excise Taxes-Calendar Year 2014
+23345	Excise Taxes-Calendar Year 2015
+23346	Excise Taxes-Calendar Year 2016
+23347	Excise Taxes-Calendar Year 2007
+23348	Excise Taxes-Calendar Year 2008
+23349	Excise Taxes-Calendar Year 2009
+2335	First Nation Goods and Services Tax (FNGST)
+23350	First Nation Goods and Services Tax-Calendar Year 2010
+23351	First Nation Goods and Services Tax-Calendar Year 2011
+23352	First Nation Goods and Services Tax-Calendar Year 2012
+23353	First Nation Goods and Services Tax-Calendar Year 2013
+23354	First Nation Goods and Services Tax-Calendar Year 2014
+23355	First Nation Goods and Services Tax-Calendar Year 2015
+23356	First Nation Goods and Services Tax-Calendar Year 2016
+23357	First Nation Goods and Services Tax-Calendar Year 2007
+23358	First Nation Goods and Services Tax-Calendar Year 2008
+23359	First Nation Goods and Services Tax - Calendar Year 2009
+234	Other
+2341	Major Accounts
+23411	Payments in regard to Indian Land Claims
+23413	Net Income Stabilization Account
+23414	National Defence-Foreign Governments
+23415	Communications Security Establishment-Foreign Governments
+23418	Funds on Deposit for Military Purchases
+23419	Securities Held in Trust for Funds on Deposit for Military Purchases (Contra)
+2343	Consolidated Crown Corporations
+23431	Telefilm Canada-Advance Account
+23439	Other Consolidated Crown Corporations
+2344	Other Specified Purpose Accounts
+23441	Other Specified Purpose Accounts
+23442	Other Specified Purpose Accounts (Contra)
+2345	Deferred Revenue-Specified Purpose Accounts
+23451	Deferred Revenue-Specified Purpose Accounts
+24	Other Long-Term Liabilities
+241	Accounts Payable for more than One Year
+2411	Long-Term Accounts Payable
+24111	Contractors Holdbacks
+24112	Future Asset Restoration Liability
+24113	Year-end Accruals-Disaster Financial Assistance
+24114	Liability for settled claims
+24119	Other Accounts Payable (to be defined)
+2414	Environmental Liabilities
+24141	Remediation Liabilities
+24142	Expected Recoveries (Contra account for Remediation Liabilities)
+24149	Other environmental liabilities
+242	Capital Leases
+2421	Capital Leases-Land, Buildings and Works
+24211	Capital Leases-Land
+24212	Capital Leases-Buildings
+24213	Capital Leases-Works and Infrastructure
+2422	Capital Leases-Machinery and Equipment
+24221	Capital Leases-Machinery and Equipment
+24222	Capital Leases-Computer Hardware
+24223	Capital Leases-Computer Software
+24224	Capital Leases-Arms and Weapons
+24229	Capital Leases-Other Equipment Including Furniture
+2423	Capital Leases-Vehicles
+24231	Capital Leases-Ships and Boats
+24232	Capital Leases-Aircraft
+24233	Capital Leases-Motor Vehicles (Non-Military)
+24234	Capital Leases-Military Vehicles
+24239	Capital Leases-Other Vehicles
+243	Alternative Financing Arrangements
+2431	Alternative Financing Arrangements (Public Private Partnerships)
+24311	Obligations related to Alternative Financing Arrangements (Public Private Partnerships)
+25	Unmatured Debt
+251	Unmatured Debt in Canadian Currency
+2511	Marketable Bonds
+25111	Marketable Bonds
+25112	Real Return Bonds
+2512	Canada Savings Bonds
+25121	Canada Savings Bonds
+2513	Treasury Bills
+25130	Treasury Bills
+2514	Special Non-Marketable Bonds Issued to Canada Pension Plan (CPP) Investment Fund
+25140	Special Non-Marketable Bonds Issued to Canada Pension Plan (CPP) Investment Fund
+2515	Other Unmatured Debt in Canadian Currency
+25151	Canada Health and Social Transfer (CHST) Supplementary Trust for Health Care
+25152	Medical Equipment Trust for Health Care
+25159	Other Unmatured Debt
+2516	Government Holdings of Unmatured Debt (CONTRA)
+25160	Government Holdings of Unmatured Debt
+252	Unmatured Debt in Foreign Currency
+2521	Marketable Bonds
+25211	Marketable Bonds Payable in U.S. Dollars
+25212	Marketable Bonds Payable in Japanese Yen
+25213	Marketable Bonds Payable in Euro
+2522	Canada Bills
+25220	Canada Bills
+2523	Canada Notes
+25230	Canada Notes
+2524	Currency Swap Transactions
+25241	Net Cross-currency SWAPs revaluation
+2528	Government's Holdings and Securities Held for the Retirement of Unmatured Debt
+25281	Government's Holdings of Unmatured Debt
+25282	Securities Held for the Retirement of Unmatured Debt
+2529	Other Unmatured Debt in Foreign Currency
+25291	Medium Term Notes
+253	Consolidated Crown Corporations and Other Entities
+2531	Consolidated Crown Corporations and Other Entities
+25311	Consolidated Crown Corporations and Other Entities-Unmatured Debt Held-Treasury Bill
+25312	Consolidated Crown Corporations and Other Entities-Unmatured Debt Held-Marketable Bonds
+254	Loans or Advances of Specified Purpose Accounts from the Government of Canada
+2541	Loans or Advances of Specified Purpose Accounts
+25411	Loans of Employment Insurance Account
+25412	Advances of Crop Re-Insurance Fund
+25413	Advances to Agricultural Commodities Stabilization Account
+3	Equity/Deficit
+31	Accumulated Deficit, Including Restricted Net Asset
+311	Accumulated Deficit Unrestricted
+3111	Accumulated Deficit
+31111	Opening Balance, April 1, 2001
+31112	Accounting Policy Adjustments to Prior Years
+312	Restricted Net Asset Accounts
+3121	Major Consolidated Specific Purpose Accounts
+31211	Employment Insurance Account
+31213	Crop Re-Insurance Fund
+31214	Agricultural Commodities Stabilization Accounts
+31215	Employment Insurance Operating Account
+3122	Insurance and Endowment Accounts
+31221	Oil Pollution Fund
+31222	Other Insurance Accounts
+31224	Endowment Accounts
+3123	Other Consolidated Specified Purpose Accounts
+31231	Environmental Research Funds
+31233	Canadian Commercial Bank and Northland Bank
+31234	Seized Property Proceeds Account
+31235	Earmarked Fees and Levies
+31236	New Parks and Historic Sites Account
+31239	Other Consolidated Specified Purpose Accounts
+313	Equity of Crown Corporations
+3131	Investment by Government of Canada in Enterprise Crown Corporations
+31310	Details as required
+3132	Accumulated Deficit or Earned Surplus of Consolidated Crown Corporations and Other Entities
+31320	Details as required
+314	Other Comprehensive Income
+3141	Other Comprehensive Income
+31411	Gain or loss on an available-for-sale financial assets
+31412	Gain or loss on hedges of unrealized foreign currency translation loss and gains
+31413	Actuarial gains or losses of pensions and other employee future benefits
+32	Departmental Net Asset (Liabilities)
+32D	Departmental net asset (liabilities)
+32DD	Departmental net asset (liabilities)
+32DDD	Departmental net asset (liabilities)
+35	Organization Transfer Out/In Offset Account
+35D	Organization transfer out/in offset account
+35DD	Organization transfer out/in offset account
+35DDD	Organization transfer out/in offset account
+36	Retroactive Adjustment
+36D	Retroactive adjustment
+36DD	Retroactive adjustment
+36DDD	Retroactive adjustment
+37	Capital Assets Transfer Out/In Offset Account
+37D	Capital assets transfer out/in offset account
+37DD	Capital assets transfer out/in offset account
+37DDD	Capital assets transfer out/in offset account
+38	Accounts Receivable-Transition Payment Transfer Out/In Offset Account
+38D	Accounts receivable-Transition payment transfer out/in offset account
+38DD	Accounts receivable-Transition payment transfer out/in offset account
+38DDD	Accounts receivable-Transition payment transfer out/in offset account
+4	Revenue
+41	Tax Revenue
+411	Income Tax Revenue
+4111	Personal Income Tax
+41111	Gross Source Deductions Received
+41112	Gross Collections Received from Other Sources (excluding Interest and Penalties)
+41113	Total Income Tax Assessed
+41114	Refunds
+41115	Transfers to Employment Insurance (EI) Account
+41116	Transfers to Canada Pension Plan (CPP) Account
+41117	Transfers to Provinces
+41118	Estimated Accrued Revenue (from Source Deductions and Installments)
+41119	Transfer of Old Age Security Recovery
+4112	Corporate Income Tax
+41121	Gross Collections (excluding Interest and Penalties)
+41122	Refunds
+41123	Transfers to Provinces
+41124	Total Corporate Income Tax Assessed
+41126	Significant Tax Refunds to Certain Industries
+41128	Estimated Revenue Accrued from Instalments
+4113	Non-Resident Income Taxes
+41131	Non-Resident Tax-Gross Tax Received
+41132	Non-Resident Tax-Refunds
+41134	Non-Resident Tax Assessed
+41138	Non-Resident Tax Estimated Revenue
+4118	Other Income Taxes
+41181	Other Income Taxes-Estimated Revenue Accrued
+41182	Other Income Taxes-Assessed
+4119	Miscellaneous Income Taxes
+41191	Miscellaneous Income Tax-Gross Collections
+41192	Miscellaneous Income Tax-Refunds
+412	Employment Insurance Contribution Premiums
+4121	Employment Insurance Contribution Premiums
+41210	Employment Insurance Contribution Premiums
+413	Excise Taxes
+4131	Goods and Services Tax (GST) Including the Harmonized Sales Tax (HST)
+41310	Total Goods and Services Tax (GST) / Harmonized Sales Tax (HST) Assessed
+41311	Gross Goods and Services Tax (GST) / Harmonized Sales Tax (HST) Received (Net of ITCs)
+41313	Rebates
+41314	Refunds and Other Payments
+41315	Refundable Advance Accounts (for Departmental Purchases)
+41316	Government Tax Remission Order
+41317	Transfers of Harmonized Sales Tax (HST) to Provinces
+41318	Transfer of First Nations Sales Tax to Bands
+41319	Rebates Assessed
+4132	Sales Tax
+41322	Sales Tax Refunds, Rebates and Drawbacks
+4133	Excise Tax on Gasoline
+41331	Excise Tax on Gasoline Received
+41332	Excise Tax on Gasoline-Refunds, Rebates and Drawbacks
+41335	Excise Tax on Gasoline-Assessed
+4134	Excise Tax on Aviation Gas and Diesel Fuel
+41341	Aviation Gas Tax Received
+41342	Diesel Fuel Tax Received
+41343	Aviation Gas and Diesel Fuel Tax Refunds, Rebates and Drawbacks
+41345	Aviation Gas Tax Assessed
+41346	Diesel Fuel Tax Assessed
+4135	Petroleum and Gas Revenue Tax
+41352	Petroleum and Gas Revenue Tax Refunds
+4139	Other Excise Taxes
+41391	Tax on Insurance Premiums
+41392	Other Excise Taxes Received
+41393	Other Excise Taxes Refunds, Rebates and Drawbacks
+41395	Other Excise Taxes-Assessed
+41396	Other Excise Taxes-Other Government Departments (OGD) Assessed
+414	Excise Duties
+4141	Tobacco Products
+41411	Tobacco Products-Duties Received
+41413	Tobacco Products-Refunds, Rebates and Drawbacks of Duties
+41415	Tobacco Products-Duties Assessed
+4142	Beer and Liquor Products
+41421	Beer and Liquor Products-Duties Received
+41422	Beer and Liquor Products-Duty Refunds, Rebates and Drawbacks
+41425	Beer and Liquor Products-Duties Assessed
+4149	Other Excise Duties
+41491	Other Excise Duties Received
+41492	Other Excise Duties Refunds, Rebates and Drawbacks
+41495	Other Excise Duties-Assessed
+415	Customs Import Duties
+4151	Customs Import Duties
+41511	Customs Import Duties Received
+41512	Customs Import Duties Refunds, Rebates and Drawbacks
+41515	Customs Import Duties-Assessed
+41516	Customs Import Duties-Other Government Departments (OGD) Assessed
+416	Other Tax Revenue
+4161	Other Taxes
+41611	Other Taxes Received
+41612	Other Taxes-Refunds, Rebates and Drawbacks
+41615	Other Taxes Assessed
+41616	Other Taxes Estimated Revenue Accrued
+417	Air Travellers Security Charge
+4171	Air Travellers Security Charge
+41711	Air Travellers Security Charge-Received
+41712	Air Travellers Security Charge-Refunds
+41713	Air Travellers Security Charge-Assessed (accrual)
+418	Softwood Lumber Charges
+4181	Softwood Lumber Charges
+41811	Softwood Lumber-Charges
+41812	Softwood Lumber-Charge on Refunds of Duty Deposits
+42	Other Revenue
+421	Return on Investments (ROI)
+4211	Return on Investments (ROI) from Enterprise Crown Corporations
+42111	Bank of Canada
+42112	Canada Deposit Insurance Corp
+42113	Canada Mortgage and Housing Corporation
+42114	Farm Credit Canada
+42115	Export Development Canada
+42116	Business Development Bank of Canada
+42119	Other Enterprise Crown Corporation
+4212	Other Returns on Investments (ROI) from Outside the Government
+42121	National Governments, excluding Developing Countries
+42122	Developing Countries
+42123	Provinces and Territories
+42124	Persons
+42125	Export Trade Development
+42126	Joint and Mixed Enterprises
+42129	Other Returns on Investments (ROI) from Outside the Government
+4213	Investment Income
+42131	Exchange Fund Account
+42132	Interest on Bank Deposits
+42133	Premium on Foreign Exchange
+42134	Premium on Foreign Exchange Re-Valuations at Year-End
+42135	International Monetary Fund
+4214	Return on Investments (ROI) from Within the Government
+42141	Interest from Employment Insurance (EI) Fund (Offset to 52311)
+42144	Interest from Agricultural Commodities Stabilization Accounts
+42145	Interest from Other Consolidated Specified Purpose Accounts (offset to 52232)
+42146	Interest from Other Specified Purpose Accounts
+42148	Interest from Revolving Funds
+42149	Other Return On Investments (ROI) from Other Departments
+4215	Return on Investments (ROI) from Consolidated and Other Crown Coporations
+42151	Return On Investments (ROI) from Ports Corporations
+42152	Return On Investments (ROI) from Consolidated Crown Corporations-Contra
+42159	Return On Investments (ROI) from Any Other Crown Corporations
+4216	Amortization of Discounts
+42161	Amortization of Discounts
+422	Consolidated Crown Corporation Revenue
+4223	Telefilm Canada
+42230	Telefilm Canada
+4229	Crown Corporation Revenue
+42290	Consolidated Crown Corporation Revenue
+42291	Enterprise Crown Corporation Modified Equity-Share of Profit
+42292	Consolidated Crown Corporation Revenue-Contra
+423	Sales of Goods and Services
+4231	Sales of Goods and Services
+42311	Rights and Privileges
+42312	Lease and Use of Public Property
+42313	Services of a Regulatory Nature
+42314	Services of a Non-Regulatory Nature
+42315	Sales of Goods and Information Products
+42319	Other Fees and Charges
+42320	Services to other government departments
+424	Gains on Sales of Assets
+4241	Gain on Sale (or Other Disposal) of Physical Assets
+42411	Gain on Disposal of Capital Assets to Outside Parties
+42412	Gain on Disposal of Non-Capital Assets to Outside Parties
+42413	Gain on Sale of Real Property
+42415	Gain on Sale of (Profit from) Bullion and Coinage
+42417	Gain on sales of Real Property to Canada Lands Company
+42418	Other Entities-Gain on Disposal of Tangible Capital Assets
+42419	Crown Corporation-Gain on Disposal of Tangible Capital Assets
+4242	Gain on Sale of Government Organizations
+42421	Gain on Sale of Crown Corporations
+42422	Gain on Sale of Departmental Organizations
+42423	Gain on Sale of Joint and Mixed Enterprises
+425	Interest and Penalties Earned on Revenue
+4251	Interest and Penalties on Income Tax Revenue
+42511	Personal Income Taxes
+42512	Corporate Income Taxes
+42513	Non-Resident Taxes
+42514	Source Deductions
+4252	Interest and Penalties on Other Tax Revenue
+42521	Goods and Services Tax
+42522	Energy Taxes
+42523	Customs Import Duties
+42524	Other Excise Taxes
+42525	Employment Insurance (EI) Contributions
+42526	Excise Duties
+42527	Air Travellers Security Charge-Interest and Penalties
+42529	Other Taxes
+4253	Interest Paid on Tax Refunds
+42531	Personal Income Taxes
+42532	Corporate Income Taxes
+42533	Non-Resident Taxes
+42534	Goods and Services Tax
+42535	Other Excise Taxes and Duties
+42536	Employment Insurance Contributions
+42539	Other Interest Paid on Tax Refunds
+4254	Interest on Other Revenue
+42541	Interest on Overdue Accounts Receivable
+42549	Interest on Other Revenue
+426	Revenue on Consolidated Specified Purpose Accounts Revenues
+4261	Major Consolidated Specified Purpose Accounts Revenues
+42611	Interest on Employment Insurance Account from Government of Canada
+42612	Other Receipts to the Employment Insurance Account
+42613	Re-Insurance Revenues from Provinces
+42614	Levies and Other Fees under the Agricultural Commodities Stabilization Board Accounts
+42615	Other Amounts Received from the Government of Canada
+42617	Other receipts to the Employment Insurance Operating Account
+42619	Other Accounts
+4262	Insurance, Donation and Bequest Revenues
+42621	Tonnage Levies on Oil Carriers for the Ship-Source Oil Pollution Fund
+42622	Premiums and Other Receipts to Other Insurance Accounts
+42624	Donations and Bequests to Endowment Accounts
+4263	Other Consolidated Specified Purpose Accounts
+42631	Receipts to Environmental Studies Research Fund
+42633	Receipts to Canadian Commercial Bank and Northland Bank Account
+42634	Receipts to Seized Property Proceeds Account
+42635	Fees and Other Levies under Court Awards
+42636	Receipts to New Parks and Historic Sites Account
+42639	Other Receipts
+427	Other Revenue
+4271	Miscellaneous
+42710	Miscellaneous Revenues from Other Consolidated Entities-Contra
+42711	Revenue from Fines
+42712	Gifts to the Crown
+42713	Revenue from Seized Property
+42714	Revenue from Enterprise Crown Corporations
+42715	Consolidated Other Entities Revenues
+42716	Consolidated Other Entities Revenues-Contra
+42717	Pension Contributions Credited to Revenue
+42718	Miscellaneous Revenue from Payroll Deductions
+42719	Miscellaneous
+4272	Donation and Bequest Revenues
+42723	Donations to Canadian Institutes of Health Research
+42724	Interest on Endowment Donations and Bequests
+42725	Donations and Bequests to Other Accounts
+4273	Other Revenue for Accounting Purposes
+42732	Gains on Foreign Exchange Revaluations at Year-End
+42733	Other Gains on Foreign Exchange Valuations
+42734	Revenue from Joint Project and Cost Sharing Agreements
+42735	Gain on Change in Lease Terms
+4274	Other Revenue for Consolidated Crown Corporations
+42741	Old Port of Montreal Corporation
+42748	Other Consolidated Crown Corporations-Contra
+42749	Other Consolidated Crown Corporations
+4275	Foreign Exchange Gain/Loss
+42751	Foreign Exchange Gain/Loss on the Exchange Fund Account
+42752	Foreign Exchange Gain/Loss Related to the Position with the International Monetary Fund
+42753	Foreign Exchange Gain/Loss on Unmatured Debt
+42754	Foreign Exchange Gain/Loss on Currency Swap Revaluations
+42755	Foreign Exchange Gain/Loss on Sovereign Loans
+42756	Foreign Exchange Gain/Loss-Other
+42757	Interest on Subscriptions to the International Monetary Fund (IMF)
+4276	Clearing Accounts for Collection of Respendable Revenue Amounts 
+42761	Respendable Revenue Clearing
+5	Expenses
+51	Program Expenses
+511	Transfer Payments
+5111	Transfer Payments to or on Behalf of Individuals
+51111	Old Age Security and Related Payments
+51112	Employment Insurance Benefits
+51113	Child Tax Benefits
+51114	Goods and Services Tax (GST) Credit to Persons
+51115	Assistance to Encourage Employment
+51116	Canada Student Loans or Grants
+51117	Pensions to Veterans
+51118	Payments to Native Peoples
+51119	Other Transfers to Individuals
+51120	Apprentice Loans Program
+5112	Transfer Payments to or on Behalf of Individuals Through the Tax System
+51121	Children's Special Allowances
+51122	Children Special Allowance Accrual
+51123	Working Income Tax Benefit
+51124	Refundable Medical Expense Supplement
+51125	Child Tax Benefits Accrual
+51126	Goods and Services Tax (GST) Credit to Persons Accrual
+51127	Children's Fitness Tax Credit
+51128	Universal Child Care Benefit
+51129	Energy Cost Benefits
+5113	Transfer Payments to Other Levels of Government Within Canada
+51130	Canada Health Transfer
+51132	Equalization Payments
+51133	Other Fiscal Arrangement Transfers by Dept of Finance
+51134	Payments to Territorial Governments for Operating Expenditures
+51135	Payments Made under Infrastructure Canada
+51137	Quebec Abatement
+51138	Canada Social Transfer
+51139	Other Transfers to Other Levels of Government
+5114	Transfer Payments to Other Levels of Government
+51141	Other transfers to Other Levels of Government by Dept of Finance
+51142	Gas Tax Fund Transfers
+5115	Payments to Industry
+51151	Payments to Agricultural Producers
+51152	Industrial Development Payments
+51155	Other payments to industry through the tax system
+51159	Other Transfers to Industry
+5116	Payments to Other Countries and International Organizations
+51161	International Development Assistance
+51169	Other Transfers to Other Countries and International Organizations
+5117	Payments to Organizations, Including Crown Corporations and Non-Profit Organizations
+51171	Payments to or on Behalf of Native Peoples
+51172	Consolidated Other Entities Expenses
+51173	Consolidated Other Entities Expenses-Contra
+51174	Other Transfers to Non-Profit Organizations-Contra
+51175	Payments to Crown Corporations
+51178	Transfer payments by Consolidated Foundations
+51179	Other transfers to non-profit institutions and other organizations
+5118	Foreign Exchange Gain/Loss
+51180	Foreign Exchange Gain/Loss on Transfer Payments
+5119	Payments to Other Sectors
+51191	Payments to Consolidated Specified Purpose Accounts
+51192	Provision for Loan Guarantees
+51199	Other Transfers to any Other Sector
+512	Crown Corporation and Other Entities Expenses
+5129	Crown Corporation and Other Entities Expenses
+51290	Consolidated Crown Corporation Expenses
+51291	Enterprises Crown Corporation  (ECC)-Modified Equity-Share of Losses
+51292	Consolidated Crown Corporation Expenses-Contra
+51293	Consolidated other entities expenses
+51294	Consolidated other entities expenses-Contra
+513	Operating Expenses
+5131	Personnel Operating Expenses
+51311	Salaries and Wages (including Allowances)
+51312	Employer Contribution Costs
+51313	Other Superannuation Related Costs
+51314	Pension and Similar Payments to Former Employees
+51315	Pension Provision Adjustments
+5132	Operating and Maintenance
+51321	Operating Expenses
+51325	Cost of Goods Sold for Inventories
+514	Amortization Expenses on Capital Assets
+5140	Amortization Expenses on Leasehold Improvements
+51401	Amortization Expenses on Leasehold Improvements
+5141	Amortization Expenses on Capital Assets-Buildings and Works
+51412	Amortization Expenses-Buildings
+51413	Amortization Expenses-Works and Infrastructure
+5142	Amortization Expenses on Capital Assets-Machinery and Equipment
+51421	Amortization Expenses-Machinery and Equipment
+51422	Amortization Expenses-Computer Hardware
+51423	Amortization Expenses-Computer Purchased and Developed Software
+51424	Amortization Expenses-Arms and Weapons
+51429	Amortization Expenses-Other Equipment including Furniture
+5143	Amortization Expenses on Vehicles
+51431	Amortization Expenses-Ships and Boats
+51432	Amortization Expenses-Aircraft
+51433	Amortization Expenses-Motor Vehicles (Non-Military)
+51434	Amortization Expenses-Military Vehicles
+51439	Amortization Expenses-Other Vehicles
+5146	Crown Corporation-Amortization Expenses on Tangible Capital Assets
+51461	Crown Corporations-Amortization Expenses-All Categories
+51462	Other Entities-Amortization Expenses-All Categories
+515	Loss on Sale of Assets
+5151	Loss on Sale or Other Disposal of Physical Assets
+51511	Loss on Disposal of Physical Assets
+51512	Loss on Sale of Bullion and Coinage
+51514	Losses on Sales of Real Property to Canada Lands Company
+51515	Crown Corporation-Loss on Disposal of Tangible Capital Assets
+51516	Other entities-Loss on Disposal of Tangible Capital Assets
+5152	Loss on Sale of Government Organizations
+51521	Loss on Sale of Crown Corporations
+51522	Loss on Sale of Departmental Organizations
+51523	Loss on Sale of Joint and Mixed Enterprise
+516	Consolidated Specified Purpose Account Expenditures
+5161	Major Consolidated Specified Purpose Accounts Expenditures
+51611	Administration Expenses-Employment Insurance Account
+51613	Re-Insurance Amounts Paid to the Provinces
+51614	Payments from Agricultural Commodities Stabilization Board Accounts
+51615	Administration expenses-Employment Insurance Operating Account
+51619	Other Accounts
+5162	Insurance, Donation, Bequest Expenses and Other Payments
+51621	Pollution Claims and Expenses from the Oil Pollution Fund
+51622	Payments from Other Insurance Accounts
+5163	Other Consolidated Specified Purpose Accounts
+51631	Payments from Environmental Studies Research Fund
+51633	Payments from Canadian Commercial Bank and Northland Bank Account
+51634	Payments from Seized Property Proceeds Account
+51635	Payments from Earmarked Fees and Other Levies
+51636	Payments from New Parks and Historic Sites Account
+51639	Other Payments
+517	Other Program Expenses 
+5171	Investment Expenses 
+51711	Loss on Foreign Exchange
+51712	Loss on Foreign Exchange Re-Valuations at Year-End
+51719	Other Investment Expenses
+5172	Miscellaneous Expenses 
+51721	Export Development Canada-Administration Charges
+51722	Miscellaneous Special Payments, e.g. Court Awards
+51724	Government Contingencies Account
+51725	Suspense Account for Duplicate Payments
+51726	Interest on Overdue Suppliers Accounts
+51729	Other Miscellaneous Expenses
+5173	Other Program Expenses for Accounting Purposes
+51731	Provision for Valuation
+51732	Bad Debt Expense
+51733	Losses on Write-Offs and Write-Downs
+51735	Amortization of Confederation Bridge
+51736	Bad Debt-Employment Insurance
+51737	Payments to other consolidated entities-Contra
+51739	Other Program Expenses for Accounting Purposes
+5174	Payments to Enterprise Crown Corporations and Other Entities
+51741	Export Development Canada
+51742	Canada Post Corporation
+51744	Canada Ports Corporation
+51749	Other Payments to Enterprise Crown Corporations and Other Entities
+51751	Canada Mortgage and Housing Corporation (Minister's Account)
+5175	Payments to Consolidated Crown Corporations
+51750	Payments to Consolidated Crown Corporations-Contra
+51752	Canadian Broadcasting Corporation
+51753	Telefilm Canada
+51754	Marine Atlantic Inc.
+51755	VIA Rail Canada Inc.
+51756	International Development Research Centre
+51757	National Capital Commission
+51759	Other Payments to Consolidated Crown Corporations
+5176	Special Payments
+51761	Fuel Rebate Program Payments
+51762	Fuel Rebate Program Accrual Basis
+5177	Bad Debt Expense-Tax Revenues
+51771	Personal Income Taxes
+51772	Corporate Income Taxes
+51773	Goods and Sales Tax (GST)
+51774	Excise Tax and Duties
+51775	Energy Taxes
+51776	Other Taxes
+51777	Customs Duties and Taxes on Imports
+51778	Source Deductions
+51779	Non-Residents
+5179	Interest Expense on Tax Refunds
+51790	Interest Expense-Personal Income Taxes
+51791	Interest Expense-Corporate Income Taxes
+51792	Interest Expense-Non-Resident Taxes
+51793	Interest Expense-Goods and Services Tax
+51794	Interest Expense-Other Excise Taxes and Duties
+51795	Interest Expense-Other Interest Paid on Tax Refunds
+518	Distribution of Provision for Valuation Accounts
+5181	Provision for Valuation for Transfer Payments to Other Levels of Government 
+51811	Canada Health and Social Transfer  (CHST)
+51812	Medical Care
+51814	Fiscal Arrangements
+51819	Provision for Valuation for Other Levels of Government-Other
+5182	Provision for Valuation for Other Transfer Payments
+51821	Accounts Payable-Employment Insurance (EI) Benefits
+51822	Accounts Payable for Crop Reinsurance
+51823	Valuation for Beef Plan-National Tripartite Stabilization Program (NTSP)
+51824	Provision for claims and litigations-Indian Affairs and Northern Development
+51825	Valuation for Other Payments to Persons
+51826	Provision for veteran payments
+51827	Provision for RCMP payments
+51829	Provision for Valuation for all Other Transfer Payments
+5183	Provision for Valuation for Crown Corporations
+51831	Provision for Crown Corporations
+51832	Provision for Crown Corporations (Contra)
+5184	Provision for Personnel Expenses 
+51841	Personnel Expenses to Defence
+51842	Personnel Expenses to All Other Departments
+51843	Provision for Valuation for Interest on Pensions-Finance
+51844	Provision for Severance Benefits-Military
+51845	Personnel Expenses to RCMP
+51846	Provision for Severance Benefits-Public Service
+51847	Provision for Severance Benefits-RCMP Members
+51848	Provision for Severance Benefits-Others
+51849	Allowance for Termination Benefits-Departments
+51881	Provision for Sick Leave Benefit Plan-Departments
+5185	Provision for Valuation for Other Expenses
+51851	Agriculture
+51852	Defence
+51853	Foreign Affairs, Trade and Development (Department of)
+51854	Human Resources and Skills Development Canada (HRSDC)
+51855	Industry and Regional Agencies
+51856	Indian Affairs and Northern Development (IAND)
+51859	Other Departments and Agencies
+52	Public Debt Charges
+521	Interest on Unmatured Debt
+5211	Marketable Bonds
+52111	Interest on marketable bonds in Canadian dollars
+52112	Real Return Bonds
+52113	Currency Swap Transactions
+5212	Treasury Bills
+52120	Treasury Bills
+5213	Canada Savings Bonds
+52130	Canada Savings Bonds
+5214	Bonds for Canada Pension Plan
+52140	Special Non-Marketable Bonds Issued to the Canada Pension Plan Investment Fund
+5215	Interest on Other Securities in Canadian Funds
+52151	Interest on Canadian Money Market
+52152	Interest on Canada Health and Social Transfer (CHST) and Medical Equipment Trusts
+52159	Interest on Other Securities in Canadian Funds
+5216	Interest on Securities in Foreign Currencies 
+52162	Interest on Canada Notes
+52163	Interest on Canada Bills
+52164	Interest on marketable bonds in US dollars
+52165	Interest on marketable bonds in Swiss Francs
+52166	Interest on marketable bonds in Euros
+52167	Interest on marketable bonds in Japanese Yens
+52168	Interest on Medium-Term Notes
+52169	Interest on marketable bonds-Other foreign currencies
+522	Interest on Other Liabilities 
+5221	Interest on Superannuation Accounts
+52211	Interest on Public Service Superannuation Account
+52212	Interest on Canadian Forces Superannuation Account
+52213	Interest on Royal Canadian Mounted Police (RCMP) Superannuation Account
+52214	Interest on Members of Parliament (MP) Retirement Allowance Account
+52216	Interest on Supplementary Retirements Benefit Accounts (SRBA)
+52217	Interest on Other Superannuation Accounts
+52219	Interest on Other Pension Liability Accounts
+5222	Interest on Retirement Compensation Allowance (RCA) Accounts
+52221	Interest on Retirement Compensation Arrangements Account (RCA) Account No. 1-Public Servants
+52222	Interest on Retirement Compensation Arrangements Account (RCA) Account No. 1-National Defence
+52223	Interest on Retirement Compensation Arrangements (RCA) Account No. 1-Royal Canadian Mounted Police (RCMP)
+52224	Interest on Retirement Compensation Arrangements (RCA) Account No. 2-Public Servants
+52225	Interest on Members of Parliament (MP) Retirement Compensation Arrangements (RCA) Account
+5223	Interest Paid on Consolidated Specified Purpose Accounts
+52231	Interest Paid to Employment Insurance (EI) Fund (Offset to 42611)
+52232	Interest on Other Consolidated Specified Purpose Accounts (Offset to 42145)
+5224	Interest on Other Non-Budgetary Accounts
+52241	Interest on Canada Pension Plan Account
+52242	Interest on Other Non-Budgetary Accounts
+523	Interest Paid by Other Entities Within the Government
+5231	INTEREST PAID BY CONSOLIDATED SPECIFIED PURPOSE ACCOUNTS
+52311	Interest Paid by Employment Insurance (EI) Fund (Offset to 42141)
+52319	Interest Paid by Other Consolidated Specified Purpose Accounts
+5232	Interest Paid by Revolving Funds
+52320	Interest paid by revolving funds
+5233	Interest Paid by Non-Budgetary Funds and Accounts
+52330	Interest Paid by Non-Budgetary Funds and Accounts
+5239	Other Interest Paid
+52390	Other Interest Paid
+524	Other Public Debt Expenses
+5241	Amortization of Discounts, Premiums and Commissions on Bonds
+52411	Amortization of Discounts, and Premiums on Marketable Bonds
+52412	Amortization of Commissions on Canada Savings Bonds
+52415	Consumer Price Index adjustments on Real Return Bonds
+52416	Amortization of Discounts, and Premiums on foreign bonds
+52417	Amortization of Discounts, and Premiums on Real Return Bonds
+5242	Servicing Costs and Costs of Issuing New Loans
+52421	Servicing Costs
+52422	Costs of Issuing New Loans
+5249	Other
+52491	Interest Component on Capital Lease Payments
+52492	Interest Expense related to Alternative Financing Arrangements (Public Private Partnerships)
+55	Program Allocation
+6	Cash Reconciliation Control Accounts
+61	Cash Payment Control Accounts
+61D	Cash payment control accounts
+61DD	Cash payment control accounts
+61DDD	Cash payment control accounts
+62	Cash Deposit Control Accounts
+62D	Cash deposit control accounts
+62DD	Cash deposit control accounts
+62DDD	Cash deposit control accounts
+63	Payroll Control Accounts
+63D	Payroll control accounts
+63DD	Payroll control accounts
+63DDD	Payroll control accounts
+64	Interdepartmental Settlement (I.S.) Debit Control Accounts
+64D	Interdepartmental settlement (IS) debit control accounts
+64DD	Interdepartmental settlement (IS) debit control accounts
+64DDD	Interdepartmental settlement (IS) debit control accounts
+65	Interdepartmental Settlement (I.S.) Credit Control Accounts
+65D	Interdepartmental settlement (IS) credit control accounts
+65DD	Interdepartmental settlement (IS) credit control accounts
+65DDD	Interdepartmental settlement (IS) credit control accounts
+68	Cash Payment Control Account Departmental Bank Account (DBA) and Zero Balance Account (ZBA) Redemptions
+68D	Payment control account departmental bank account (DBA) and zero balance account (ZBA) redemptions
+68DD	Payment control account departmental bank account (DBA) and zero balance account (ZBA) redemptions
+68DDD	Payment control account departmental bank account (DBA) and zero balance account (ZBA) redemptions
+6X	Other Control Accounts
+6XD	Other control accounts
+6XDD	Other control accounts
+6BDDD	Non-Treasury Control Accounts-Department of Finance
+6CDDD	Program Payment Control Accounts
