@@ -53,7 +53,7 @@ Number	Name
 11242	Other government departments (OGD)-Accounts receivable
 11244	Other government department (OGD)-Suspense advances
 11245	Interdepartmental settlement (IS) credits in transit to the Receiver General (for Creditor initiated IS)
-1125	Accounts receivable-Tax revenue-Interdepartmental allocations
+1125	Accounts Receivable-Tax Revenue-Interdepartmental allocations
 11251	Canada Pension Plan Premiums receivable from Canada Revenue Agency (CRA)
 11252	Employment insurance contributions receivable from Canada Revenue Agency (CRA)
 11253	Old Age Security overpayments receivable from Canada Revenue Agency (CRA)
@@ -109,7 +109,7 @@ Number	Name
 1211	Subscriptions and notes payable
 12111	Subscriptions
 12112	Notes payable (contra)
-12113	International Monetary Fund-General resources account lending
+12113	International Monetary Fund-General Resources Account Lending
 1212	Special drawing rights allocations
 12120	Special drawing rights allocations
 122	Other
@@ -203,7 +203,7 @@ Number	Name
 1327	Other organizations
 13271	Development of export trade payments made to private sector
 13272	Unamortized discounts for loans to the private sector for development of export trade (contra)
-13273	Payments made to the private sector related to financial assistance to the automotive sector
+13273	Payments made to the private sector related to financial assistance to the automotive sector 
 133	Other loans, investments and advances
 1331	Loans and accountable advances to employees
 13311	Missions abroad (Foreign affairs working capital advances)
@@ -253,7 +253,7 @@ Number	Name
 13393	Canada student loans (direct loans)
 13394	Amounts subrogated under the Canada Student Loans Act and the Canada Student Financial Assistance Act
 13395	Apprentice loans (direct loans)
-13396	Quebec sales tax (QST) refundable advance account
+13396	Quebec Sales Tax (QST) Refundable Advance Account
 13397	Unamortized discount-Other loans, investments and advances
 13398	Unamortized discount on Canada student loans risk shared loans
 13399	Miscellaneous loans, investments and advances
@@ -290,7 +290,6 @@ Number	Name
 141	Prepaid expenses
 1411	Prepaid expenses
 14110	Prepaid expenses
-1412	Prepayments of transfers
 142	Deferred charges
 1421	Deferred charges on unmatured debt
 14211	Unamortized discounts on Treasury bills
@@ -328,8 +327,8 @@ Number	Name
 16134	Military vehicles
 16135	Other vehicles
 1614	Leasehold improvements
-16141	Leasehold improvements
-16142	Leasehold Improvements on properties where custodian is another government department
+16141	Leasehold improvements, including initial procurement of furniture and fixtures
+16142	Leasehold improvements, including initial procurement of furniture and fixtures, on properties where custodian is another government department
 162	Accumulated amortization on tangible capital assets
 1621	Accumulated amortization on buildings and works
 16212	Accumulated amortization on buildings
@@ -347,8 +346,8 @@ Number	Name
 16234	Accumulated amortization on military vehicles
 16235	Accumulated amortization on other vehicles
 1624	Accumulated amortization on leasehold improvements
-16241	Accumulated amortization on leasehold improvements
-16242	Accumulated amortization on leasehold improvements on properties where custodian is another government department
+16241	Accumulated amortization on leasehold improvements, including initial procurement of furniture and fixtures
+16242	Accumulated amortization on leasehold improvements, including initial procurement of furniture and fixtures, on properties where custodian is another government department
 163	Work in progress on tangible capital assets
 1631	Work in progress
 16311	Buildings in progress of construction
@@ -680,7 +679,7 @@ Number	Name
 23314	Personal Income Taxes-Calendar Year 2014
 23315	Personal Income Taxes-Calendar Year 2015
 23316	Personal Income Taxes-Calendar Year 2016
-23317	Personal Income Taxes-Calendar Year 2007
+23317	Personal Income Taxes-Calendar Year 2017
 23318	Personal Income Taxes-Calendar Year 2008
 23319	Personal Income Taxes-Calendar Year 2009
 2332	Provincial Tax Collection Agreements Accounts - Corporate Income Taxes
@@ -691,7 +690,7 @@ Number	Name
 23324	Corporate Income Taxes-Calendar Year 2014
 23325	Corporate Income Taxes-Calendar Year 2015
 23326	Corporate Income Taxes-Calendar Year 2016
-23327	Corporate Income Taxes-Calendar Year 2007
+23327	Corporate Income Taxes-Calendar Year 2017
 23328	Corporate Income Taxes-Calendar Year 2008
 23329	Corporate Income Taxes-Calendar Year 2009
 2333	Provincial Tax Collection Agreements Accounts-Harmonized Sales Taxes
@@ -702,7 +701,7 @@ Number	Name
 23334	Harmonized Sales Tax-Calendar Year 2014
 23335	Harmonized Sales Tax-Calendar Year 2015
 23336	Harmonized Sales Tax-Calendar Year 2016
-23337	Harmonized Sales Tax-Calendar Year 2007
+23337	Harmonized Sales Tax-Calendar Year 2017
 23338	Harmonized Sales Tax-Calendar Year 2008
 23339	Harmonized Sales Tax-Calendar Year 2009
 2334	First Nations Tax Agreement Accounts
@@ -713,7 +712,7 @@ Number	Name
 23344	Excise Taxes-Calendar Year 2014
 23345	Excise Taxes-Calendar Year 2015
 23346	Excise Taxes-Calendar Year 2016
-23347	Excise Taxes-Calendar Year 2007
+23347	Excise Taxes-Calendar Year 2017
 23348	Excise Taxes-Calendar Year 2008
 23349	Excise Taxes-Calendar Year 2009
 2335	First Nation Goods and Services Tax (FNGST)
@@ -724,9 +723,9 @@ Number	Name
 23354	First Nation Goods and Services Tax-Calendar Year 2014
 23355	First Nation Goods and Services Tax-Calendar Year 2015
 23356	First Nation Goods and Services Tax-Calendar Year 2016
-23357	First Nation Goods and Services Tax-Calendar Year 2007
+23357	First Nation Goods and Services Tax-Calendar Year 2017
 23358	First Nation Goods and Services Tax-Calendar Year 2008
-23359	First Nation Goods and Services Tax - Calendar Year 2009
+23359	First Nation Goods and Services Tax-Calendar Year 2009
 234	Other
 2341	Major Accounts
 23411	Payments in regard to Indian Land Claims
@@ -867,8 +866,8 @@ Number	Name
 37DD	Capital assets transfer out/in offset account
 37DDD	Capital assets transfer out/in offset account
 38	Accounts Receivable-Transition Payment Transfer Out/In Offset Account
-38D	Accounts receivable-Transition payment transfer out/in offset account
-38DD	Accounts receivable-Transition payment transfer out/in offset account
+38D	Accounts receivable—Transition payment transfer out/in offset account
+38DD	Accounts receivable—Transition payment transfer out/in offset account
 38DDD	Accounts receivable-Transition payment transfer out/in offset account
 4	Revenue
 41	Tax Revenue
@@ -1002,7 +1001,7 @@ Number	Name
 42149	Other Return On Investments (ROI) from Other Departments
 4215	Return on Investments (ROI) from Consolidated and Other Crown Coporations
 42151	Return On Investments (ROI) from Ports Corporations
-42152	Return On Investments (ROI) from Consolidated Crown Corporations-Contra
+42152	Return On Investments (ROI) from Consolidated Crown Corporations
 42159	Return On Investments (ROI) from Any Other Crown Corporations
 4216	Amortization of Discounts
 42161	Amortization of Discounts
@@ -1011,7 +1010,7 @@ Number	Name
 42230	Telefilm Canada
 4229	Crown Corporation Revenue
 42290	Consolidated Crown Corporation Revenue
-42291	Enterprise Crown Corporation Modified Equity-Share of Profit
+42291	Enterprise Crown Corporation Modified Equity-Share of Profit/Loss
 42292	Consolidated Crown Corporation Revenue-Contra
 423	Sales of Goods and Services
 4231	Sales of Goods and Services
@@ -1074,6 +1073,7 @@ Number	Name
 42621	Tonnage Levies on Oil Carriers for the Ship-Source Oil Pollution Fund
 42622	Premiums and Other Receipts to Other Insurance Accounts
 42624	Donations and Bequests to Endowment Accounts
+42626	Revenues-Fund for railway accidents involving designated goods
 4263	Other Consolidated Specified Purpose Accounts
 42631	Receipts to Environmental Studies Research Fund
 42633	Receipts to Canadian Commercial Bank and Northland Bank Account
@@ -1140,6 +1140,7 @@ Number	Name
 51127	Children's Fitness Tax Credit
 51128	Universal Child Care Benefit
 51129	Energy Cost Benefits
+5112A	Teacher and Early Childhood Educator School Supply Tax Credit
 5113	Transfer Payments to Other Levels of Government Within Canada
 51130	Canada Health Transfer
 51132	Equalization Payments
@@ -1177,7 +1178,6 @@ Number	Name
 512	Crown Corporation and Other Entities Expenses
 5129	Crown Corporation and Other Entities Expenses
 51290	Consolidated Crown Corporation Expenses
-51291	Enterprises Crown Corporation  (ECC)-Modified Equity-Share of Losses
 51292	Consolidated Crown Corporation Expenses-Contra
 51293	Consolidated other entities expenses
 51294	Consolidated other entities expenses-Contra
@@ -1233,6 +1233,7 @@ Number	Name
 5162	Insurance, Donation, Bequest Expenses and Other Payments
 51621	Pollution Claims and Expenses from the Oil Pollution Fund
 51622	Payments from Other Insurance Accounts
+51626	Expenses-Fund for railway accidents involving designated goods
 5163	Other Consolidated Specified Purpose Accounts
 51631	Payments from Environmental Studies Research Fund
 51633	Payments from Canadian Commercial Bank and Northland Bank Account
@@ -1401,34 +1402,29 @@ Number	Name
 5249	Other
 52491	Interest Component on Capital Lease Payments
 52492	Interest Expense related to Alternative Financing Arrangements (Public Private Partnerships)
-55	Program Allocation
 6	Cash Reconciliation Control Accounts
 61	Cash Payment Control Accounts
 61D	Cash payment control accounts
 61DD	Cash payment control accounts
-61DDD	Cash payment control accounts
+61DDD	Cash Payment Control Accounts
 62	Cash Deposit Control Accounts
-62D	Cash deposit control accounts
-62DD	Cash deposit control accounts
-62DDD	Cash deposit control accounts
+62D	Cash deposit control accounts
+62DD	Cash deposit control accounts
+62DDD	Cash Deposit Control Accounts
 63	Payroll Control Accounts
 63D	Payroll control accounts
-63DD	Payroll control accounts
-63DDD	Payroll control accounts
+63DD	Payroll control accounts
+63DDD	Payroll Control Accounts
 64	Interdepartmental Settlement (I.S.) Debit Control Accounts
 64D	Interdepartmental settlement (IS) debit control accounts
 64DD	Interdepartmental settlement (IS) debit control accounts
-64DDD	Interdepartmental settlement (IS) debit control accounts
+64DDD	Interdepartmental Settlement (IS) Debit Control Accounts
 65	Interdepartmental Settlement (I.S.) Credit Control Accounts
-65D	Interdepartmental settlement (IS) credit control accounts
-65DD	Interdepartmental settlement (IS) credit control accounts
-65DDD	Interdepartmental settlement (IS) credit control accounts
-68	Cash Payment Control Account Departmental Bank Account (DBA) and Zero Balance Account (ZBA) Redemptions
-68D	Payment control account departmental bank account (DBA) and zero balance account (ZBA) redemptions
-68DD	Payment control account departmental bank account (DBA) and zero balance account (ZBA) redemptions
-68DDD	Payment control account departmental bank account (DBA) and zero balance account (ZBA) redemptions
+65D	Interdepartmental settlement (IS) credit control accounts
+65DD	Interdepartmental settlement (IS) credit control accounts
+65DDD	Interdepartmental Settlement (IS) Credit Control Accounts
 6X	Other Control Accounts
 6XD	Other control accounts
-6XDD	Other control accounts
+6XDD	Other control accounts
 6BDDD	Non-Treasury Control Accounts-Department of Finance
 6CDDD	Program Payment Control Accounts

@@ -18,14 +18,33 @@ ABD00	Producer Protection Program
 ISC0A	Internal Services
 06	National Revenue
 001	Canada Revenue Agency
-ABW00	Appeals
-ABX00	Assessment of Returns and Payment Processing
-ABY00	Benefit Programs
-ABZ00	Taxpayer and Business Assistance
-ACB00	Collections and Returns Compliance
-ACC00	Reporting Compliance
-ACD00	Taxpayers' Ombudsman
-ISC0A	Internal Services
+BRA00	Tax
+BRA01	Tax Services and Processing
+BRA02	Returns Compliance
+BRA03	Collections
+BRA04	Domestic Compliance
+BRA05	International and Large Business Compliance and Criminal Investigations
+BRA06	Objections and Appeals
+BRA07	Taxpayer Relief
+BRA08	Service Complaints
+BRA09	Charities
+BRA10	Registered Plans
+BRA11	Policy, Rulings, and Interpretations
+BRB00	Benefits
+BRB01	Benefits
+BRC00	Taxpayers' Ombudsman
+BRC01	Taxpayers' Ombudsman
+ISSA0	Internal support services core responsibility
+ISSA1	Management and Oversight
+ISSA2	Communications
+ISSA3	Legal
+ISSA4	Human Resources Management
+ISSA5	Financial Management
+ISSA6	Information Management
+ISSA7	Information Technology
+ISSA8	Real Property Management
+ISSA9	Materiel Management
+ISSAZ	Acquisition Management
 09	Canadian Heritage
 001	Canadian Heritage (Department of)
 ACR00	Sport
@@ -33,7 +52,7 @@ ACS00	Arts
 ACU00	Cultural Industries
 ADA00	Heritage
 ADB00	Attachment to Canada
-ADM00	Engagement and community participation
+ADM00	Engagement and Community Participation
 ADN00	Official Languages
 ISC0A	Internal Services
 005	Canada Council for the Arts
@@ -54,12 +73,12 @@ CAB00	Connection to the Communication System
 CPA00	Protection within the communication system
 ISC0A	Internal Services
 024	Library and Archives of Canada
-BHB00	Development of regulatory instruments and recordkeeping tools
-BHC00	Documentation of Canadian society
+BHB00	Development of disposition authorizations  
+BHC00	Acquisition and processing of documentary heritage
 BHD00	Access to documentary heritage
 ISC0A	Internal Services
 LJN00	Collaboration in the management of government records
-LJO00	Stewardship of documentary heritage
+LJO00	Preservation of Documentary Heritage
 029	National Arts Centre Corporation
 ADO00	National Arts Centre Corporation
 033	The National Battlefields Commission
@@ -75,7 +94,7 @@ AEF00	National Gallery of Canada
 053	National Museum of Science and Technology
 AEH00	National Museum of Science and Technology
 066	Office of the Co-ordinator, Status of Women
-CCA00	Leadership, Expertise and Advice
+CCA00	Strategic Advice, Expertise and Promotion of Gender Equality  
 CCB00	Advancing Equality for Women
 ISC0A	Internal Services
 067	National Capital Commission
@@ -87,7 +106,6 @@ ISC0A	Internal Services
 12	Immigration, Refugees and Citizenship
 001	Citizenship and Immigration (Department of)
 AFP00	Family and Discretionary Immigration
-AFQ00	Multiculturalism for Newcomers and All Canadians
 AFV00	Health Protection
 AFW00	Migration Control and Security Management
 COA00	Passport
@@ -149,13 +167,11 @@ AII00	Regulation and Supervision of Federally Regulated Private Pension Plans
 ISC0A	Internal Services
 025	Royal Canadian Mint
 ABV00	Royal Canadian Mint
-025	PPP Canada Inc. (Crown Corporation)
-AHZ00	Crown Corporation PPP Canada Inc.
-21	Fisheries, Oceans and Canadian Coast Guard
+21	Fisheries, Oceans and the Canadian Coast Guard
 001	Fisheries and Oceans (Department of)
 AIP00	Fisheries Protection
 AIV00	Small Craft Harbours
-AIW00	Species at Risk Management
+AIW00	Species at Risk
 CGA00	Climate Change Adaptation Program
 HAA00	Integrated Fisheries Management
 HAB00	Oceans Management
@@ -187,7 +203,7 @@ AJP00	Integrated Foreign Affairs, Trade, and Development Policy
 AJQ00	International Commerce
 AJR00	Management of Government of Canada Terms and Conditions of Employment Abroad
 DAN00	International Security and Democratic Development
-DAP00	International Development
+DAP00	Développement international
 DAQ00	International Humanitarian Assistance
 ISC0A	Internal Services
 005	Canadian Commercial Corporation
@@ -207,12 +223,12 @@ ISC0A	Internal Services
 AKR00	Environmental Risks to Health
 AKS00	Pesticides
 AKU00	First Nations and Inuit Primary Health Care
-AKZ00	Substance Use and Abuse
+AKZ00	Problematic substance use
 ALA00	Specialized Health Services
 BMA00	Canadian Health System Policy
 BMD00	Health Products
 BME00	Food Safety and Nutrition
-CFA00	Consumer Product and Workplace Chemical Safety
+CFA00	Consumer Product and Workplace Hazardous Materials  
 ISC0A	Internal Services
 LJR00	Official Language Minority Community Development
 LJS00	Radiation Protection
@@ -261,6 +277,7 @@ AMH00	Occupational Health and Safety Information Development, Delivery Services 
 ISC0A	Internal Services
 36	Indigenous and Northern Affairs
 001	Indian Affairs and Northern Development (Department of)
+AFA00	Other Claims
 ANC00	Infrastructure and Capacity
 ANG00	Education
 ANL00	Governance and Institutions of Government
@@ -268,17 +285,14 @@ ANM00	First Nations Individual Affairs
 ANO00	Northern Governance and People
 ANP00	Northern Land, Resources and Environmental Management
 ANR00	Social Development
-CEA00	Urban Aboriginal Participation
-CKA00	Aboriginal Rights and Interests
+CEA00	Urban Indigenous Participation
+CKA00	Rights and Interests of Indigenous Peoples
 CKB00	Management and Implementation of Agreements and Treaties
-CKC00	Aboriginal Entrepreneurship
+CKC00	Indigenous Entrepreneurship
 CKD00	Community Economic Development
 CKE00	Strategic Partnerships
 HGH00	Residential Schools Resolution
 HGV00	Northern Science and Technology
-ISC0A	Internal Services
-010	Indian Residential Schools Truth and Reconciliation Commission
-BJW00	Truth and Reconciliation
 ISC0A	Internal Services
 060	Canadian High Arctic Research Station
 DAT00	Science and Technology for the North
@@ -364,8 +378,13 @@ ASB00	Stewardship of the Canadian Legal Framework
 ASE00	Legal Services to Government Program
 ISC0A	Internal Services
 005	Canadian Human Rights Commission
-DAR00	Human Rights Program
-ISC0A	Internal Services
+BSA00	Engagement and Advocacy
+BSA01	Promotion Program
+BSB00	Human Rights Complaints
+BSB01	Protection Program
+BSC00	Employment Equity Audits
+BSC01	Employment Equity Program
+ISSA0	Internal support services core responsibility
 013	Office of the Commissioner for Federal Judicial Affairs
 ARP00	Canadian Judicial Council
 ARR00	Federal Judicial Affairs
@@ -376,10 +395,9 @@ ARW00	Judicial Services
 ARX00	Registry Services
 ISC0A	Internal Services
 025	Office of the Director of Public Prosecutions
-BIT00	Regulatory offences and economic crime prosecution program
-BJF00	Drug, Criminal Code, and terrorism prosecution program
-DAG00	Compliance
-DAH00	Enforcement
+BIT00	Regulatory Offences and Economic Crime Prosecution Program
+BJF00	Drug, National Security and Northern Prosecutions Program
+DAG00	Compliance and Enforcement
 ISC0A	Internal Services
 026	Offices of the Information and Privacy Commissioners of Canada
 ASN00	Compliance Activities
@@ -439,26 +457,42 @@ DAL00	Nuclear Non-Proliferation
 DAM00	Scientific, Technical, Regulatory and Public Information
 ISC0A	Internal Services
 017	National Energy Board
-AUD00	Energy Regulation
-AUF00	Energy Information Program
-ISC0A	Internal Services
+BTA00	Energy  Adjudication
+BTA01	Infrastructure, Tolls and Export Applications
+BTA02	Participant Funding
+BTB00	Safety and Environment Oversight
+BTB01	Company Performance
+BTB02	Management System and Industry Performance
+BTB03	Emergency Management
+BTB04	Regulatory Framework
+BTC00	Energy Information
+BTC01	Energy System Information
+BTC02	Pipeline Information
+BTD00	Engagement
+BTD01	Stakeholder Engagement
+BTD02	Indigenous Engagement
+ISSA0	Internal support services core responsibility
 029	Northern Pipeline Agency
-AUP00	Oversee and regulate the planning and construction of the Canadian portion of the Alaska Highway Gas Pipeline
+AUP00	Oversee and regulate the planning and construction of the Canadian portion of the Alaska Highway Natural Gas Pipeline Project
 ISC0A	Internal Services
 50	Infrastructure and Communities
 021	Office of Infrastructure of Canada
 BJH00	Funding for Provincial-Territorial Priorities
 BJQ00	Permanent and Flexible Infrastructure Funding
 CSA00	Investments in National Infrastructure Priorities
-CSB00	Large-Scale Infrastructure Investments
+CSB00	Large Scale Infrastructure Investments
 CSC00	Infrastructure Investments in Small Communities and Rural Areas
 CSD00	New Bridge for the St. Lawrence Corridor Project
 ISC0A	Internal Services
+025	PPP Canada Inc. (Crown Corporation)
+AHZ00	Crown Corporation PPP Canada Inc.
 027	The Jacques-Cartier and Champlain Bridges Inc.
 BJE00	The Jacques-Cartier and Champlain Bridges Inc.
+037	The Windsor-Detroit Bridge Authority
+CHB00	The Windsor-Detroit Bridge Authority
 51	Parliament
 001	Senate
-AVN00	Senators and their Offices
+AVN00	Senators, House Officers, and their Offices
 AVP00	Chamber, Committees and Associations
 AVQ00	Administrative Support
 005	House of Commons
@@ -474,6 +508,8 @@ ISC0A	Internal Services
 050	Senate Ethics Officer
 BFL00	Administration
 ISC0A	Internal Services
+052	Parliamentary Protective Service
+AVV00	Physical security
 54	Privy Council
 001	Privy Council Office
 BEB00	Advice and support to the Prime Minister and portfolio ministers
@@ -485,11 +521,12 @@ ISC0A	Internal Services
 AVS00	Conference Services
 ISC0A	Internal Services
 013	Canadian Transportation Accident Investigation and Safety Board
-AVX00	Aviation occurrence investigations
-AVY00	Marine occurrence investigations
-AVZ00	Pipeline occurrence investigations
-AWC00	Rail occurrence investigations
-ISC0A	Internal Services
+BWA00	Independent safety investigations and communication of risks in the transportation system
+BWA01	Aviation occurrence investigations
+BWA02	Marine occurrence investigations
+BWA03	Rail Occurrence Investigations
+BWA04	Pipeline occurrence investigations
+ISSA0	Internal support services core responsibility
 017	Office of the Chief Electoral Officer
 HGG00	Electoral Operations
 HGI00	Regulation of Electoral Activities
@@ -528,10 +565,13 @@ BES00	Correctional Interventions
 BET00	Community Supervision
 ISC0A	Internal Services
 013	Parole Board of Canada
-AXV00	Conditional Release Decisions
-AXW00	Conditional Release Openness and Accountability
-AXY00	Record Suspension Decisions/Clemency Recommendations
-ISC0A	Internal Services
+BUA00	Conditional Release Decisions
+BUA01	Conditional Release Decisions
+BUB00	Conditional Release Openness and Accountability
+BUB01	Conditional Release Openness and Accountability
+BUC00	Record Suspension Decisions/Clemency Recommendations
+BUC01	Record Suspension Decisions/Clemency Recommendations
+ISSA0	Internal support services core responsibility
 017	Office of the Correctional Investigator of Canada
 AYD00	Ombudsman for federal offenders
 ISC0A	Internal Services
@@ -543,7 +583,7 @@ HGE00	Canadian Police Culture and Heritage
 HGF00	Transfer Payments
 ISC0A	Internal Services
 025	Royal Canadian Mounted Police External Review Committee
-BEN00	Independent and impartial case review
+BEN00	Appeal case reviews  
 029	Civilian Review and Complaints Commission for the Royal Canadian Mounted Police
 AYX00	Civilian review of RCMP members' conduct in the performance of their duties
 ISC0A	Internal Services
@@ -551,7 +591,7 @@ ISC0A	Internal Services
 001	Public Works and Government Services (Department of)
 AZA00	Acquisitions
 AZN00	Federal Pay and Pension Administration
-BEQ00	Accommodation and Real Property Services
+BEQ00	Accommodation Management and Real Property Services  
 BEU00	Receiver General for Canada
 BEW00	Linguistic Management and Services
 BEX00	Specialized Programs and Services
@@ -559,7 +599,12 @@ BEY00	Procurement Ombudsman
 CUA00	Integrity Programs and Services
 ISC0A	Internal Services
 006	Shared Services Canada
-BMO00	Information Technology Infrastructure Services
+BFS00	E-mail and Workplace Technology
+BFT00	Data Centres
+BFU00	Telecommunications
+BFV00	Cyber and IT Security
+BFW00	Program Management
+BFX00	Brokered Public Cloud Services
 ISC0A	Internal Services
 007	Canada Post Corporation
 ABU00	Canada Post Corporation
@@ -602,19 +647,44 @@ BJC00	Marine Atlantic Inc.
 BIZ00	VIA Rail Canada Inc.
 66	Treasury Board
 001	Treasury Board Secretariat
-BJV00	Government-wide Funds and Public Service Employer Payments
-DAC00	Decision-Making Support and Oversight
-DAD00	Management Policies Development and Monitoring
-DAE00	Government Wide Programs Design and Delivery
-ISC0A	Internal Services
+BXA00	Spending Oversight
+BXA01	Oversight and Treasury Board Support 
+BXA02	Expenditure Data, Analysis, and Reviews
+BXA03	Results and Performance Reporting Policies and Initiatives
+BXA04	Government-wide Funds
+BXB00	Administrative Leadership
+BXB01	Comptrollership Policies and Initiatives
+BXB02	Service Delivery Policies and Initiatives
+BXB03	Digital Technology and Security Policies and Initiatives
+BXB04	Management Accountability Framework and Policy Suite Integrity
+BXC00	Employer
+BXC01	Collective Bargaining and Labour Relations
+BXC02	Pension and Benefits Management
+BXC03	People Management and Executive Policies and Initiatives
+BXC04	Public Service Employer Payments
+BXD00	Regulatory Oversight
+BXD01	Regulatory Policy and Oversight
+BXD02	Regulatory Cooperation
+ISSA0	Internal support services core responsibility
+ISSA1	Management and Oversight
+ISSA2	Communications
+ISSA3	Legal
+ISSA4	Human Resources Management
+ISSA5	Financial Management
+ISSA6	Information Management
+ISSA7	Information Technology
+ISSA8	Real Property Management
+ISSA9	Materiel Management
+ISSAZ	Acquisition Management
 015	Canada School of Public Service
 DAS00	Learning Services
 ISC0A	Internal Services
 017	Office of the Commissioner of Lobbying
-BIO00	Registry of Lobbyists
-BIP00	Outreach and Education
-DAF00	Compliance and Enforcement
-ISC0A	Internal Services
+BVA00	Ensure transparency and accountability in the lobbying of public office holders in order to contribute to confidence in the integrity of government decision making
+BVA01	Registry of Lobbyists
+BVA02	Outreach and Education
+BVA03	Compliance and Enforcement
+ISSA0	Internal support services core responsibility
 018	Office of the Public Sector Integrity Commissioner
 BLB00	Disclosure and Reprisal Management Program
 ISC0A	Internal Services
@@ -630,6 +700,16 @@ LJQ00	Review and Appeal
 98	Other than Budgetary Expenditures
 981	Receiver General
 SAA00	Receiver General Operation
+SAA01	Consolidated Crown corporations and other entities-Agriculture and Agri-Food
+SAA02	Consolidated Crown corporations and other entities-Canadian Heritage
+SAA03	Consolidated Crown corporations and other entities-Finance
+SAA04	Consolidated Crown corporations and other entities-Global Affairs
+SAA05	Consolidated Crown corporations and other entities-Indigenous and Northern Affairs
+SAA06	Consolidated Crown corporations and other entities-Infrastructure and Communities
+SAA07	Consolidated Crown corporations and other entities-Innovation, Science and Economic Development
+SAA08	Consolidated Crown corporations and other entities-Natural Resources
+SAA09	Consolidated Crown corporations and other entities-Public Services and Procurement
+SAA10	Consolidated Crown corporations and other entities-Transport
 SBA00	Central Provision Allowance
 982	Superannuation
 SCA00	Superannuation Accounting

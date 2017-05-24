@@ -19,7 +19,7 @@ Number	Name
 021	Veterans Affairs (Department of)
 022	Health (Department of)
 023	Atlantic Canada Opportunities Agency
-024	International Joint Commission
+024	International Joint Commission (Canadian Section)
 025	Privy Council Office
 027	Natural Sciences and Engineering Research Council
 030	Royal Canadian Mounted Police
@@ -48,7 +48,6 @@ Number	Name
 061	Canadian Institutes of Health Research
 062	Federal Economic Development Agency for Southern Ontario
 063	Social Sciences and Humanities Research Council
-064	Indian Residential Schools Truth and Reconciliation Commission
 066	Northern Pipeline Agency
 067	House of Commons
 074	National Energy Board
@@ -77,7 +76,7 @@ Number	Name
 123	Export Development Canada (Crown Corporation)
 124	Parks Canada Agency
 127	Public Works and Government Services (Department of)
-130	Canada Revenue Agency-(Agency Activities)
+130	Canada Revenue Agency
 133	Canadian Grain Commission
 134	Canadian Dairy Commission
 135	Canadian Heritage (Department of)
@@ -91,10 +90,11 @@ Number	Name
 145	Library and Archives of Canada
 147	Office of the Conflict of Interest and Ethics Commissioner
 148	Public Health Agency of Canada
-151	Senate Ethics Officer
+151	Office of the Senate Ethics Officer
 154	Office of the Commissioner of Lobbying
 163	Shared Services Canada
 165	Communications Security Establishment
 170	Administrative Tribunals Support Service of Canada
 171	Canadian High Arctic Research Station
+176	Parliamentary Protective Service
 

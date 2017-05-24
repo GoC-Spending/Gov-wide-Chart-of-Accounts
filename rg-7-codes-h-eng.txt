@@ -49,6 +49,8 @@ A	Objects of expenditure
 0174	Employer contribution to hospital and medical plans
 0176	Employer contribution for disability insurance
 0177	Employer contributions-Other
+017	 Reallocation of expenditures under Standard object 01
+0179	Personnel-Reallocation of capital expenditures
 018	Supplementary personnel costs
 0181	Executive Interchange and other exchange programs
 0182	Supplementary employee benefits
@@ -82,6 +84,8 @@ A	Objects of expenditure
 0263	Non-public servant travel-Support internal governance
 0264	Non-public servant travel-Support employee training
 0265	Non-public servant travel-Other reasons
+029	Reallocation of expenditures under standard object 02
+0299	Transportation and communications-Reallocation of capital expenditures
 03	Information
 030	Advertising services
 0301	Advertising services
@@ -101,6 +105,8 @@ A	Objects of expenditure
 036	Subscriptions and data access services
 0361	Electronic subscriptions and electronic publications
 0362	Data and database access services
+039	Reallocation of expenditures under standard object 03
+0399	Information-Reallocation of capital expenditures
 04	Professional and special services
 040	Business services
 0401	Accounting and audit services
@@ -175,6 +181,7 @@ A	Objects of expenditure
 0890	Other administrative service that is designated by order of the Governor in Council
 0891	Personal services
 0892	Recreational services
+0899	Professional and special services-Reallocation of capital expenditures
 05	Rentals
 050	Rental of land
 0501	Rental of land
@@ -205,7 +212,9 @@ A	Objects of expenditure
 0566	Rental of ships
 057	Rental-Other
 0570	Rental-Other
-06	Purchased repair and maintenance
+059	Reallocation of expenditures under Standard object 05
+0599	Rentals-Reallocation of capital expenditures
+06	Repair and maintenance
 060	Repair of engineering works
 0601	Marine installations
 0607	Highways, roads and streets
@@ -237,6 +246,8 @@ A	Objects of expenditure
 0681	Road motor vehicles-Military
 0682	Road motor vehicles-Non-military
 0683	Miscellaneous vehicles
+069	Reallocation of expenditures under standard object 06
+0699	Purchased repair and maintenance-Reallocation of capital expenditures
 07	Utilities (standard object 07)
 070	Utility services
 0701	Electricity
@@ -244,6 +255,8 @@ A	Objects of expenditure
 0703	Sewer and water
 0705	Waste disposal
 0709	Other utility services
+079	Reallocation of expenditures under standard object 07
+1199	Utilities, materials and supplies-Reallocation of capital expenditures
 1	Goods, land, buildings and works
 11	Materials and supplies (standard object 07)
 111	Food, feed, beverages and tobacco
@@ -307,7 +320,7 @@ A	Objects of expenditure
 1291	Image/Video communications software (includes telepresence/video conferencing software)
 123	Acquisition of office equipment and furniture including parts
 1231	Office furniture and furnishings, including parts
-1239	Other office equipment and Parts
+1239	Other office equipment and parts
 124	Acquisition of equipment and furniture including parts
 1241	Plumbing equipment and fittings, including parts
 1242	Electric lighting, distribution and control equipment and Parts
@@ -331,6 +344,8 @@ A	Objects of expenditure
 127	Arms and ammunition
 1271	Weapons (including parts)
 1273	Ammunition
+129	Reallocation of expenditures under standard object 09
+1299	Acquisition of machinery and equipment-Reallocation of capital expenditures
 13	Acquisition of land, buildings and works (standard object 08)
 130	Acquisition of land
 1301	Acquisition of land
@@ -353,13 +368,15 @@ A	Objects of expenditure
 1369	Other non-residential buildings
 137	Acquisition of residential buildings
 1370	Residential buildings
+139	Reallocation of expenditures under standard object 08
+1399	Acquisition of land, buildings and works-Reallocation of capital expenditures
 2	Transfer payments (standard object 10)
 20	Transfer payments to persons
 200	Payments to senior citizens
 2001	Old age security payments
 201	Payments for pensions
 2011	Pensions World Wars I and II
-2012	War Veterans’ allowances
+2012	War Veterans' allowances
 2013	Pensions to former government employees not entitled under current superannuation acts
 2014	Payments to former civilians and uniformed personnel
 2019	Other payments for pensions
@@ -422,7 +439,7 @@ A	Objects of expenditure
 2244	Payments for environmental projects to provinces and territories
 2245	Crop insurance payments to provinces and territories
 2247	Assistance to provinces and territories to encourage employment
-2248	Canada-Nova Scotia Offshore Revenue Account and Fiscal Equalization Offshore Petroleum Resource Accord
+2248	Canada-Nova Scotia Offshore Revenue Account and Fiscal equalization Offshore Petroleum Resource Accord
 2249	Payments to provinces and territories for provincial highways, secondary and access roads
 2250	Transfer payments to territories for operating expenditures
 2253	Canada/Quebec accord on immigration
@@ -549,6 +566,7 @@ A	Objects of expenditure
 324	Discounts earned
 3241	Discounts/Rebates earned for early payment to suppliers or through the use of acquisition cards
 325	Miscellaneous expenditures
+3248	Damage and other claims against the Crown resulting from the Phoenix pay system transition
 3249	Court awards to industry
 3250	Court awards to persons
 3251	Damage and other claims against the Crown
@@ -564,6 +582,8 @@ A	Objects of expenditure
 3262	Adjustment of reserves for Loan Guarantees
 3263	Allowance for increase in value of certain financial obligations
 3269	Other adjustments
+329	Reallocation of expenditures under Standard object 12
+3299	Other subsidies and payments-Reallocation of capital expenditures
 3A	Expenditures from internal sources or for accounting purposes
 34	Other expenditures From Internal Sources or for Accounting Purposes (Standard Object 12)
 342	Amounts paid between or within departments for administrative overhead, or other charges
@@ -676,7 +696,6 @@ B	Objects for revenue
 4586	Not sufficient funds (NSF) administrative charges
 459	Miscellaneous
 4593	Miscellaneous
-4594	Adjustments to payables at year end (PAYE)
 4595	Respendable revenue-Systems applications and products (SAP) departments
 4598	Loan guarantee fees
 46	Other revenue-Cost recovery and other user charges
@@ -700,18 +719,6 @@ B	Objects for revenue
 466	Revenue from sales of products and services provided to or within government departments and agencies by revolving funds
 4670	Sales of goods and services-CORCAN Revolving Fund
 4679	Other
-47	Recovered other revenue
-471	Refunds of previous years expenditures
-4711	Refund of expenditures pertaining to purchased operating goods or services
-4712	Refund of expenditures pertaining to capital purchases
-4713	Refunds of Transfer payments to persons
-4714	Refunds of transfer payments-Subsidies
-4715	Refunds of Transfer payments to provinces and territories
-4716	Refunds of transfer payments-Other
-4717	Refunds of capital assistance
-4719	Other Refunds of previous years expenditures
-473	Repayment of recoverable items
-4731	Contribution recoveries
 48	Other revenue
 480	Return on investments-Interest on loans and advances
 4801	Interest on loans and advances from federal Crown corporations and agencies lending institutions
@@ -766,10 +773,10 @@ C	Objects for Assets, Liabilities and Other transactions
 501	Loans
 5010	Acquisition of loans with cash
 5011	Acquisition of loans with other assets
-5013	Loans to appropriation-dependent Crown corporations (ADCCs)
+5013	Loans to appropriation-dependent Crown corporations
 5015	Settlement of loans with cash
 5016	Settlement of loans with other assets
-5018	Repayment of loans from appropriation-dependent Crown corporations (ADCCs)
+5018	Repayment of loans from appropriation-dependent Crown corporations
 5020	Foreign currency translation of loans
 5021	Write-off of loans
 5029	Other adjustments to Loans
@@ -789,10 +796,10 @@ C	Objects for Assets, Liabilities and Other transactions
 5051	Acquisition of investments through capitalization of financial claims
 5052	Acquisition of investments with other assets
 5053	Investments in consolidated specified purpose accounts
-5054	Investments in appropriation-dependent Crown corporations (ADCCs)
+5054	Investments in appropriation-dependent Crown corporations
 5055	Disposal of investments for cash
 5056	Disposal of investments for other assets
-5057	Repayment of investments from appropriation-dependent Crown corporations (ADCCs)
+5057	Repayment of investments from appropriation-dependent Crown corporations
 5058	Repayment of investments by consolidated specified purpose accounts
 5060	Foreign currency translation of investments
 5061	Write-off of investments
@@ -976,22 +983,22 @@ C	Objects for Assets, Liabilities and Other transactions
 8339	Expenses-Other
 834	Cash balances
 8340	Net change-Cash in transit
-835	Accounts receivable of appropriation-dependant Crown corporations (ADCCs) (with outside parties)
+835	Accounts receivable of appropriation-dependant Crown corporations (with outside parties)
 8350	Net Change-Accounts receivable
 836	Loans, Investments and Advances by ADCC'S (With outside parties)
-8360	Net change-Loans, investment and advances by appropriation dependant Crown corporations(ADCCs)
-837	Accounts payable of appropriation-dependant Crown corporations (ADCCs) (with outside parties)
+8360	Net change-Loans, investment and advances by appropriation-dependant Crown corporations
+837	Accounts payable of appropriation-dependant Crown corporations (with outside parties)
 8371	Net change-Other liabilities ADCC
-838	Borrowings of appropriation dependant Crown corporations (ADCC'S) (with outside parties)
-8380	Net change-Other liabilities ADCC borrowings
-84	Government elimination of inter-entity transactions and balances consolidation of appropriation-dependent Crown corporations (ADCCs)
+838	Borrowings of appropriation dependant Crown corporations (with outside parties)
+8380	Net change-Other liabilities appropriation-dependent Crown corporations borrowings
+84	Government elimination of inter-entity transactions and balances consolidation of appropriation-dependent Crown corporations
 840	Government elimination of inter-entity revenue and expenditure transactions
 8400	Other revenue-Return on investments
 8402	Other revenue
 8419	Expenses-Other elimination inter-entity transactions
 842	Government elimination of inter-entity liability balances
-8422	Unmatured debt held by appropriation dependant Crown corporation's (ADCC's)
-8425	Specified purpose accounts-Due to appropriation dependant Crown corporation's (ADCC's)
+8422	Unmatured debt held by appropriation-dependant Crown corporations
+8425	Specified purpose accounts-Due to appropriation-dependant Crown corporations
 844	Government elimination of inter-entity asset balances
 8440	Elimination of inter-entity loans, investments or advances in ADCC
 8443	Allowance for valuation of assets and liabilities
